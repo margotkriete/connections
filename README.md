@@ -7,6 +7,7 @@ tasks:
 - [ ] add flashcard toggle mode - right-click flips to English word
 - [ ] determine data set: groupings of synonyms, etc.
 - [ ] add API to retrieve data set
+- [ ] add tests
 - [ ] [maybe, or just call it "practice mode"] track number of mistakes in board
 
 connection spinoffs to try:
