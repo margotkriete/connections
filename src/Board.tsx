@@ -18,13 +18,6 @@ const solution = {
   category4: ["tile4", "tile13", "tile14", "tile15"],
 };
 
-// tasks:
-// - when user clicks on an individual tile, it adds that tile to a potential solution
-// - when the user clicks on the 4th tile, check for membership of that grouping of 4
-// in the solution. if all 4 groupings are complete, game is won
-// - track number of mistakes in board
-// - track current guess
-
 const Board = () => {
   // const [remainingMistakes, setRemainingMistakes] = useState(4);
   const [currentGuess, setCurrentGuess] = useState([]);
