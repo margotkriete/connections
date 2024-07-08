@@ -1,6 +1,6 @@
 tasks:
 
-- [ ] add tile to `currentGuess` when user selects an individual tile
+- [x] add tile to `currentGuess` when user selects an individual tile
 - [ ] check if `currentGuess` is in solution when user clicks on the 4th tile
 - [ ] if `currentGuess` is in solution, disable its tiles
 - [ ] implement winning criteria/state (all tiles disabled, but something smarter than that)
