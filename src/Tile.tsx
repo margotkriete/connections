@@ -1,27 +1,21 @@
 import React from "react";
-import { useState } from "react";
 import styled from "styled-components";
 
 interface TileProps {
   phrase: string;
-  handleSelectedTile: () => {};
+  onTileSelection: () => void;
 }
 
-const TileButton = styled.button`
-  background-color: aqua;
+const TileButton = styled.button<{ $selected?: boolean }>`
+  background-color: ${(props) => (props.$selected ? "aqua" : "white")};
 `;
 
-const Tile = ({ phrase }: TileProps) => {
-  function handleSelected() {
-    setSelected(!selected);
-
-    // TODO: add tile to potential solution, which will need to live
-    // in Board state
-  }
-
-  const [selected, setSelected] = useState(false);
-
-  return <TileButton onClick={handleSelected}>{phrase}</TileButton>;
+const Tile = ({ phrase, onTileSelection, selected }) => {
+  return (
+    <TileButton $selected={selected} onClick={() => onTileSelection(phrase)}>
+      {phrase}
+    </TileButton>
+  );
 };
 
 export default Tile;
