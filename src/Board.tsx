@@ -9,14 +9,29 @@ const Grid = styled.div`
   grid-gap: 5px;
 `;
 
+const SubmitButton = styled.button`
+  background-color: yellow;
+`;
+
 const Board = ({ solution }) => {
-  const [currentGuess, setCurrentGuess] = useState([]);
+  const [currentGuess, setCurrentGuess] = useState<string[]>([]);
   const onTileSelection = (tile: string) => {
-    setCurrentGuess([...currentGuess, tile]);
+    if (!currentGuess.includes(tile) && currentGuess.length < 4) {
+      setCurrentGuess([...currentGuess, tile]);
+    } else {
+      setCurrentGuess(currentGuess.filter((t) => t != tile));
+    }
   };
 
-  let tiles = [];
-  solution.forEach((k, _) => {
+  const checkSolution = () => {
+    if (solution.includes(currentGuess)) {
+      console.log("found solution");
+    }
+  };
+
+  let tiles: string[] = [];
+  solution.forEach((k: string, _) => {
+    // TODO: shuffle these
     tiles = tiles.concat(k);
   });
 
@@ -24,14 +39,19 @@ const Board = ({ solution }) => {
     <>
       <Grid>
         {tiles.map((t) => (
-          <>
-            <Tile
-              selected={currentGuess.includes(t)}
-              phrase={t}
-              onTileSelection={onTileSelection}
-            />
-          </>
+          <Tile
+            selected={currentGuess.includes(t)}
+            phrase={t}
+            onTileSelection={onTileSelection}
+            key={t}
+          />
         ))}
+        <SubmitButton
+          disabled={currentGuess.length < 4}
+          onClick={checkSolution}
+        >
+          Submit
+        </SubmitButton>
       </Grid>
     </>
   );
