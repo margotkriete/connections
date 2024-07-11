@@ -10,7 +10,7 @@ const App = () => {
 
   return (
     <>
-      <h1>andiamo!</h1>
+      <h1>"connections"</h1>
       <Board solution={solution} />
     </>
   );
