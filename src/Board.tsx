@@ -6,13 +6,13 @@ import _ from "lodash";
 
 const Container = styled.div`
   display: grid;
-  grid-template-columns: 450px 200px;
-  grid-gap: 10px;
+  grid-template-columns: 50% 50%;
+  grid-gap: 70px;
 `;
 
 const Grid = styled.div`
   display: grid;
-  grid-template-columns: 100px 100px 100px 100px;
+  grid-template-columns: 25% 25% 25% 25%;
   grid-gap: 5px;
 `;
 
@@ -22,7 +22,7 @@ const SubmitButton = styled.button`
 
 const GUESS_LENGTH = 4;
 
-const Board = ({ solution }) => {
+const Board = ({ tiles }) => {
   const [currentGuess, setCurrentGuess] = useState<string[]>([]);
   const [mistakes, setMistakes] = useState(0);
   const [solvedCategories, setSolvedCategories] = useState<string[]>([]);
@@ -38,7 +38,8 @@ const Board = ({ solution }) => {
 
   const checkGuess = () => {
     let updated = false;
-    for (let [k, v] of solution) {
+    for (let [k, v] of tiles) {
+      // TODO: replace this with call to /guess
       if (_.isEqual(v, currentGuess)) {
         setSolvedCategories([...solvedCategories, k]);
         setCurrentGuess([]);
@@ -57,23 +58,17 @@ const Board = ({ solution }) => {
     }
   };
 
-  let tiles: string[] = [];
-  solution.forEach((k: string, _) => {
-    // TODO: shuffle these
-    tiles = tiles.concat(k);
-  });
-
   return (
     <>
       {/* {showSolvedModal && <>todo: fill this in with solution</>} */}
       <Container>
         <Grid>
-          {tiles.map((t) => (
+          {tiles.map((tile: string, i: number) => (
             <Tile
-              selected={currentGuess.includes(t)}
-              phrase={t}
+              selected={currentGuess.includes(tile)}
+              phrase={tile}
               onTileSelection={onTileSelection}
-              key={t}
+              key={i}
             />
           ))}
           <SubmitButton disabled={currentGuess.length < 4} onClick={checkGuess}>
