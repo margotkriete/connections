@@ -1,7 +1,7 @@
 import json
 import random
 
-from flask import Flask
+from flask import Flask, request
 from flask_cors import CORS
 
 app = Flask(__name__)
@@ -14,6 +14,7 @@ with open("groups.json") as f:
 
 @app.route("/groups")
 def retrieve_groups():
+    print("retrieving groups")
     rand_num = random.randrange(0, len(groups) - 4)
     items = [
         i.replace("_", " ")
@@ -24,11 +25,14 @@ def retrieve_groups():
     return items
 
 
-@app.route("/guess", methods=["GET"])
+@app.route("/guess")
 def submit_guess():
+    for item in request.args:
+        print("item", item)
+        guess = item.get("guess[]")
     # add separate /guess endpoint to look up category
     # probably cache categories too? or store in DB
-    return
+    return {"success": True}
 
 
 if __name__ == "__main__":

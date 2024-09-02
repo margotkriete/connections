@@ -3,6 +3,7 @@ import styled from "styled-components";
 import Tile from "./Tile";
 import { useState } from "react";
 import _ from "lodash";
+import { checkGuess } from "./api";
 
 const Container = styled.div`
   display: grid;
@@ -36,16 +37,16 @@ const Board = ({ tiles }) => {
     }
   };
 
-  const checkGuess = () => {
+  const submitGuess = () => {
     let updated = false;
-    for (let [k, v] of tiles) {
-      // TODO: replace this with call to /guess
-      if (_.isEqual(v, currentGuess)) {
-        setSolvedCategories([...solvedCategories, k]);
-        setCurrentGuess([]);
-        updated = true;
-        break;
-      }
+    // TODO: urlencode request
+    const resp = checkGuess({ guess: currentGuess });
+    if (resp.success) {
+      // TODO: return category to update
+      setSolvedCategories([...solvedCategories, k]);
+      updated = true;
+      setCurrentGuess([]);
+      return;
     }
     if (solvedCategories.length == 4) {
       setShowSolvedModal(true);
@@ -71,7 +72,10 @@ const Board = ({ tiles }) => {
               key={i}
             />
           ))}
-          <SubmitButton disabled={currentGuess.length < 4} onClick={checkGuess}>
+          <SubmitButton
+            disabled={currentGuess.length < 4}
+            onClick={submitGuess}
+          >
             Submit
           </SubmitButton>
         </Grid>
