@@ -37,13 +37,11 @@ const Board = ({ tiles }) => {
     }
   };
 
-  const submitGuess = () => {
+  const submitGuess = async () => {
     let updated = false;
-    // TODO: urlencode request
-    const resp = checkGuess({ guess: currentGuess });
-    if (resp.success) {
-      // TODO: return category to update
-      setSolvedCategories([...solvedCategories, k]);
+    const resp = await checkGuess({ guess: currentGuess });
+    if (resp?.data["correct"]) {
+      setSolvedCategories([...solvedCategories, resp?.data["category"]]);
       updated = true;
       setCurrentGuess([]);
       return;

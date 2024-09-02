@@ -7,18 +7,19 @@ from flask_cors import CORS
 app = Flask(__name__)
 CORS(app)
 
+GUESS_LENGTH = 4
+GROUP_LENGTH = 4
 
 with open("groups.json") as f:
     groups = json.load(f)
+SEED = random.randrange(0, len(groups) - GROUP_LENGTH)
 
 
 @app.route("/groups")
 def retrieve_groups():
-    print("retrieving groups")
-    rand_num = random.randrange(0, len(groups) - 4)
     items = [
         i.replace("_", " ")
-        for group in groups[rand_num : rand_num + 4]
+        for group in groups[SEED : SEED + GROUP_LENGTH]
         for i in group["items"]
     ]
     random.shuffle(items)
@@ -27,12 +28,13 @@ def retrieve_groups():
 
 @app.route("/guess")
 def submit_guess():
-    for item in request.args:
-        print("item", item)
-        guess = item.get("guess[]")
-    # add separate /guess endpoint to look up category
-    # probably cache categories too? or store in DB
-    return {"success": True}
+    guesses = request.args.getlist("guess[]")
+    if len(guesses) != GUESS_LENGTH:
+        return {"error": True}
+    for category in groups[SEED : SEED + GROUP_LENGTH]:
+        if set(guesses) == set(category["items"]):
+            return {"correct": True, "category": category}
+    return {"correct": False}
 
 
 if __name__ == "__main__":
