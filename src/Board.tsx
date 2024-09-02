@@ -27,7 +27,7 @@ const Board = ({ tiles }) => {
   const [currentGuess, setCurrentGuess] = useState<string[]>([]);
   const [mistakes, setMistakes] = useState(0);
   const [solvedCategories, setSolvedCategories] = useState<string[]>([]);
-  const [showSolvedModal, setShowSolvedModal] = useState(false);
+  const [disabledTiles, setDisabledTiles] = useState<string[]>([]);
 
   const onTileSelection = (tile: string) => {
     if (!currentGuess.includes(tile) && currentGuess.length < GUESS_LENGTH) {
@@ -38,28 +38,22 @@ const Board = ({ tiles }) => {
   };
 
   const submitGuess = async () => {
-    let updated = false;
     const resp = await checkGuess({ guess: currentGuess });
     if (resp?.data["correct"]) {
       setSolvedCategories([...solvedCategories, resp?.data["category"]]);
-      updated = true;
+      setDisabledTiles([...disabledTiles, ...currentGuess]);
       setCurrentGuess([]);
       return;
     }
     if (solvedCategories.length == 4) {
-      setShowSolvedModal(true);
-    }
-    setCurrentGuess([]);
-    if (!updated) {
-      setMistakes(mistakes + 1);
-    } else {
+      setCurrentGuess([]);
       return;
     }
+    setMistakes(mistakes + 1);
   };
 
   return (
     <>
-      {/* {showSolvedModal && <>todo: fill this in with solution</>} */}
       <Container>
         <Grid>
           {tiles.map((tile: string, i: number) => (
@@ -68,6 +62,7 @@ const Board = ({ tiles }) => {
               phrase={tile}
               onTileSelection={onTileSelection}
               key={i}
+              disabled={disabledTiles.includes(tile)}
             />
           ))}
           <SubmitButton
