@@ -1,0 +1,9641 @@
+[
+    {
+        "category": "anima",
+        "items": [
+            "essere_umano",
+            "individuo",
+            "mortale",
+            "persona"
+        ]
+    },
+    {
+        "category": "bisogno",
+        "items": [
+            "motivazione",
+            "motivo",
+            "movente",
+            "necessità"
+        ]
+    },
+    {
+        "category": "amorevolezza",
+        "items": [
+            "attenzione",
+            "atto_di_cortesia",
+            "carità",
+            "cortesia"
+        ]
+    },
+    {
+        "category": "affermazione",
+        "items": [
+            "attuamento",
+            "attuazione",
+            "concretizzazione",
+            "conseguimento"
+        ]
+    },
+    {
+        "category": "immatricolazione",
+        "items": [
+            "intestazione",
+            "iscrizione",
+            "matricolazione",
+            "registrazione"
+        ]
+    },
+    {
+        "category": "amarraggio",
+        "items": [
+            "ammarraggio",
+            "attraccaggio",
+            "attracco",
+            "ormeggio"
+        ]
+    },
+    {
+        "category": "conquista",
+        "items": [
+            "conseguimento",
+            "raggiungimento",
+            "realizzazione",
+            "risultato_ottenuto"
+        ]
+    },
+    {
+        "category": "colpa",
+        "items": [
+            "errore",
+            "fallo",
+            "mancanza",
+            "marrone"
+        ]
+    },
+    {
+        "category": "dimenticanza",
+        "items": [
+            "disattenzione",
+            "disavvertenza",
+            "inavvedutezza",
+            "lapsus"
+        ]
+    },
+    {
+        "category": "abbaglio",
+        "items": [
+            "abbarbagliamento",
+            "biscanto",
+            "cantonata",
+            "cerpellone"
+        ]
+    },
+    {
+        "category": "caduta",
+        "items": [
+            "capitombolo",
+            "cascata",
+            "grifata",
+            "rotolone"
+        ]
+    },
+    {
+        "category": "recupero",
+        "items": [
+            "riacquisto",
+            "ricompera",
+            "ricompra",
+            "ricupero"
+        ]
+    },
+    {
+        "category": "aggiogamento",
+        "items": [
+            "assoggettamento",
+            "conquista",
+            "soggiogamento",
+            "sottomissione"
+        ]
+    },
+    {
+        "category": "effettuazione",
+        "items": [
+            "esecuzione",
+            "eseguimento",
+            "esplicazione",
+            "performance"
+        ]
+    },
+    {
+        "category": "automaticizzazione",
+        "items": [
+            "automatizzazione",
+            "automazione",
+            "meccanizzazione",
+            "robotizzazione"
+        ]
+    },
+    {
+        "category": "ceffata",
+        "items": [
+            "ceffone",
+            "sganascione",
+            "sganassone",
+            "sventola"
+        ]
+    },
+    {
+        "category": "commisurazione",
+        "items": [
+            "comparazione",
+            "confronto",
+            "paragone",
+            "raffronto"
+        ]
+    },
+    {
+        "category": "allacciatura",
+        "items": [
+            "annodamento",
+            "annodatura",
+            "legamento",
+            "legatura"
+        ]
+    },
+    {
+        "category": "autentica",
+        "items": [
+            "autenticazione",
+            "certificazione",
+            "expertise",
+            "legalizzazione"
+        ]
+    },
+    {
+        "category": "adozione",
+        "items": [
+            "cerna",
+            "cernita",
+            "cernitura",
+            "scelta"
+        ]
+    },
+    {
+        "category": "artificio",
+        "items": [
+            "astuzia",
+            "escamotage",
+            "espediente",
+            "gherminella"
+        ]
+    },
+    {
+        "category": "bilanciamento",
+        "items": [
+            "conciliazione",
+            "conguagliamento",
+            "conguaglio",
+            "pareggiamento"
+        ]
+    },
+    {
+        "category": "alterazione",
+        "items": [
+            "cambiamento",
+            "miglioria",
+            "modifica",
+            "permutamento"
+        ]
+    },
+    {
+        "category": "allontanamento",
+        "items": [
+            "cacciata",
+            "discacciamento",
+            "eccettuazione",
+            "esclusione"
+        ]
+    },
+    {
+        "category": "allontanamento",
+        "items": [
+            "defenestrazione",
+            "deposizione",
+            "destituzione",
+            "remozione"
+        ]
+    },
+    {
+        "category": "annientamento",
+        "items": [
+            "annullamento",
+            "devastamento",
+            "devastazione",
+            "distruggimento"
+        ]
+    },
+    {
+        "category": "calamità",
+        "items": [
+            "carneficina",
+            "catastrofe",
+            "disastro",
+            "patatrac"
+        ]
+    },
+    {
+        "category": "evaporazione",
+        "items": [
+            "evaporizzazione",
+            "vaporazione",
+            "vaporizzazione",
+            "volatilizzazione"
+        ]
+    },
+    {
+        "category": "ammazzamento",
+        "items": [
+            "assassinio",
+            "mattanza",
+            "omicidio",
+            "sterminio"
+        ]
+    },
+    {
+        "category": "abbattimento",
+        "items": [
+            "ecatombe",
+            "macellamento",
+            "macellazione",
+            "macello"
+        ]
+    },
+    {
+        "category": "carnaio",
+        "items": [
+            "carneficina",
+            "ecatombe",
+            "eccidio",
+            "falcidia"
+        ]
+    },
+    {
+        "category": "soffocamento",
+        "items": [
+            "soffocazione",
+            "strangolamento",
+            "strangolatura",
+            "strangolazione"
+        ]
+    },
+    {
+        "category": "apertura",
+        "items": [
+            "avviamento",
+            "avvio",
+            "cominciamento",
+            "incominciamento"
+        ]
+    },
+    {
+        "category": "avviamento",
+        "items": [
+            "debutto",
+            "entrata",
+            "esordio",
+            "instaurazione"
+        ]
+    },
+    {
+        "category": "abbrustolimento",
+        "items": [
+            "doratura",
+            "rosolatura",
+            "torrefazione",
+            "tostatura"
+        ]
+    },
+    {
+        "category": "allessatura",
+        "items": [
+            "bollire",
+            "bollita",
+            "cotta",
+            "cottura"
+        ]
+    },
+    {
+        "category": "avanzamento",
+        "items": [
+            "passo_avanti",
+            "passo_in_avanti",
+            "progresso",
+            "sviluppo"
+        ]
+    },
+    {
+        "category": "abluzione",
+        "items": [
+            "bucato",
+            "lavaggio",
+            "lavanda",
+            "lavata"
+        ]
+    },
+    {
+        "category": "compensazione",
+        "items": [
+            "indennizzo",
+            "ricompensa",
+            "riequilibrio",
+            "risarcimento"
+        ]
+    },
+    {
+        "category": "ammodernamento",
+        "items": [
+            "innovazione",
+            "modernizzazione",
+            "rammodernamento",
+            "rimodernamento"
+        ]
+    },
+    {
+        "category": "acutizzazione",
+        "items": [
+            "aggravamento",
+            "appesantimento",
+            "esacerbamento",
+            "inasprimento"
+        ]
+    },
+    {
+        "category": "aggiustamento",
+        "items": [
+            "aggiustatura",
+            "ammenda",
+            "rassettatura",
+            "riattamento"
+        ]
+    },
+    {
+        "category": "annaffiamento",
+        "items": [
+            "annaffiata",
+            "annaffiatura",
+            "innaffiamento",
+            "innaffiata"
+        ]
+    },
+    {
+        "category": "escursione",
+        "items": [
+            "gita",
+            "scorribanda",
+            "uscita",
+            "viaggetto"
+        ]
+    },
+    {
+        "category": "assestamento",
+        "items": [
+            "assesto",
+            "assettamento",
+            "regolazione",
+            "riassestamento"
+        ]
+    },
+    {
+        "category": "abbassamento",
+        "items": [
+            "aguzzamento",
+            "assottigliamento",
+            "attenuazione",
+            "calo"
+        ]
+    },
+    {
+        "category": "alleggerimento",
+        "items": [
+            "alleviamento",
+            "attenuazione",
+            "lenimento",
+            "sgravio"
+        ]
+    },
+    {
+        "category": "abbreviamento",
+        "items": [
+            "abbreviazione",
+            "accorciamento",
+            "accorciatura",
+            "scorciamento"
+        ]
+    },
+    {
+        "category": "aumento",
+        "items": [
+            "caro",
+            "lievitazione",
+            "rialzo",
+            "rincaro"
+        ]
+    },
+    {
+        "category": "allargamento",
+        "items": [
+            "allargatura",
+            "ampliamento",
+            "espandimento",
+            "espansione"
+        ]
+    },
+    {
+        "category": "dispersione",
+        "items": [
+            "spandimento",
+            "spanditura",
+            "spargimento",
+            "sparpagliamento"
+        ]
+    },
+    {
+        "category": "accumulazione",
+        "items": [
+            "accumulo",
+            "affardellamento",
+            "ammassamento",
+            "cumulazione"
+        ]
+    },
+    {
+        "category": "frantumazione",
+        "items": [
+            "sconquassamento",
+            "sfasciamento",
+            "sgretolamento",
+            "sgretolio"
+        ]
+    },
+    {
+        "category": "impasto",
+        "items": [
+            "mescolamento",
+            "mescolanza",
+            "mescolata",
+            "mescolatura"
+        ]
+    },
+    {
+        "category": "denudamento",
+        "items": [
+            "denudazione",
+            "scartocciatura",
+            "spogliatura",
+            "svestimento"
+        ]
+    },
+    {
+        "category": "alterazione",
+        "items": [
+            "cambiamento",
+            "conversione",
+            "divenire",
+            "mutamento"
+        ]
+    },
+    {
+        "category": "riforestazione",
+        "items": [
+            "rimboscamento",
+            "rimboschimento",
+            "ripopolamento",
+            "ripopolazione"
+        ]
+    },
+    {
+        "category": "detrimento",
+        "items": [
+            "intaccamento",
+            "lesione",
+            "nocimento",
+            "nocumento"
+        ]
+    },
+    {
+        "category": "abitudine",
+        "items": [
+            "consuetudine",
+            "costume",
+            "moda",
+            "modo"
+        ]
+    },
+    {
+        "category": "angheria",
+        "items": [
+            "dispetto",
+            "disturbo",
+            "irritazione",
+            "molestia"
+        ]
+    },
+    {
+        "category": "baia",
+        "items": [
+            "birbonaggine",
+            "birbonata",
+            "birichinata",
+            "birichineria"
+        ]
+    },
+    {
+        "category": "diporto",
+        "items": [
+            "distrazione",
+            "divertimento",
+            "intrattenimento",
+            "sollazzamento"
+        ]
+    },
+    {
+        "category": "baia",
+        "items": [
+            "beffa",
+            "burla",
+            "burletta",
+            "canzonatura"
+        ]
+    },
+    {
+        "category": "nascondarello",
+        "items": [
+            "nascondino",
+            "rimpiattarello",
+            "rimpiatterello",
+            "rimpiattino"
+        ]
+    },
+    {
+        "category": "bagordo",
+        "items": [
+            "baldoria",
+            "bisboccia",
+            "carnevalata",
+            "gozzovigliata"
+        ]
+    },
+    {
+        "category": "arlecchinata",
+        "items": [
+            "baggianata",
+            "buffonaggine",
+            "buffonata",
+            "buffoneria"
+        ]
+    },
+    {
+        "category": "canzonatura",
+        "items": [
+            "minchionatura",
+            "motteggiamento",
+            "satira",
+            "sbeffeggiamento"
+        ]
+    },
+    {
+        "category": "PSEUDOGAP!",
+        "items": [
+            "spettacolo_di_spogliarello",
+            "spogliarello",
+            "strip-tease",
+            "striptease"
+        ]
+    },
+    {
+        "category": "cancan",
+        "items": [
+            "chiassata",
+            "chiasso",
+            "clamore",
+            "confusione"
+        ]
+    },
+    {
+        "category": "bloccaggio",
+        "items": [
+            "occlusione",
+            "ostruzione",
+            "otturamento",
+            "otturazione"
+        ]
+    },
+    {
+        "category": "attività",
+        "items": [
+            "comportamento",
+            "funzionamento",
+            "funzione",
+            "operatività"
+        ]
+    },
+    {
+        "category": "attività",
+        "items": [
+            "impiego",
+            "lavoro",
+            "mestiere",
+            "occupazione"
+        ]
+    },
+    {
+        "category": "deciframento",
+        "items": [
+            "decifrazione",
+            "decodifica",
+            "decodificazione",
+            "decriptazione"
+        ]
+    },
+    {
+        "category": "briga",
+        "items": [
+            "contrarietà",
+            "difficoltà",
+            "disagio",
+            "guaio"
+        ]
+    },
+    {
+        "category": "accuratezza",
+        "items": [
+            "applicazione",
+            "assiduità",
+            "impegno",
+            "scrupolo"
+        ]
+    },
+    {
+        "category": "indagazione",
+        "items": [
+            "indagine",
+            "investigamento",
+            "investigazione",
+            "quest"
+        ]
+    },
+    {
+        "category": "calcolo",
+        "items": [
+            "computo",
+            "conta",
+            "conteggio",
+            "supputazione"
+        ]
+    },
+    {
+        "category": "frega",
+        "items": [
+            "fregagione",
+            "frizione",
+            "massaggio",
+            "strofinamento"
+        ]
+    },
+    {
+        "category": "clisma",
+        "items": [
+            "clistere",
+            "enteroclisi",
+            "enteroclisma",
+            "eteroclisma"
+        ]
+    },
+    {
+        "category": "X-terapia",
+        "items": [
+            "gammaterapia",
+            "radioterapia",
+            "radiumterapia",
+            "roentgenterapia"
+        ]
+    },
+    {
+        "category": "birbantaggine",
+        "items": [
+            "birbanteria",
+            "birboneria",
+            "canagliata",
+            "cialtroneria"
+        ]
+    },
+    {
+        "category": "dispendio",
+        "items": [
+            "dissipazione",
+            "logorio",
+            "profusione",
+            "scialo"
+        ]
+    },
+    {
+        "category": "dilapidamento",
+        "items": [
+            "dilapidazione",
+            "dissipazione",
+            "scialacquamento",
+            "sperperamento"
+        ]
+    },
+    {
+        "category": "immoralità",
+        "items": [
+            "iniquità",
+            "male",
+            "malvagità",
+            "scelleratezza"
+        ]
+    },
+    {
+        "category": "abbindolamento",
+        "items": [
+            "abbindolatura",
+            "bindolo",
+            "inghippo",
+            "raggiro"
+        ]
+    },
+    {
+        "category": "affettazione",
+        "items": [
+            "leziosaggine",
+            "leziosità",
+            "ricercatezza",
+            "sciropposità"
+        ]
+    },
+    {
+        "category": "colpa",
+        "items": [
+            "errore",
+            "male",
+            "peccato",
+            "vizio"
+        ]
+    },
+    {
+        "category": "boria",
+        "items": [
+            "gonfiaggine",
+            "presunzione",
+            "superbia",
+            "supponenza"
+        ]
+    },
+    {
+        "category": "avarizia",
+        "items": [
+            "bramosia",
+            "bramosità",
+            "cupidigia",
+            "cupidità"
+        ]
+    },
+    {
+        "category": "accidia",
+        "items": [
+            "indolenza",
+            "poltronaggine",
+            "poltroneria",
+            "scioperataggine"
+        ]
+    },
+    {
+        "category": "crimine",
+        "items": [
+            "delitto",
+            "fattaccio",
+            "illecito",
+            "misfatto"
+        ]
+    },
+    {
+        "category": "adulteramento",
+        "items": [
+            "adulterazione",
+            "alterazione",
+            "contraffazione",
+            "falsamento"
+        ]
+    },
+    {
+        "category": "baratteria",
+        "items": [
+            "fraudolenza",
+            "frode",
+            "imbroglio",
+            "raggiro"
+        ]
+    },
+    {
+        "category": "bidonata",
+        "items": [
+            "bidone",
+            "buggerata",
+            "buggeratura",
+            "fregata"
+        ]
+    },
+    {
+        "category": "furto",
+        "items": [
+            "ladreria",
+            "ladrocinio",
+            "ladroneccio",
+            "latrocinio"
+        ]
+    },
+    {
+        "category": "impresa_collettiva",
+        "items": [
+            "impresa_in_partecipazione",
+            "joint_venture",
+            "joint-venture",
+            "società_a_capitale_misto"
+        ]
+    },
+    {
+        "category": "fatica",
+        "items": [
+            "impresa",
+            "prova",
+            "sforzo",
+            "tentativo"
+        ]
+    },
+    {
+        "category": "aiuto",
+        "items": [
+            "collaborazione",
+            "concorso",
+            "contributo",
+            "contribuzione"
+        ]
+    },
+    {
+        "category": "compito",
+        "items": [
+            "faccenda",
+            "incarico",
+            "incombente",
+            "incombenza"
+        ]
+    },
+    {
+        "category": "accoppiamento",
+        "items": [
+            "amplesso",
+            "atto_sessuale",
+            "coito",
+            "concubito"
+        ]
+    },
+    {
+        "category": "adulterio",
+        "items": [
+            "fornicazione",
+            "infedeltà",
+            "prodizione",
+            "tradimento"
+        ]
+    },
+    {
+        "category": "dormitina",
+        "items": [
+            "pennichella",
+            "pisolino",
+            "riposino",
+            "sonnellino"
+        ]
+    },
+    {
+        "category": "sbalzo",
+        "items": [
+            "scatto",
+            "sobbalzo",
+            "soprassalto",
+            "sussulto"
+        ]
+    },
+    {
+        "category": "guardata",
+        "items": [
+            "occhiata",
+            "passata",
+            "sguardo",
+            "vista"
+        ]
+    },
+    {
+        "category": "controllo",
+        "items": [
+            "ispezione",
+            "rassegna",
+            "sopralluogo",
+            "sopraluogo"
+        ]
+    },
+    {
+        "category": "addestramento",
+        "items": [
+            "allenamento",
+            "ammaestramento",
+            "avviamento",
+            "istruzione"
+        ]
+    },
+    {
+        "category": "addestramento",
+        "items": [
+            "allenamento",
+            "esercitazione",
+            "esercizio",
+            "pratica"
+        ]
+    },
+    {
+        "category": "acquicoltura",
+        "items": [
+            "enidrocoltura",
+            "idrocoltura",
+            "idrocultura",
+            "idroponica"
+        ]
+    },
+    {
+        "category": "perforazione",
+        "items": [
+            "sondaggio",
+            "traforo",
+            "trapanatura",
+            "trapanazione"
+        ]
+    },
+    {
+        "category": "battaglia",
+        "items": [
+            "combattimento",
+            "conflitto",
+            "lotta",
+            "scontro"
+        ]
+    },
+    {
+        "category": "fronda",
+        "items": [
+            "insurrezione",
+            "moto",
+            "ribellione",
+            "rivolta"
+        ]
+    },
+    {
+        "category": "mitragliata",
+        "items": [
+            "raffica",
+            "salva",
+            "scarica",
+            "sventagliata"
+        ]
+    },
+    {
+        "category": "inquadramento",
+        "items": [
+            "ordinamento",
+            "organizzazione",
+            "rassettamento",
+            "rassetto"
+        ]
+    },
+    {
+        "category": "altalena",
+        "items": [
+            "alternanza",
+            "alternazione",
+            "avvicendamento",
+            "intercambiabilità"
+        ]
+    },
+    {
+        "category": "continuamento",
+        "items": [
+            "continuazione",
+            "prosecuzione",
+            "proseguimento",
+            "prosieguo"
+        ]
+    },
+    {
+        "category": "iter",
+        "items": [
+            "procedimento",
+            "procedura",
+            "processo",
+            "trafila"
+        ]
+    },
+    {
+        "category": "renaissance",
+        "items": [
+            "revival",
+            "rifioritura",
+            "rinascita",
+            "riproposta"
+        ]
+    },
+    {
+        "category": "ammantatura",
+        "items": [
+            "dissimulazione",
+            "nascondimento",
+            "occultamento",
+            "ricoperta"
+        ]
+    },
+    {
+        "category": "apporto",
+        "items": [
+            "approvvigionamento",
+            "delivery",
+            "erogazione",
+            "fornitura"
+        ]
+    },
+    {
+        "category": "dubitazione",
+        "items": [
+            "esitamento",
+            "esitazione",
+            "oscitanza",
+            "peritanza"
+        ]
+    },
+    {
+        "category": "aggiornamento",
+        "items": [
+            "differimento",
+            "dilazione",
+            "posticipazione",
+            "procrastinamento"
+        ]
+    },
+    {
+        "category": "advertising",
+        "items": [
+            "propaganda_commerciale",
+            "pubblicità",
+            "publicizzazione",
+            "reclame"
+        ]
+    },
+    {
+        "category": "saldo",
+        "items": [
+            "saldo_di_liquidazione",
+            "svendita",
+            "svendita_di_liquidazione",
+            "vendita_di_liquidazione"
+        ]
+    },
+    {
+        "category": "adempimento",
+        "items": [
+            "attuazione",
+            "effettuazione",
+            "espletamento",
+            "espletazione"
+        ]
+    },
+    {
+        "category": "debito",
+        "items": [
+            "dovere",
+            "impegno",
+            "obbligo",
+            "responsabilità"
+        ]
+    },
+    {
+        "category": "amministrazione",
+        "items": [
+            "conduzione",
+            "direzione",
+            "dirigenza",
+            "gerenza"
+        ]
+    },
+    {
+        "category": "controllo",
+        "items": [
+            "soprintendenza",
+            "sorveglianza",
+            "sovrintendenza",
+            "supervisione"
+        ]
+    },
+    {
+        "category": "riassetto",
+        "items": [
+            "ricostituzione",
+            "rifondazione",
+            "riordinamento",
+            "riordino"
+        ]
+    },
+    {
+        "category": "allestimento",
+        "items": [
+            "apparecchiatura",
+            "apprestamento",
+            "approntamento",
+            "montaggio"
+        ]
+    },
+    {
+        "category": "arresto",
+        "items": [
+            "carcerazione",
+            "carcere",
+            "detenzione",
+            "imprigionamento"
+        ]
+    },
+    {
+        "category": "antifemminismo",
+        "items": [
+            "fallocrazia",
+            "machismo",
+            "maschilismo",
+            "maschismo"
+        ]
+    },
+    {
+        "category": "arrolamento",
+        "items": [
+            "arruolamento",
+            "coscrizione",
+            "leva",
+            "naia"
+        ]
+    },
+    {
+        "category": "bastonatura",
+        "items": [
+            "batosta",
+            "battuta",
+            "legnata",
+            "pestata"
+        ]
+    },
+    {
+        "category": "carceramento",
+        "items": [
+            "carcerazione",
+            "carcere",
+            "detenzione",
+            "imprigionamento"
+        ]
+    },
+    {
+        "category": "curbasciata",
+        "items": [
+            "flagellamento",
+            "flagellazione",
+            "frustata",
+            "fustigazione"
+        ]
+    },
+    {
+        "category": "antagonismo",
+        "items": [
+            "competizione",
+            "concorrenza",
+            "gara",
+            "gareggiamento"
+        ]
+    },
+    {
+        "category": "battaglia",
+        "items": [
+            "certame",
+            "combattimento",
+            "lotta",
+            "rissa"
+        ]
+    },
+    {
+        "category": "colluttazione",
+        "items": [
+            "mischia",
+            "strascichio",
+            "tafferuglio",
+            "zuffa"
+        ]
+    },
+    {
+        "category": "baruffa",
+        "items": [
+            "mischia",
+            "pestaggio",
+            "rissa",
+            "zuffa"
+        ]
+    },
+    {
+        "category": "causa",
+        "items": [
+            "contenzioso",
+            "controversia",
+            "giudizio",
+            "lite"
+        ]
+    },
+    {
+        "category": "borghesismo",
+        "items": [
+            "conformismo",
+            "convenzionalismo",
+            "filisteismo",
+            "ottemperanza"
+        ]
+    },
+    {
+        "category": "raccozzamento",
+        "items": [
+            "rappacificamento",
+            "rappacificazione",
+            "ravvicinamento",
+            "riavvicinamento"
+        ]
+    },
+    {
+        "category": "aiuto",
+        "items": [
+            "assistenza",
+            "ausilio",
+            "man_forte",
+            "manforte"
+        ]
+    },
+    {
+        "category": "affronto",
+        "items": [
+            "ingiuria",
+            "insulto",
+            "offesa",
+            "oltraggio"
+        ]
+    },
+    {
+        "category": "beneficio",
+        "items": [
+            "cortesia",
+            "favore",
+            "gentilezza",
+            "piacere"
+        ]
+    },
+    {
+        "category": "adunanza",
+        "items": [
+            "adunata",
+            "assemblea",
+            "radunata",
+            "riunione"
+        ]
+    },
+    {
+        "category": "balordaggine",
+        "items": [
+            "bambocciata",
+            "castronaggine",
+            "castroneria",
+            "cavolata"
+        ]
+    },
+    {
+        "category": "emanazione",
+        "items": [
+            "emissione",
+            "esalamento",
+            "esalazione",
+            "sprigionamento"
+        ]
+    },
+    {
+        "category": "deforestamento",
+        "items": [
+            "deforestazione",
+            "diboscamento",
+            "disboscamento",
+            "sboscamento"
+        ]
+    },
+    {
+        "category": "Carcharodon_carcharias",
+        "items": [
+            "grande_squalo_bianco",
+            "pesce_cane",
+            "pescecane",
+            "squalo_bianco"
+        ]
+    },
+    {
+        "category": "pennuto",
+        "items": [
+            "uccello",
+            "volatile",
+            "volatio",
+            "volativo"
+        ]
+    },
+    {
+        "category": "ballerina",
+        "items": [
+            "batticoda",
+            "boarina",
+            "bovarina",
+            "cutrettola"
+        ]
+    },
+    {
+        "category": "Carduelis_spinus",
+        "items": [
+            "lucarino",
+            "lucherino",
+            "lugarino",
+            "lugaro"
+        ]
+    },
+    {
+        "category": "Loxia_curvirostra",
+        "items": [
+            "becchincroce",
+            "becco_in_croce",
+            "crociere",
+            "crocione"
+        ]
+    },
+    {
+        "category": "Meleagris_gallopavo",
+        "items": [
+            "dindio",
+            "dindo",
+            "tacchino",
+            "tacchino_comune"
+        ]
+    },
+    {
+        "category": "Physeter_catodon",
+        "items": [
+            "Physeter_macrophalus",
+            "capidoglio",
+            "capodoglio",
+            "fisetere"
+        ]
+    },
+    {
+        "category": "caccia",
+        "items": [
+            "cacciagione",
+            "selvaggina",
+            "selvaggiume",
+            "selvatico"
+        ]
+    },
+    {
+        "category": "artiglio",
+        "items": [
+            "granfia",
+            "grinfia",
+            "ranfia",
+            "sgrinfia"
+        ]
+    },
+    {
+        "category": "Forficola",
+        "items": [
+            "Forficula",
+            "forbicina",
+            "forfecchia",
+            "forficola"
+        ]
+    },
+    {
+        "category": "Rattus_norvegicus",
+        "items": [
+            "ratto_di_fogna",
+            "ratto_grigio",
+            "surmolotto",
+            "surmulotto"
+        ]
+    },
+    {
+        "category": "Ondatra_zibethica",
+        "items": [
+            "ondatra",
+            "rat_musquè",
+            "ratto_muschiato",
+            "topo_muschiato"
+        ]
+    },
+    {
+        "category": "Aepyceros_melampus",
+        "items": [
+            "impala",
+            "melampo",
+            "pala",
+            "palla"
+        ]
+    },
+    {
+        "category": "genere_umano",
+        "items": [
+            "mondo",
+            "terra",
+            "umanità",
+            "uomo"
+        ]
+    },
+    {
+        "category": "Pongo_pygmaeus",
+        "items": [
+            "orango",
+            "orangutan",
+            "orangutano",
+            "urango"
+        ]
+    },
+    {
+        "category": "Gadus_morhua",
+        "items": [
+            "baccalà_bianco_portoghese",
+            "baccalà_portoghese_giallo",
+            "baccalà_san_giovanni",
+            "merluzzo_bianco"
+        ]
+    },
+    {
+        "category": "Melanogrammus_aeglefinus",
+        "items": [
+            "asinello",
+            "asinello_affumicato",
+            "eglefino",
+            "fiocchi_di_pesce"
+        ]
+    },
+    {
+        "category": "Alosa_alosa",
+        "items": [
+            "agone",
+            "alaccia",
+            "alosa",
+            "cheppia"
+        ]
+    },
+    {
+        "category": "Salmo_salar",
+        "items": [
+            "filetti_di_salmone_svedesi",
+            "salmo",
+            "salmone",
+            "salmone_atlantico"
+        ]
+    },
+    {
+        "category": "Salvelinus_alpinus",
+        "items": [
+            "salmarino",
+            "salmerino",
+            "salmerino_alpino",
+            "salmerino_artico"
+        ]
+    },
+    {
+        "category": "Perca_fluviatilis",
+        "items": [
+            "perca",
+            "persico",
+            "persico_reale",
+            "pesce_persico"
+        ]
+    },
+    {
+        "category": "Trachurus_trachurus",
+        "items": [
+            "scombro_bastardo",
+            "sorello",
+            "sugarello",
+            "suro"
+        ]
+    },
+    {
+        "category": "Scomber_scombrus",
+        "items": [
+            "colatura",
+            "lacerta",
+            "lacerto",
+            "macarello"
+        ]
+    },
+    {
+        "category": "Scomber_japonicus",
+        "items": [
+            "lanciardo",
+            "lanzardo",
+            "scombro_cavallo",
+            "scombro_macchiato"
+        ]
+    },
+    {
+        "category": "Thunnus_alalunga",
+        "items": [
+            "alalonga",
+            "alalunga",
+            "albacora",
+            "tonno_bianco"
+        ]
+    },
+    {
+        "category": "Sarda_sarda",
+        "items": [
+            "bonnicou",
+            "cavaritu_imperiali",
+            "paamie",
+            "palametto"
+        ]
+    },
+    {
+        "category": "Katsuwonus_pelamis",
+        "items": [
+            "impiriali",
+            "nzirru",
+            "paamia",
+            "paamitun"
+        ]
+    },
+    {
+        "category": "budello",
+        "items": [
+            "carruggio",
+            "carrugio",
+            "corridoio",
+            "vicolo"
+        ]
+    },
+    {
+        "category": "amuleto",
+        "items": [
+            "filacterio",
+            "filatterio",
+            "scacciaguai",
+            "talismano"
+        ]
+    },
+    {
+        "category": "analgesico",
+        "items": [
+            "antidolorifico",
+            "antinevralgico",
+            "calmante",
+            "sedativo"
+        ]
+    },
+    {
+        "category": "androne",
+        "items": [
+            "anticamera",
+            "atrio",
+            "entrata",
+            "foyer"
+        ]
+    },
+    {
+        "category": "aggeggio",
+        "items": [
+            "apparecchio",
+            "arnese",
+            "artificio",
+            "congegno"
+        ]
+    },
+    {
+        "category": "arabesco",
+        "items": [
+            "ghirigogolo",
+            "ghirigoro",
+            "girigogolo",
+            "svolazzo"
+        ]
+    },
+    {
+        "category": "atomizzatore",
+        "items": [
+            "evaporizzatore",
+            "nebulizzatore",
+            "polverizzatore",
+            "spolverizzatore"
+        ]
+    },
+    {
+        "category": "bisaccia",
+        "items": [
+            "saccapane",
+            "tascapane",
+            "zainetto",
+            "zaino"
+        ]
+    },
+    {
+        "category": "forno",
+        "items": [
+            "panetteria",
+            "panificio",
+            "prestino",
+            "vapoforno"
+        ]
+    },
+    {
+        "category": "balconata",
+        "items": [
+            "balcone",
+            "poggiolo",
+            "terrazzino",
+            "terrazzo"
+        ]
+    },
+    {
+        "category": "appoggiatoio",
+        "items": [
+            "balaustra",
+            "balaustrata",
+            "balaustrato",
+            "bracciolo"
+        ]
+    },
+    {
+        "category": "barcone",
+        "items": [
+            "burchio",
+            "chiatta",
+            "magona",
+            "maona"
+        ]
+    },
+    {
+        "category": "mezzo_guanto",
+        "items": [
+            "mezzoguanto",
+            "mitaine",
+            "mitena",
+            "mittena"
+        ]
+    },
+    {
+        "category": "cantina",
+        "items": [
+            "cantinato",
+            "interrato",
+            "piano_interrato",
+            "scantinato"
+        ]
+    },
+    {
+        "category": "bacile",
+        "items": [
+            "bacinella",
+            "bacino",
+            "catinella",
+            "catino"
+        ]
+    },
+    {
+        "category": "canestro",
+        "items": [
+            "cesta",
+            "cestino",
+            "cestino_della_spesa",
+            "cesto"
+        ]
+    },
+    {
+        "category": "cartellone",
+        "items": [
+            "manifesto",
+            "reclame",
+            "tabellone",
+            "tabellone_pubblicitario"
+        ]
+    },
+    {
+        "category": "calzone",
+        "items": [
+            "mutande",
+            "mutandine",
+            "pantaloni",
+            "slip"
+        ]
+    },
+    {
+        "category": "bobina",
+        "items": [
+            "rocchetto",
+            "spagnoletta",
+            "spola",
+            "spoletta"
+        ]
+    },
+    {
+        "category": "cravatta_a_farfalla",
+        "items": [
+            "cravattino",
+            "farfalla",
+            "farfallino",
+            "fiocchetto"
+        ]
+    },
+    {
+        "category": "antemurale",
+        "items": [
+            "diga_frangiflutti",
+            "frangiflutti",
+            "frangimare",
+            "frangionde"
+        ]
+    },
+    {
+        "category": "alcolimetro",
+        "items": [
+            "alcoltest",
+            "alcoolimetro",
+            "alcooltest",
+            "etilometro"
+        ]
+    },
+    {
+        "category": "bagatella",
+        "items": [
+            "bazzecola",
+            "bric-a-brac",
+            "bric-ý-brac",
+            "carabattola"
+        ]
+    },
+    {
+        "category": "costruzione",
+        "items": [
+            "edificio",
+            "fabbricato",
+            "palazzo",
+            "stabile"
+        ]
+    },
+    {
+        "category": "bungalow",
+        "items": [
+            "casetta",
+            "cottage",
+            "palazzina",
+            "villetta"
+        ]
+    },
+    {
+        "category": "autobus",
+        "items": [
+            "autocorriera",
+            "autopullman",
+            "autopulman",
+            "corriera"
+        ]
+    },
+    {
+        "category": "bagnarola",
+        "items": [
+            "caffettiera",
+            "carretta",
+            "catenaccio",
+            "catorcio"
+        ]
+    },
+    {
+        "category": "locale_notturno",
+        "items": [
+            "night",
+            "night_club",
+            "night-club",
+            "nightclub"
+        ]
+    },
+    {
+        "category": "caldaia",
+        "items": [
+            "caldaio",
+            "caldarone",
+            "calderone",
+            "marmitta"
+        ]
+    },
+    {
+        "category": "accampamento",
+        "items": [
+            "accantonamento",
+            "acquartieramento",
+            "attendamento",
+            "baraccamento"
+        ]
+    },
+    {
+        "category": "erba",
+        "items": [
+            "hascisc",
+            "hashish",
+            "mariagiovanna",
+            "marijuana"
+        ]
+    },
+    {
+        "category": "cappa",
+        "items": [
+            "kappa",
+            "mantella",
+            "mantellina",
+            "mantello"
+        ]
+    },
+    {
+        "category": "auto",
+        "items": [
+            "automobile",
+            "autovettura",
+            "macchina",
+            "vettura"
+        ]
+    },
+    {
+        "category": "baroccio",
+        "items": [
+            "barroccio",
+            "biroccio",
+            "carretta",
+            "carro"
+        ]
+    },
+    {
+        "category": "cotta",
+        "items": [
+            "cotta_di_maglia",
+            "giaco",
+            "maglia",
+            "usbergo"
+        ]
+    },
+    {
+        "category": "canterale",
+        "items": [
+            "canterano",
+            "cassettiera",
+            "cassettone",
+            "comò"
+        ]
+    },
+    {
+        "category": "porcellana",
+        "items": [
+            "stoviglia",
+            "terraglie",
+            "vasame",
+            "vasellame"
+        ]
+    },
+    {
+        "category": "GAP!",
+        "items": [
+            "piatti_di_porcellana",
+            "piatti_in_porcellana",
+            "stoviglie_di_porcellana",
+            "stoviglie_in_porcellana"
+        ]
+    },
+    {
+        "category": "cesello",
+        "items": [
+            "scalpelletto",
+            "scalpello",
+            "subbia",
+            "tagliolo"
+        ]
+    },
+    {
+        "category": "calzatoia",
+        "items": [
+            "calzolo",
+            "calzuolo",
+            "cuneo",
+            "tacco"
+        ]
+    },
+    {
+        "category": "batacchio",
+        "items": [
+            "batocchio",
+            "battacchio",
+            "battaglio",
+            "battocchio"
+        ]
+    },
+    {
+        "category": "cappa",
+        "items": [
+            "kappa",
+            "mantella",
+            "mantello",
+            "manto"
+        ]
+    },
+    {
+        "category": "abbigliamento",
+        "items": [
+            "abiti",
+            "abito",
+            "vestiario",
+            "vestire"
+        ]
+    },
+    {
+        "category": "appendiabiti",
+        "items": [
+            "gruccia",
+            "ometto",
+            "portabiti",
+            "stampella"
+        ]
+    },
+    {
+        "category": "arca",
+        "items": [
+            "cassapanca",
+            "cofano",
+            "forziere",
+            "scrigno"
+        ]
+    },
+    {
+        "category": "ciuccio",
+        "items": [
+            "ciucciolo",
+            "ciucciotto",
+            "dentarolo",
+            "succhiotto"
+        ]
+    },
+    {
+        "category": "bene",
+        "items": [
+            "genere",
+            "mercanzia",
+            "merci",
+            "roba"
+        ]
+    },
+    {
+        "category": "calcolatore",
+        "items": [
+            "calcolatore_elettronico",
+            "cervello_elettronico",
+            "computer",
+            "elaboratore"
+        ]
+    },
+    {
+        "category": "allacciamento",
+        "items": [
+            "allaccio",
+            "collegamento",
+            "connettore",
+            "raccordo"
+        ]
+    },
+    {
+        "category": "bottoniera",
+        "items": [
+            "pannello_di_controllo",
+            "quadro",
+            "quadro_dei_comandi",
+            "quadro_di_comando"
+        ]
+    },
+    {
+        "category": "busto",
+        "items": [
+            "corsetto",
+            "guaina",
+            "pancera",
+            "panciera"
+        ]
+    },
+    {
+        "category": "accoppiatore",
+        "items": [
+            "agganciamento",
+            "aggancio",
+            "giunto",
+            "manicotto"
+        ]
+    },
+    {
+        "category": "frantoio",
+        "items": [
+            "frantumatore",
+            "granitrice",
+            "granulatore",
+            "pistrino"
+        ]
+    },
+    {
+        "category": "arricciacapelli",
+        "items": [
+            "bigodino",
+            "bigodì",
+            "diavoletto",
+            "papillote"
+        ]
+    },
+    {
+        "category": "addobbamento",
+        "items": [
+            "addobbo",
+            "decorazione",
+            "fregio",
+            "guarnizione"
+        ]
+    },
+    {
+        "category": "bambola",
+        "items": [
+            "bambolina",
+            "bambolotto",
+            "fantoccio",
+            "pupattola"
+        ]
+    },
+    {
+        "category": "abbellimento",
+        "items": [
+            "fiorettatura",
+            "fronzolo",
+            "imbellettatura",
+            "infiorettatura"
+        ]
+    },
+    {
+        "category": "chiostra",
+        "items": [
+            "chiusa",
+            "recinto",
+            "recinzione",
+            "rinchiuso"
+        ]
+    },
+    {
+        "category": "completo",
+        "items": [
+            "coordinato",
+            "ensemble",
+            "insieme",
+            "parure"
+        ]
+    },
+    {
+        "category": "apparecchiatura",
+        "items": [
+            "armamentario",
+            "attrezzo",
+            "dotazione",
+            "materiale"
+        ]
+    },
+    {
+        "category": "panno",
+        "items": [
+            "pezza",
+            "roba",
+            "stoffa",
+            "tela"
+        ]
+    },
+    {
+        "category": "casale",
+        "items": [
+            "cascina",
+            "cascinale",
+            "fattoria",
+            "masseria"
+        ]
+    },
+    {
+        "category": "archivio",
+        "items": [
+            "carpetta",
+            "cartella",
+            "casellario",
+            "classificatore"
+        ]
+    },
+    {
+        "category": "addiaccio",
+        "items": [
+            "agghiaccio",
+            "ovile",
+            "stabbio",
+            "stazzo"
+        ]
+    },
+    {
+        "category": "forte",
+        "items": [
+            "fortezza",
+            "rocca",
+            "rocca_forte",
+            "roccaforte"
+        ]
+    },
+    {
+        "category": "montatura",
+        "items": [
+            "ossatura",
+            "riquadro",
+            "struttura",
+            "telaio"
+        ]
+    },
+    {
+        "category": "balza",
+        "items": [
+            "falbalà",
+            "falpalà",
+            "frangiatura",
+            "frappa"
+        ]
+    },
+    {
+        "category": "finanziera",
+        "items": [
+            "prefettizia",
+            "redingote",
+            "stifelius",
+            "stiffelius"
+        ]
+    },
+    {
+        "category": "apparecchiamento",
+        "items": [
+            "arredamento",
+            "arredo",
+            "masserizie",
+            "suppellettile"
+        ]
+    },
+    {
+        "category": "ammobiliamento",
+        "items": [
+            "arredamento",
+            "mobile",
+            "mobilia",
+            "mobilio"
+        ]
+    },
+    {
+        "category": "abito",
+        "items": [
+            "capo_di_vestiario",
+            "indumento",
+            "veste",
+            "vestito"
+        ]
+    },
+    {
+        "category": "ferrata",
+        "items": [
+            "grata",
+            "gratella",
+            "inferriata",
+            "ingraticolata"
+        ]
+    },
+    {
+        "category": "bistecchiera",
+        "items": [
+            "grata",
+            "gratella",
+            "graticola",
+            "griglia"
+        ]
+    },
+    {
+        "category": "boschetto",
+        "items": [
+            "broilo",
+            "brolo",
+            "frutteto",
+            "pomaio"
+        ]
+    },
+    {
+        "category": "ansa",
+        "items": [
+            "impugnatura",
+            "manico",
+            "maniglia",
+            "manopola"
+        ]
+    },
+    {
+        "category": "arpione",
+        "items": [
+            "arpone",
+            "fiocina",
+            "lancia",
+            "rampone"
+        ]
+    },
+    {
+        "category": "casco",
+        "items": [
+            "cimiere",
+            "cimiero",
+            "elmetto",
+            "elmo"
+        ]
+    },
+    {
+        "category": "bordatura",
+        "items": [
+            "bordo",
+            "bordura",
+            "falda",
+            "lembo"
+        ]
+    },
+    {
+        "category": "impaccio",
+        "items": [
+            "impedimento",
+            "impiccio",
+            "ingombro",
+            "intoppo"
+        ]
+    },
+    {
+        "category": "abituro",
+        "items": [
+            "baracca",
+            "bicocca",
+            "canzone_marinaresca",
+            "capanna"
+        ]
+    },
+    {
+        "category": "contraffazione",
+        "items": [
+            "copiatura",
+            "falsificazione",
+            "falso",
+            "imitazione"
+        ]
+    },
+    {
+        "category": "attraversamento",
+        "items": [
+            "bivio",
+            "crocevia",
+            "crocicchio",
+            "incrocio"
+        ]
+    },
+    {
+        "category": "carcere",
+        "items": [
+            "ergastolo",
+            "gabbia",
+            "galera",
+            "gattabuia"
+        ]
+    },
+    {
+        "category": "aerogetto",
+        "items": [
+            "aviogetto",
+            "getto",
+            "jet",
+            "reattore"
+        ]
+    },
+    {
+        "category": "gemma",
+        "items": [
+            "gioia",
+            "monile",
+            "pietra_preziosa",
+            "smaniglia"
+        ]
+    },
+    {
+        "category": "brocca",
+        "items": [
+            "coppo",
+            "doglio",
+            "giara",
+            "orcio"
+        ]
+    },
+    {
+        "category": "cheppì",
+        "items": [
+            "chepì",
+            "coppola",
+            "scopola",
+            "scoppola"
+        ]
+    },
+    {
+        "category": "batacchio",
+        "items": [
+            "battacchio",
+            "battaglio",
+            "battente",
+            "bussatoio"
+        ]
+    },
+    {
+        "category": "L.P.",
+        "items": [
+            "ellepi",
+            "long_play",
+            "long_playing",
+            "microsolco"
+        ]
+    },
+    {
+        "category": "coltrice",
+        "items": [
+            "giaciglio",
+            "materassa",
+            "materassino",
+            "materasso"
+        ]
+    },
+    {
+        "category": "metropolitana",
+        "items": [
+            "metrò",
+            "métro",
+            "sotterranea",
+            "subway"
+        ]
+    },
+    {
+        "category": "lambretta",
+        "items": [
+            "motocicletta",
+            "motoretta",
+            "motorscooter",
+            "motoscooter"
+        ]
+    },
+    {
+        "category": "impaccio",
+        "items": [
+            "impedimento",
+            "inciampo",
+            "ingombro",
+            "intoppo"
+        ]
+    },
+    {
+        "category": "cavalcavia",
+        "items": [
+            "passavia",
+            "soprappassaggio",
+            "soprappasso",
+            "sovrapassaggio"
+        ]
+    },
+    {
+        "category": "lastricatura",
+        "items": [
+            "lastrico",
+            "pavimentazione",
+            "pavimentazione_stradale",
+            "selciatura"
+        ]
+    },
+    {
+        "category": "astuccio_per_matite",
+        "items": [
+            "portalapis",
+            "portamatite",
+            "portapenne",
+            "toccalapis"
+        ]
+    },
+    {
+        "category": "cachet",
+        "items": [
+            "compressa",
+            "discoide",
+            "pasticca",
+            "pastiglia"
+        ]
+    },
+    {
+        "category": "disegno",
+        "items": [
+            "pianta",
+            "piantina",
+            "planimetria",
+            "progetto"
+        ]
+    },
+    {
+        "category": "balocco",
+        "items": [
+            "gingillo",
+            "giocattolo",
+            "gioco",
+            "ninnolo"
+        ]
+    },
+    {
+        "category": "bigliardino",
+        "items": [
+            "bigliardo",
+            "biliardino",
+            "biliardo",
+            "tavolo_da_biliardo"
+        ]
+    },
+    {
+        "category": "loggiato",
+        "items": [
+            "porticale",
+            "porticato",
+            "portico",
+            "veranda"
+        ]
+    },
+    {
+        "category": "cataplasma",
+        "items": [
+            "empiastro",
+            "fomento",
+            "impiastro",
+            "pappina"
+        ]
+    },
+    {
+        "category": "escavatore",
+        "items": [
+            "escavatrice",
+            "pala_meccanica",
+            "scavatrice",
+            "terrazziere"
+        ]
+    },
+    {
+        "category": "carcere",
+        "items": [
+            "ergastolo",
+            "galera",
+            "penitenziario",
+            "prigione"
+        ]
+    },
+    {
+        "category": "crotto",
+        "items": [
+            "fiaschetteria",
+            "gargotta",
+            "osteria",
+            "piola"
+        ]
+    },
+    {
+        "category": "coltrone",
+        "items": [
+            "imbottita",
+            "piumone",
+            "strapunto",
+            "trapunta"
+        ]
+    },
+    {
+        "category": "brandello",
+        "items": [
+            "brindello",
+            "cencio",
+            "sbrindello",
+            "straccio"
+        ]
+    },
+    {
+        "category": "ambiente",
+        "items": [
+            "camera",
+            "locale",
+            "stanza",
+            "vano"
+        ]
+    },
+    {
+        "category": "rovina",
+        "items": [
+            "rovine",
+            "rudere",
+            "rudero",
+            "vestigia"
+        ]
+    },
+    {
+        "category": "armatura",
+        "items": [
+            "castello",
+            "impalcatura",
+            "incastellatura",
+            "ponteggio"
+        ]
+    },
+    {
+        "category": "cartelliera",
+        "items": [
+            "mensola",
+            "palchetto",
+            "ripiano",
+            "scaffale"
+        ]
+    },
+    {
+        "category": "auto_modello_familiare",
+        "items": [
+            "break",
+            "famigliare",
+            "familiare",
+            "liftback"
+        ]
+    },
+    {
+        "category": "anta",
+        "items": [
+            "battente",
+            "chiudenda",
+            "chiudendola",
+            "imposta"
+        ]
+    },
+    {
+        "category": "buratto",
+        "items": [
+            "crivello",
+            "passino",
+            "setaccio",
+            "staccio"
+        ]
+    },
+    {
+        "category": "carcassa",
+        "items": [
+            "intelaiatura",
+            "ossatura",
+            "scheletro",
+            "struttura"
+        ]
+    },
+    {
+        "category": "apertura",
+        "items": [
+            "fendimento",
+            "fenditura",
+            "fessura",
+            "spacco"
+        ]
+    },
+    {
+        "category": "cataratta",
+        "items": [
+            "cateratta",
+            "chiavica",
+            "chiusa",
+            "paratoia"
+        ]
+    },
+    {
+        "category": "motonave",
+        "items": [
+            "piroscafo",
+            "transatlantico",
+            "vapore",
+            "vaporetto"
+        ]
+    },
+    {
+        "category": "compressore",
+        "items": [
+            "compressore_stradale",
+            "livellatrice",
+            "rullo_compressore",
+            "schiacciasassi"
+        ]
+    },
+    {
+        "category": "borsa",
+        "items": [
+            "borsa_valori",
+            "mercato_azionario",
+            "mercato_borsistico",
+            "mercato_dei_titoli"
+        ]
+    },
+    {
+        "category": "deposito",
+        "items": [
+            "ripostiglio",
+            "sgabuzzino",
+            "spogliatoio",
+            "stanzino"
+        ]
+    },
+    {
+        "category": "cittadella",
+        "items": [
+            "fortezza",
+            "piazza_forte",
+            "piazzaforte",
+            "rocca"
+        ]
+    },
+    {
+        "category": "fogna",
+        "items": [
+            "porcile",
+            "stabbio",
+            "stabbiolo",
+            "stalla"
+        ]
+    },
+    {
+        "category": "durindana",
+        "items": [
+            "durlindana",
+            "ferro",
+            "lama",
+            "spada"
+        ]
+    },
+    {
+        "category": "cappa",
+        "items": [
+            "copertone",
+            "incerata",
+            "kappa",
+            "telone"
+        ]
+    },
+    {
+        "category": "bagno",
+        "items": [
+            "cacatoio",
+            "cesso",
+            "gabinetto",
+            "latrina"
+        ]
+    },
+    {
+        "category": "cocchia",
+        "items": [
+            "draga",
+            "palamite",
+            "palamito",
+            "palangaro"
+        ]
+    },
+    {
+        "category": "graticcio",
+        "items": [
+            "graticolato",
+            "ingraticciata",
+            "ingraticciatura",
+            "traliccio"
+        ]
+    },
+    {
+        "category": "anemoscopio",
+        "items": [
+            "banderola",
+            "banderuola",
+            "girandola",
+            "mostravento"
+        ]
+    },
+    {
+        "category": "bordello",
+        "items": [
+            "casino",
+            "casotto",
+            "lupanare",
+            "postribolo"
+        ]
+    },
+    {
+        "category": "argano",
+        "items": [
+            "burbera",
+            "molinello",
+            "molinetto",
+            "mulinello"
+        ]
+    },
+    {
+        "category": "affiatamento",
+        "items": [
+            "sintonia",
+            "spirito_di_collaborazione",
+            "spirito_di_gruppo",
+            "spirito_di_squadra"
+        ]
+    },
+    {
+        "category": "leziosaggine",
+        "items": [
+            "romanticheria",
+            "sdolcinatezza",
+            "sentimentalismo",
+            "smancerie"
+        ]
+    },
+    {
+        "category": "animazione",
+        "items": [
+            "brio",
+            "briosità",
+            "vita",
+            "vivacità"
+        ]
+    },
+    {
+        "category": "animazione",
+        "items": [
+            "brio",
+            "briosità",
+            "festevolezza",
+            "festosità"
+        ]
+    },
+    {
+        "category": "abulia",
+        "items": [
+            "fannulloneria",
+            "ignavia",
+            "oziosità",
+            "pigrezza"
+        ]
+    },
+    {
+        "category": "abulia",
+        "items": [
+            "apatia",
+            "disamore",
+            "indifferenza",
+            "letargo"
+        ]
+    },
+    {
+        "category": "accidia",
+        "items": [
+            "pigrizia",
+            "poltronaggine",
+            "poltroneria",
+            "scioperataggine"
+        ]
+    },
+    {
+        "category": "accidia",
+        "items": [
+            "infingardaggine",
+            "neghittosità",
+            "pigrizia",
+            "poltronaggine"
+        ]
+    },
+    {
+        "category": "asprezza",
+        "items": [
+            "crudezza",
+            "durezza",
+            "gravità",
+            "rigidezza"
+        ]
+    },
+    {
+        "category": "indulgenza",
+        "items": [
+            "longanimità",
+            "magnanimità",
+            "pazienza",
+            "sopportazione"
+        ]
+    },
+    {
+        "category": "accondiscendenza",
+        "items": [
+            "arrendevolezza",
+            "condiscendenza",
+            "correntezza",
+            "obbedienza"
+        ]
+    },
+    {
+        "category": "caratteraccio",
+        "items": [
+            "intrattabilità",
+            "irritabilità",
+            "ispidezza",
+            "misantropia"
+        ]
+    },
+    {
+        "category": "chiacchiera",
+        "items": [
+            "garrulità",
+            "loquacità",
+            "parlantina",
+            "scilinguagnolo"
+        ]
+    },
+    {
+        "category": "affabilità",
+        "items": [
+            "affidabilità",
+            "amabilità",
+            "bonarietà",
+            "bonomia"
+        ]
+    },
+    {
+        "category": "confidenza",
+        "items": [
+            "dimestichezza",
+            "famigliarità",
+            "familiarità",
+            "intimità"
+        ]
+    },
+    {
+        "category": "adattabilità",
+        "items": [
+            "duttilità",
+            "elasticità",
+            "flessibilità",
+            "souplesse"
+        ]
+    },
+    {
+        "category": "anelasticità",
+        "items": [
+            "inelasticità",
+            "inflessibilità",
+            "rigidezza",
+            "rigidità"
+        ]
+    },
+    {
+        "category": "inconsideratezza",
+        "items": [
+            "incoscienza",
+            "irriflessione",
+            "irriflessività",
+            "sbalorditaggine"
+        ]
+    },
+    {
+        "category": "avventatezza",
+        "items": [
+            "corrività",
+            "disavvedutezza",
+            "imprudenza",
+            "scapestrataggine"
+        ]
+    },
+    {
+        "category": "avvedimento",
+        "items": [
+            "avvedutezza",
+            "cautela",
+            "circospezione",
+            "precauzione"
+        ]
+    },
+    {
+        "category": "distrazione",
+        "items": [
+            "inavvertenza",
+            "negligenza",
+            "sbadataggine",
+            "sbalorditaggine"
+        ]
+    },
+    {
+        "category": "affidabilità",
+        "items": [
+            "attendibilità",
+            "lealtà",
+            "serietà",
+            "sincerità"
+        ]
+    },
+    {
+        "category": "acribia",
+        "items": [
+            "fiscalità",
+            "meticolosità",
+            "minuziosaggine",
+            "minuziosità"
+        ]
+    },
+    {
+        "category": "distacco",
+        "items": [
+            "incuranza",
+            "noncuranza",
+            "sufficenza",
+            "sufficienza"
+        ]
+    },
+    {
+        "category": "apparenza",
+        "items": [
+            "aspetto",
+            "esteriorità",
+            "facciata",
+            "forma"
+        ]
+    },
+    {
+        "category": "aria",
+        "items": [
+            "aspetto",
+            "espressione",
+            "faccia",
+            "fisionomia"
+        ]
+    },
+    {
+        "category": "chiazza",
+        "items": [
+            "macchia",
+            "patacca",
+            "piazzata",
+            "screziatura"
+        ]
+    },
+    {
+        "category": "attrattiva",
+        "items": [
+            "charme",
+            "fascino",
+            "magia",
+            "malia"
+        ]
+    },
+    {
+        "category": "perfezione",
+        "items": [
+            "primazia",
+            "sopraeminenza",
+            "sovreminenza",
+            "superiorità"
+        ]
+    },
+    {
+        "category": "creatività",
+        "items": [
+            "genialità",
+            "ingegno",
+            "ingegnosità",
+            "valentia"
+        ]
+    },
+    {
+        "category": "incostanza",
+        "items": [
+            "instabilità",
+            "leggerezza",
+            "mobilità",
+            "mutevolezza"
+        ]
+    },
+    {
+        "category": "definitività",
+        "items": [
+            "immutabilità",
+            "impermutabilità",
+            "inalterabilità",
+            "inderogabilità"
+        ]
+    },
+    {
+        "category": "costanza",
+        "items": [
+            "fermezza",
+            "fissità",
+            "immutabilità",
+            "invariabilità"
+        ]
+    },
+    {
+        "category": "assomiglianza",
+        "items": [
+            "sembianza",
+            "similarità",
+            "similitudine",
+            "somiglianza"
+        ]
+    },
+    {
+        "category": "attrito",
+        "items": [
+            "disaccordo",
+            "discrepanza",
+            "dissonanza",
+            "divergenza"
+        ]
+    },
+    {
+        "category": "diversità",
+        "items": [
+            "molteplicità",
+            "pluralità",
+            "poliedricità",
+            "svariatezza"
+        ]
+    },
+    {
+        "category": "disagguaglianza",
+        "items": [
+            "diseguaglianza",
+            "dislivello",
+            "disparità",
+            "disuguaglianza"
+        ]
+    },
+    {
+        "category": "inconfutabilità",
+        "items": [
+            "incontestabilità",
+            "incontrovertibilità",
+            "insindacabilità",
+            "irrefutabilità"
+        ]
+    },
+    {
+        "category": "genericismo",
+        "items": [
+            "genericità",
+            "impersonalità",
+            "indefinitezza",
+            "indeterminatezza"
+        ]
+    },
+    {
+        "category": "concretezza",
+        "items": [
+            "effettualità",
+            "materialità",
+            "pragmatismo",
+            "prammatismo"
+        ]
+    },
+    {
+        "category": "genuinità",
+        "items": [
+            "immediatezza",
+            "naturalezza",
+            "naturalità",
+            "spontaneità"
+        ]
+    },
+    {
+        "category": "accuratezza",
+        "items": [
+            "determinatezza",
+            "esattezza",
+            "precisione",
+            "rigore"
+        ]
+    },
+    {
+        "category": "aristocrazia",
+        "items": [
+            "distinzione",
+            "eleganza",
+            "finezza",
+            "garbo"
+        ]
+    },
+    {
+        "category": "fastosità",
+        "items": [
+            "grandezza",
+            "grandiosità",
+            "magnificenza",
+            "sfarzo"
+        ]
+    },
+    {
+        "category": "fasto",
+        "items": [
+            "magnificenza",
+            "pompa",
+            "sontuosità",
+            "suntuosità"
+        ]
+    },
+    {
+        "category": "asineria",
+        "items": [
+            "banalità",
+            "grossaggine",
+            "grossolanità",
+            "pecoreccio"
+        ]
+    },
+    {
+        "category": "cafonaggine",
+        "items": [
+            "cafoneria",
+            "ignoranza",
+            "rozzezza",
+            "sgarbo"
+        ]
+    },
+    {
+        "category": "boria",
+        "items": [
+            "iattanza",
+            "iattazione",
+            "pomposità",
+            "presuntuosità"
+        ]
+    },
+    {
+        "category": "chiarezza",
+        "items": [
+            "limpidezza",
+            "lucidità",
+            "nettezza",
+            "nitidezza"
+        ]
+    },
+    {
+        "category": "astrusaggine",
+        "items": [
+            "enigmaticità",
+            "inaccessibilità",
+            "incomprensibilità",
+            "inesplicabilità"
+        ]
+    },
+    {
+        "category": "astruseria",
+        "items": [
+            "astrusità",
+            "ermetismo",
+            "metafisicheria",
+            "oscurità"
+        ]
+    },
+    {
+        "category": "approssimazione",
+        "items": [
+            "fumoseria",
+            "fumosità",
+            "genericità",
+            "indeterminatezza"
+        ]
+    },
+    {
+        "category": "ambiguità",
+        "items": [
+            "bivalenza",
+            "equivocità",
+            "loschezza",
+            "tortuosità"
+        ]
+    },
+    {
+        "category": "compassione",
+        "items": [
+            "compatimento",
+            "misericordia",
+            "pena",
+            "pietà"
+        ]
+    },
+    {
+        "category": "avarizia",
+        "items": [
+            "grettezza",
+            "lesina",
+            "pitoccheria",
+            "spilorceria"
+        ]
+    },
+    {
+        "category": "arditezza",
+        "items": [
+            "audacia",
+            "faccia_tosta",
+            "intraprendenza",
+            "temerarietà"
+        ]
+    },
+    {
+        "category": "affabilità",
+        "items": [
+            "amabilità",
+            "benignità",
+            "bontà",
+            "cordialità"
+        ]
+    },
+    {
+        "category": "cancrena",
+        "items": [
+            "corruttela",
+            "depravamento",
+            "depravazione",
+            "deviazione"
+        ]
+    },
+    {
+        "category": "dissolutezza",
+        "items": [
+            "lascivia",
+            "licenza",
+            "licenziosità",
+            "scostumatezza"
+        ]
+    },
+    {
+        "category": "animo",
+        "items": [
+            "ardimento",
+            "ardire",
+            "arditezza",
+            "bravura"
+        ]
+    },
+    {
+        "category": "ardimento",
+        "items": [
+            "ardire",
+            "arditezza",
+            "audacia",
+            "baldanza"
+        ]
+    },
+    {
+        "category": "decisione",
+        "items": [
+            "determinazione",
+            "fermezza",
+            "risolutezza",
+            "saldezza"
+        ]
+    },
+    {
+        "category": "caparbiaggine",
+        "items": [
+            "caparbieria",
+            "caparbietà",
+            "caponaggine",
+            "cocciutaggine"
+        ]
+    },
+    {
+        "category": "decisione",
+        "items": [
+            "determinazione",
+            "finalità",
+            "fine",
+            "grinta"
+        ]
+    },
+    {
+        "category": "costanza",
+        "items": [
+            "fermezza",
+            "pertinacia",
+            "risolutezza",
+            "tenacia"
+        ]
+    },
+    {
+        "category": "fare",
+        "items": [
+            "industria",
+            "industriosità",
+            "laboriosità",
+            "operosità"
+        ]
+    },
+    {
+        "category": "indecisione",
+        "items": [
+            "irresolutezza",
+            "irresoluzione",
+            "irrisolutezza",
+            "irrisoluzione"
+        ]
+    },
+    {
+        "category": "attendibilità",
+        "items": [
+            "autenticità",
+            "veracità",
+            "veridicità",
+            "verità"
+        ]
+    },
+    {
+        "category": "bassezza",
+        "items": [
+            "dislealtà",
+            "mala_fede",
+            "malafede",
+            "slealtà"
+        ]
+    },
+    {
+        "category": "discrezione",
+        "items": [
+            "misura",
+            "misuratezza",
+            "moderazione",
+            "regola"
+        ]
+    },
+    {
+        "category": "boria",
+        "items": [
+            "millanteria",
+            "spacconaggine",
+            "superbia",
+            "vanagloria"
+        ]
+    },
+    {
+        "category": "albagia",
+        "items": [
+            "alterigia",
+            "altezzosità",
+            "altura",
+            "arroganza"
+        ]
+    },
+    {
+        "category": "avvedutezza",
+        "items": [
+            "discernimento",
+            "discrezione",
+            "giudizio",
+            "scernimento"
+        ]
+    },
+    {
+        "category": "balordaggine",
+        "items": [
+            "demenza",
+            "fatuità",
+            "follia",
+            "gaglioffaggine"
+        ]
+    },
+    {
+        "category": "accortezza",
+        "items": [
+            "avvedutezza",
+            "cautela",
+            "cautezza",
+            "circospezione"
+        ]
+    },
+    {
+        "category": "dissipazione",
+        "items": [
+            "profusione",
+            "sfoderamento",
+            "sfoggio",
+            "spreco"
+        ]
+    },
+    {
+        "category": "castigatezza",
+        "items": [
+            "decenza",
+            "morigeratezza",
+            "rispetto_per_i_valori_umani",
+            "sobrietà"
+        ]
+    },
+    {
+        "category": "impudicizia",
+        "items": [
+            "indecenza",
+            "oscenità",
+            "scabrosità",
+            "sconcezza"
+        ]
+    },
+    {
+        "category": "indecenza",
+        "items": [
+            "laidezza",
+            "lubricità",
+            "oscenità",
+            "salacità"
+        ]
+    },
+    {
+        "category": "caparbietà",
+        "items": [
+            "caponaggine",
+            "cocciutaggine",
+            "testardaggine",
+            "zucconaggine"
+        ]
+    },
+    {
+        "category": "amabilità",
+        "items": [
+            "bontà",
+            "buona_grazia",
+            "buonagrazia",
+            "civiltà"
+        ]
+    },
+    {
+        "category": "inciviltà",
+        "items": [
+            "inurbanità",
+            "mal_garbo",
+            "mala_grazia",
+            "malacreanza"
+        ]
+    },
+    {
+        "category": "ardire",
+        "items": [
+            "arditezza",
+            "improntitudine",
+            "impudenza",
+            "insistenza"
+        ]
+    },
+    {
+        "category": "forma",
+        "items": [
+            "guisa",
+            "maniera",
+            "modalità",
+            "modo"
+        ]
+    },
+    {
+        "category": "armatura",
+        "items": [
+            "carcassa",
+            "impalcatura",
+            "intelaiatura",
+            "struttura"
+        ]
+    },
+    {
+        "category": "allucciolio",
+        "items": [
+            "brillio",
+            "luccicamento",
+            "luccichio",
+            "lucciolio"
+        ]
+    },
+    {
+        "category": "appretto",
+        "items": [
+            "brillantezza",
+            "fulgore",
+            "lucentezza",
+            "lucido"
+        ]
+    },
+    {
+        "category": "gradazione",
+        "items": [
+            "sfumatura",
+            "tinta",
+            "tonalità",
+            "tono"
+        ]
+    },
+    {
+        "category": "complessione",
+        "items": [
+            "conformazione",
+            "corporatura",
+            "fisico",
+            "membratura"
+        ]
+    },
+    {
+        "category": "floridezza",
+        "items": [
+            "floridità",
+            "lussureggiamento",
+            "paffutezza",
+            "prosperosità"
+        ]
+    },
+    {
+        "category": "consunzione",
+        "items": [
+            "deperimento",
+            "dimagrimento",
+            "macilenza",
+            "magrezza"
+        ]
+    },
+    {
+        "category": "andare",
+        "items": [
+            "andatura",
+            "camminata",
+            "modo_di_camminare",
+            "passo"
+        ]
+    },
+    {
+        "category": "androginia",
+        "items": [
+            "bisessualità",
+            "ermafrodismo",
+            "ermafroditismo",
+            "monoicismo"
+        ]
+    },
+    {
+        "category": "energia",
+        "items": [
+            "nerbo",
+            "polso",
+            "possanza",
+            "robustezza"
+        ]
+    },
+    {
+        "category": "ferocia",
+        "items": [
+            "ferocità",
+            "furia",
+            "impeto",
+            "irruenza"
+        ]
+    },
+    {
+        "category": "bolsaggine",
+        "items": [
+            "cascaggine",
+            "fiacchezza",
+            "gracilità",
+            "indebolimento"
+        ]
+    },
+    {
+        "category": "catena",
+        "items": [
+            "fila",
+            "rosario",
+            "sequela",
+            "successione"
+        ]
+    },
+    {
+        "category": "caducità",
+        "items": [
+            "fuggevolezza",
+            "labilità",
+            "precarietà",
+            "sfuggevolezza"
+        ]
+    },
+    {
+        "category": "celerità",
+        "items": [
+            "fulmineità",
+            "prestezza",
+            "rapidezza",
+            "rapidità"
+        ]
+    },
+    {
+        "category": "dimensione",
+        "items": [
+            "dimensioni",
+            "grandezza",
+            "grossezza",
+            "misura"
+        ]
+    },
+    {
+        "category": "amplitudine",
+        "items": [
+            "enormità",
+            "estensione",
+            "grandezza",
+            "immensità"
+        ]
+    },
+    {
+        "category": "aumento",
+        "items": [
+            "maggiorazione",
+            "soprapprezzo",
+            "sovrapprezzo",
+            "surcharge"
+        ]
+    },
+    {
+        "category": "abbassamento",
+        "items": [
+            "calo",
+            "discesa",
+            "flessione",
+            "ribassamento"
+        ]
+    },
+    {
+        "category": "esiguità",
+        "items": [
+            "insufficienza",
+            "limitatezza",
+            "magrezza",
+            "meschinità"
+        ]
+    },
+    {
+        "category": "carenza",
+        "items": [
+            "deficienza",
+            "deficit",
+            "disavanzo",
+            "spareggio"
+        ]
+    },
+    {
+        "category": "abbondanza",
+        "items": [
+            "grande_abbondanza",
+            "profusione",
+            "prosperità",
+            "ricchezza"
+        ]
+    },
+    {
+        "category": "carenza",
+        "items": [
+            "carestia",
+            "difalta",
+            "diffalta",
+            "esiguità"
+        ]
+    },
+    {
+        "category": "discrezione",
+        "items": [
+            "equilibrio",
+            "misura",
+            "misuratezza",
+            "moderatezza"
+        ]
+    },
+    {
+        "category": "dismisura",
+        "items": [
+            "eccesso",
+            "esagerazione",
+            "estremo",
+            "oltranza"
+        ]
+    },
+    {
+        "category": "avanzo",
+        "items": [
+            "eccedente",
+            "eccedenza",
+            "eccesso",
+            "soprappiù"
+        ]
+    },
+    {
+        "category": "ambito",
+        "items": [
+            "campo",
+            "gamma",
+            "orbita",
+            "portata"
+        ]
+    },
+    {
+        "category": "benemerenza",
+        "items": [
+            "merito",
+            "pregio",
+            "valore",
+            "virtù"
+        ]
+    },
+    {
+        "category": "fine",
+        "items": [
+            "funzione",
+            "impiego",
+            "ruolo",
+            "scopo"
+        ]
+    },
+    {
+        "category": "agevolezza",
+        "items": [
+            "attuabilità",
+            "eseguibilità",
+            "fattibilità",
+            "producibilità"
+        ]
+    },
+    {
+        "category": "convenienza",
+        "items": [
+            "guadagno",
+            "interesse",
+            "profitto",
+            "provento"
+        ]
+    },
+    {
+        "category": "difetto",
+        "items": [
+            "mancanza",
+            "manchevolezza",
+            "neo",
+            "taccola"
+        ]
+    },
+    {
+        "category": "importanza",
+        "items": [
+            "rilevanza",
+            "salienza",
+            "significato",
+            "sostanziosità"
+        ]
+    },
+    {
+        "category": "insignificanza",
+        "items": [
+            "irrilevanza",
+            "residualità",
+            "scarsa_importanza",
+            "trascurabilità"
+        ]
+    },
+    {
+        "category": "autorevolezza",
+        "items": [
+            "autorità",
+            "autorizzazione",
+            "balia",
+            "facoltà"
+        ]
+    },
+    {
+        "category": "abilità",
+        "items": [
+            "bravura",
+            "capacità",
+            "numeri",
+            "valentia"
+        ]
+    },
+    {
+        "category": "incalcolabilità",
+        "items": [
+            "infinitezza",
+            "infinità",
+            "innumerabilità",
+            "sconfinatezza"
+        ]
+    },
+    {
+        "category": "cadavere",
+        "items": [
+            "corpo",
+            "morto",
+            "salma",
+            "spoglia"
+        ]
+    },
+    {
+        "category": "moccio",
+        "items": [
+            "mucco",
+            "muccosità",
+            "muco",
+            "mucosità"
+        ]
+    },
+    {
+        "category": "nemasperma",
+        "items": [
+            "nemaspermio",
+            "spermatozoide",
+            "spermatozoo",
+            "spermio"
+        ]
+    },
+    {
+        "category": "assone",
+        "items": [
+            "axone",
+            "cilindrasse",
+            "palancola",
+            "tavolone"
+        ]
+    },
+    {
+        "category": "fica",
+        "items": [
+            "fregna",
+            "mona",
+            "nicchio",
+            "potta"
+        ]
+    },
+    {
+        "category": "coglione",
+        "items": [
+            "corbello",
+            "didimo",
+            "palla",
+            "testicolo"
+        ]
+    },
+    {
+        "category": "asta",
+        "items": [
+            "fallo",
+            "membro",
+            "membro_virile",
+            "pene"
+        ]
+    },
+    {
+        "category": "alvo",
+        "items": [
+            "budello",
+            "intestino",
+            "minugia",
+            "minugio"
+        ]
+    },
+    {
+        "category": "busto",
+        "items": [
+            "fusto",
+            "torace",
+            "torso",
+            "tronco"
+        ]
+    },
+    {
+        "category": "cintola",
+        "items": [
+            "cintura",
+            "giro_vita",
+            "girovita",
+            "vita"
+        ]
+    },
+    {
+        "category": "dorso",
+        "items": [
+            "groppa",
+            "groppone",
+            "schiena",
+            "spalla"
+        ]
+    },
+    {
+        "category": "culo",
+        "items": [
+            "deretano",
+            "di_dietro",
+            "didietro",
+            "popò"
+        ]
+    },
+    {
+        "category": "aspetto",
+        "items": [
+            "fisionomia",
+            "fisonomia",
+            "grugno",
+            "muso"
+        ]
+    },
+    {
+        "category": "carattere_somatico",
+        "items": [
+            "connotato",
+            "fattezza",
+            "lineamento",
+            "sembianza"
+        ]
+    },
+    {
+        "category": "assennatezza",
+        "items": [
+            "buon_senso",
+            "buonsenso",
+            "criterio",
+            "discernimento"
+        ]
+    },
+    {
+        "category": "attenzione",
+        "items": [
+            "avvedutezza",
+            "avvertenza",
+            "cautela",
+            "circospezione"
+        ]
+    },
+    {
+        "category": "acume",
+        "items": [
+            "acutezza",
+            "argutezza",
+            "finezza",
+            "perspicacia"
+        ]
+    },
+    {
+        "category": "abilità",
+        "items": [
+            "accortezza",
+            "capacità",
+            "intelligenza",
+            "valentia"
+        ]
+    },
+    {
+        "category": "arte",
+        "items": [
+            "astuzia",
+            "furberia",
+            "furbizia",
+            "svegliatezza"
+        ]
+    },
+    {
+        "category": "abilità",
+        "items": [
+            "accorgimento",
+            "accortezza",
+            "acume",
+            "acutezza"
+        ]
+    },
+    {
+        "category": "abilità",
+        "items": [
+            "arte",
+            "bravura",
+            "capacità",
+            "mestiere"
+        ]
+    },
+    {
+        "category": "abilità",
+        "items": [
+            "abilità_professionale",
+            "arte",
+            "bravura",
+            "maestria"
+        ]
+    },
+    {
+        "category": "castronaggine",
+        "items": [
+            "citrullaggine",
+            "coglionaggine",
+            "coglioneria",
+            "cretineria"
+        ]
+    },
+    {
+        "category": "balordaggine",
+        "items": [
+            "ebetaggine",
+            "melensaggine",
+            "ottusità",
+            "scipitaggine"
+        ]
+    },
+    {
+        "category": "balordaggine",
+        "items": [
+            "demenza",
+            "dissennatezza",
+            "insensatezza",
+            "scempiaggine"
+        ]
+    },
+    {
+        "category": "dilettantismo",
+        "items": [
+            "faciloneria",
+            "pressapochismo",
+            "pressappochismo",
+            "superficialità"
+        ]
+    },
+    {
+        "category": "affare",
+        "items": [
+            "cosa",
+            "faccenda",
+            "fatto",
+            "questione"
+        ]
+    },
+    {
+        "category": "arcano",
+        "items": [
+            "enigma",
+            "enimma",
+            "interrogativo",
+            "mistero"
+        ]
+    },
+    {
+        "category": "avviluppamento",
+        "items": [
+            "avviticchiamento",
+            "garbuglio",
+            "gomitolo",
+            "groviglio"
+        ]
+    },
+    {
+        "category": "deterrente",
+        "items": [
+            "impaccio",
+            "impedimento",
+            "impiccio",
+            "ostacolo"
+        ]
+    },
+    {
+        "category": "barriera",
+        "items": [
+            "impaccio",
+            "impedimento",
+            "incaglio",
+            "inciampo"
+        ]
+    },
+    {
+        "category": "adescamento",
+        "items": [
+            "allettamento",
+            "esca",
+            "insidia",
+            "lenocinio"
+        ]
+    },
+    {
+        "category": "dubbio",
+        "items": [
+            "dubbiosità",
+            "forse",
+            "incertezza",
+            "problematicità"
+        ]
+    },
+    {
+        "category": "barcollamento",
+        "items": [
+            "barcollio",
+            "dondolamento",
+            "increspamento",
+            "indecisione"
+        ]
+    },
+    {
+        "category": "fisima",
+        "items": [
+            "fissa",
+            "fissazione",
+            "mania",
+            "ossessione"
+        ]
+    },
+    {
+        "category": "aroma",
+        "items": [
+            "effluvio",
+            "fragranza",
+            "olezzo",
+            "profumo"
+        ]
+    },
+    {
+        "category": "afrore",
+        "items": [
+            "ammorbamento",
+            "bestino",
+            "effluvio",
+            "fetidume"
+        ]
+    },
+    {
+        "category": "cogitazione",
+        "items": [
+            "contemplazione",
+            "elucubrazione",
+            "meditazione",
+            "raccoglimento"
+        ]
+    },
+    {
+        "category": "base",
+        "items": [
+            "caposaldo",
+            "cardine",
+            "fondamento",
+            "sostrato"
+        ]
+    },
+    {
+        "category": "inchiesta",
+        "items": [
+            "indagine",
+            "investigazione",
+            "scandagliamento",
+            "sondaggio"
+        ]
+    },
+    {
+        "category": "cimelio",
+        "items": [
+            "memoria",
+            "ricordino",
+            "ricordo",
+            "testimonanza"
+        ]
+    },
+    {
+        "category": "bricia",
+        "items": [
+            "fanfaluca",
+            "fesseria",
+            "inezia",
+            "minuzia"
+        ]
+    },
+    {
+        "category": "accertamento",
+        "items": [
+            "comprova",
+            "comprovamento",
+            "comprovazione",
+            "conferma"
+        ]
+    },
+    {
+        "category": "briga",
+        "items": [
+            "disturbo",
+            "fastidio",
+            "noia",
+            "noiosità"
+        ]
+    },
+    {
+        "category": "affanno",
+        "items": [
+            "afflizione",
+            "assillo",
+            "cruccio",
+            "fastidio"
+        ]
+    },
+    {
+        "category": "compianto",
+        "items": [
+            "desolazione",
+            "dispiacenza",
+            "dispiacere",
+            "dispiacimento"
+        ]
+    },
+    {
+        "category": "calappio",
+        "items": [
+            "inganno",
+            "laccio",
+            "rete",
+            "tagliola"
+        ]
+    },
+    {
+        "category": "conclusione",
+        "items": [
+            "decisione",
+            "delibera",
+            "deliberazione",
+            "determinazione"
+        ]
+    },
+    {
+        "category": "carattere",
+        "items": [
+            "fatta",
+            "modello",
+            "natura",
+            "ordine"
+        ]
+    },
+    {
+        "category": "congettura",
+        "items": [
+            "premessa",
+            "presunzione",
+            "presupposto",
+            "sospetto"
+        ]
+    },
+    {
+        "category": "equivocazione",
+        "items": [
+            "equivoco",
+            "fraintendimento",
+            "incomprensione",
+            "malinteso"
+        ]
+    },
+    {
+        "category": "complotto",
+        "items": [
+            "congiura",
+            "cospirazione",
+            "intrigo",
+            "orditura"
+        ]
+    },
+    {
+        "category": "armeggio",
+        "items": [
+            "intrallazzo",
+            "intrigo",
+            "intruglio",
+            "lavorio"
+        ]
+    },
+    {
+        "category": "farnetico",
+        "items": [
+            "ghiribizzo",
+            "griccio",
+            "schiribizzo",
+            "stravaganza"
+        ]
+    },
+    {
+        "category": "centro",
+        "items": [
+            "essenza",
+            "merito",
+            "nerbo",
+            "nocciolo"
+        ]
+    },
+    {
+        "category": "prospetto",
+        "items": [
+            "scena",
+            "visione",
+            "vista",
+            "visuale"
+        ]
+    },
+    {
+        "category": "costa",
+        "items": [
+            "costa_marina",
+            "costiera",
+            "litorale",
+            "littorale"
+        ]
+    },
+    {
+        "category": "memoria",
+        "items": [
+            "ricordanza",
+            "ricordo",
+            "rievocazione",
+            "rimembranza"
+        ]
+    },
+    {
+        "category": "avviso",
+        "items": [
+            "giudizio",
+            "opinione",
+            "parere",
+            "sentimento"
+        ]
+    },
+    {
+        "category": "affatturazione",
+        "items": [
+            "ammaliamento",
+            "fascinazione",
+            "incantesimo",
+            "incanto"
+        ]
+    },
+    {
+        "category": "fine",
+        "items": [
+            "meta",
+            "obbiettivo",
+            "obiettivo",
+            "scopo"
+        ]
+    },
+    {
+        "category": "finalità",
+        "items": [
+            "fine",
+            "meta",
+            "obbiettivo",
+            "obiettivo"
+        ]
+    },
+    {
+        "category": "animo",
+        "items": [
+            "disegno",
+            "finalità",
+            "fine",
+            "intendimento"
+        ]
+    },
+    {
+        "category": "malthusanismo",
+        "items": [
+            "malthusianesimo",
+            "malthusianismo",
+            "maltusianesimo",
+            "maltusianismo"
+        ]
+    },
+    {
+        "category": "ambito",
+        "items": [
+            "campo",
+            "disciplina",
+            "materia",
+            "ramo"
+        ]
+    },
+    {
+        "category": "aereonautica",
+        "items": [
+            "aeronautica",
+            "astronautica",
+            "aviazione",
+            "cosmonautica"
+        ]
+    },
+    {
+        "category": "equanimità",
+        "items": [
+            "equità",
+            "imparzialità",
+            "obbiettività",
+            "obiettività"
+        ]
+    },
+    {
+        "category": "bacchettonaggine",
+        "items": [
+            "bacchettoneria",
+            "beghinaggio",
+            "bigotteria",
+            "bigottismo"
+        ]
+    },
+    {
+        "category": "opinione",
+        "items": [
+            "posizione",
+            "prospettiva",
+            "punto_di_vista",
+            "visione"
+        ]
+    },
+    {
+        "category": "angolazione",
+        "items": [
+            "aspetto",
+            "ottica",
+            "prospettiva",
+            "punto_di_vista"
+        ]
+    },
+    {
+        "category": "Islam",
+        "items": [
+            "islam",
+            "islamismo",
+            "maomettismo",
+            "mezza_luna"
+        ]
+    },
+    {
+        "category": "TV",
+        "items": [
+            "tele",
+            "televisione",
+            "tivvù",
+            "tivù"
+        ]
+    },
+    {
+        "category": "avvertimento",
+        "items": [
+            "introduzione",
+            "isagoge",
+            "prefazione",
+            "proemio"
+        ]
+    },
+    {
+        "category": "luogo",
+        "items": [
+            "pagina",
+            "passaggio",
+            "passo",
+            "pezzo"
+        ]
+    },
+    {
+        "category": "calligrafia",
+        "items": [
+            "carattere",
+            "grafia",
+            "mano",
+            "scrittura"
+        ]
+    },
+    {
+        "category": "fascicolo",
+        "items": [
+            "librettino",
+            "libretto",
+            "opuscoletto",
+            "opuscolo"
+        ]
+    },
+    {
+        "category": "abregé",
+        "items": [
+            "abrégé",
+            "breviario",
+            "compendio",
+            "condensato"
+        ]
+    },
+    {
+        "category": "atto",
+        "items": [
+            "carta",
+            "documento",
+            "incartamento",
+            "scrittura"
+        ]
+    },
+    {
+        "category": "listino",
+        "items": [
+            "listino_dei_prezzi",
+            "listino_prezzi",
+            "preziario",
+            "prezzario"
+        ]
+    },
+    {
+        "category": "dossier",
+        "items": [
+            "fascicolo",
+            "incartamento",
+            "inserto",
+            "pratica"
+        ]
+    },
+    {
+        "category": "domanda",
+        "items": [
+            "esposto",
+            "instanzia",
+            "istanza",
+            "memoriale"
+        ]
+    },
+    {
+        "category": "cronaca",
+        "items": [
+            "cronistoria",
+            "memoriale",
+            "resoconto",
+            "storia"
+        ]
+    },
+    {
+        "category": "buono",
+        "items": [
+            "cedola",
+            "certificato",
+            "coupon",
+            "stampiglia"
+        ]
+    },
+    {
+        "category": "bolletta",
+        "items": [
+            "bulletta",
+            "contromarca",
+            "polizza",
+            "quetazione"
+        ]
+    },
+    {
+        "category": "affitto",
+        "items": [
+            "conduzione",
+            "contratto_di_affitto",
+            "leasing",
+            "locazione"
+        ]
+    },
+    {
+        "category": "complotto",
+        "items": [
+            "congiura",
+            "cospirazione",
+            "inganno",
+            "intrigo"
+        ]
+    },
+    {
+        "category": "commissione",
+        "items": [
+            "ord.",
+            "ordinativo",
+            "ordinazione",
+            "ordine"
+        ]
+    },
+    {
+        "category": "commessa",
+        "items": [
+            "decreto",
+            "editto",
+            "intimazione",
+            "ordinanza"
+        ]
+    },
+    {
+        "category": "autorizzazione",
+        "items": [
+            "lasciapassare",
+            "licenza",
+            "passi",
+            "permesso"
+        ]
+    },
+    {
+        "category": "antologia",
+        "items": [
+            "crestomazia",
+            "fiore",
+            "florilegio",
+            "poliantea"
+        ]
+    },
+    {
+        "category": "argomento",
+        "items": [
+            "materia",
+            "oggetto",
+            "soggetto",
+            "tasto"
+        ]
+    },
+    {
+        "category": "assurdità",
+        "items": [
+            "controsenso",
+            "eresia",
+            "idiozia",
+            "insulsaggine"
+        ]
+    },
+    {
+        "category": "assurdità",
+        "items": [
+            "incongruenza",
+            "insensatezza",
+            "non_senso",
+            "nonsenso"
+        ]
+    },
+    {
+        "category": "baggianata",
+        "items": [
+            "boiata",
+            "ciarpame",
+            "citrullaggine",
+            "cretineria"
+        ]
+    },
+    {
+        "category": "accenno",
+        "items": [
+            "indice",
+            "indizio",
+            "segno",
+            "traccia"
+        ]
+    },
+    {
+        "category": "inframettenza",
+        "items": [
+            "inframmettenza",
+            "ingerenza",
+            "intervento",
+            "intromissione"
+        ]
+    },
+    {
+        "category": "buone_maniere",
+        "items": [
+            "cerimoniale",
+            "etichetta",
+            "galateo",
+            "rituale"
+        ]
+    },
+    {
+        "category": "avviso",
+        "items": [
+            "consiglio",
+            "consulenza",
+            "parere",
+            "raccomandazione"
+        ]
+    },
+    {
+        "category": "ammonimento",
+        "items": [
+            "ammonizione",
+            "avvertenza",
+            "avvertimento",
+            "avviso"
+        ]
+    },
+    {
+        "category": "corso_di_studi",
+        "items": [
+            "corso_di_studio",
+            "piano_di_studi",
+            "programma_di_studi",
+            "programma_di_studio"
+        ]
+    },
+    {
+        "category": "certificato_di_diritto_di_opzione",
+        "items": [
+            "certificato_di_diritto_di_sottoscrizione",
+            "garantia",
+            "garanzia",
+            "warrant"
+        ]
+    },
+    {
+        "category": "acconto",
+        "items": [
+            "anticipo",
+            "caparra",
+            "deposito",
+            "deposito_cauzionale"
+        ]
+    },
+    {
+        "category": "acclamazione",
+        "items": [
+            "applauso",
+            "battimani",
+            "battimano",
+            "ovazione"
+        ]
+    },
+    {
+        "category": "approvazione",
+        "items": [
+            "congratulazioni",
+            "elogio",
+            "felicitazioni",
+            "lode"
+        ]
+    },
+    {
+        "category": "accarezzamento",
+        "items": [
+            "adulazione",
+            "blandizia",
+            "blandizie",
+            "cortigianeria"
+        ]
+    },
+    {
+        "category": "ammonimento",
+        "items": [
+            "ammonizione",
+            "animadversione",
+            "animavversione",
+            "bacchettata"
+        ]
+    },
+    {
+        "category": "partaccia",
+        "items": [
+            "rabbuffo",
+            "rimprovero",
+            "strillata",
+            "urlata"
+        ]
+    },
+    {
+        "category": "intemerata",
+        "items": [
+            "pistolotto",
+            "predicozzo",
+            "sermoncino",
+            "sermone"
+        ]
+    },
+    {
+        "category": "affronto",
+        "items": [
+            "epiteto",
+            "improperio",
+            "ingiuria",
+            "insulto"
+        ]
+    },
+    {
+        "category": "scherno",
+        "items": [
+            "sdegno",
+            "spregio",
+            "sprezzo",
+            "vilipendio"
+        ]
+    },
+    {
+        "category": "abbaiata",
+        "items": [
+            "canzonatura",
+            "derisione",
+            "dileggio",
+            "grida_di_scherno"
+        ]
+    },
+    {
+        "category": "calunnia",
+        "items": [
+            "denigrazione",
+            "detrazione",
+            "diffamazione",
+            "maldicenza"
+        ]
+    },
+    {
+        "category": "chiarificazione",
+        "items": [
+            "chiarimento",
+            "lumeggiamento",
+            "rischiaramento",
+            "rischiarimento"
+        ]
+    },
+    {
+        "category": "cagione",
+        "items": [
+            "causa",
+            "causale",
+            "materia",
+            "motivo"
+        ]
+    },
+    {
+        "category": "fandonia",
+        "items": [
+            "frottola",
+            "palla",
+            "pispola",
+            "storia"
+        ]
+    },
+    {
+        "category": "addentellato",
+        "items": [
+            "ammennicolo",
+            "pretesto",
+            "rampino",
+            "storia"
+        ]
+    },
+    {
+        "category": "accenno",
+        "items": [
+            "allusione",
+            "cenno",
+            "menzione",
+            "riferimento"
+        ]
+    },
+    {
+        "category": "arguzia",
+        "items": [
+            "battuta",
+            "boutade",
+            "frizzo",
+            "punzecchiatura"
+        ]
+    },
+    {
+        "category": "beccata",
+        "items": [
+            "botta",
+            "freccia",
+            "frecciata",
+            "stoccata"
+        ]
+    },
+    {
+        "category": "accomodamento",
+        "items": [
+            "accordo",
+            "compromesso",
+            "conciliazione",
+            "concordato"
+        ]
+    },
+    {
+        "category": "argutezza",
+        "items": [
+            "arguzia",
+            "boutade",
+            "facezia",
+            "frizzo"
+        ]
+    },
+    {
+        "category": "causticità",
+        "items": [
+            "ironia",
+            "sarcasmo",
+            "satira",
+            "scherno"
+        ]
+    },
+    {
+        "category": "amenità",
+        "items": [
+            "buffonata",
+            "buffoneria",
+            "facezia",
+            "gag"
+        ]
+    },
+    {
+        "category": "affiche",
+        "items": [
+            "cartello",
+            "cartellone",
+            "manifesto",
+            "poster"
+        ]
+    },
+    {
+        "category": "gesticolazione",
+        "items": [
+            "gesto",
+            "gestualità",
+            "mimica",
+            "movimento"
+        ]
+    },
+    {
+        "category": "dimostrazione",
+        "items": [
+            "manifestazione",
+            "mostra",
+            "sbandieramento",
+            "sfoggio"
+        ]
+    },
+    {
+        "category": "cavillosità",
+        "items": [
+            "dottoraggine",
+            "meticolosaggine",
+            "pedantaggine",
+            "pedanteria"
+        ]
+    },
+    {
+        "category": "esplosione",
+        "items": [
+            "impeto",
+            "rigurgito",
+            "scatto",
+            "scoppio"
+        ]
+    },
+    {
+        "category": "ampollosità",
+        "items": [
+            "declamazione",
+            "enfasi",
+            "gonfiezza",
+            "paludamento"
+        ]
+    },
+    {
+        "category": "brevità",
+        "items": [
+            "compendiosità",
+            "concisione",
+            "scabrezza",
+            "sentenziosità"
+        ]
+    },
+    {
+        "category": "clamore",
+        "items": [
+            "grido",
+            "strillata",
+            "urlata",
+            "urlo"
+        ]
+    },
+    {
+        "category": "baccano",
+        "items": [
+            "buggerio",
+            "buscherio",
+            "busso",
+            "chiasso"
+        ]
+    },
+    {
+        "category": "bestemmia",
+        "items": [
+            "eresia",
+            "giaculatoria",
+            "imprecazione",
+            "maledizione"
+        ]
+    },
+    {
+        "category": "chiacchierata",
+        "items": [
+            "colloquio",
+            "conversare",
+            "conversazione",
+            "discorso"
+        ]
+    },
+    {
+        "category": "chiacchiericcio",
+        "items": [
+            "chiacchierio",
+            "cicalamento",
+            "cicaleccio",
+            "cicalio"
+        ]
+    },
+    {
+        "category": "chiacchiera",
+        "items": [
+            "chicacchiera",
+            "ciancia",
+            "cicalata",
+            "fanfaluca"
+        ]
+    },
+    {
+        "category": "contraddittorio",
+        "items": [
+            "contradittorio",
+            "dibattimento",
+            "dibattito",
+            "discussione"
+        ]
+    },
+    {
+        "category": "contrattazione",
+        "items": [
+            "deal",
+            "dialogo",
+            "negoziato",
+            "negoziazione"
+        ]
+    },
+    {
+        "category": "adagio",
+        "items": [
+            "detto",
+            "massima",
+            "motto",
+            "sentenza"
+        ]
+    },
+    {
+        "category": "aforisma",
+        "items": [
+            "aforismo",
+            "apoftegma",
+            "gnome",
+            "motto"
+        ]
+    },
+    {
+        "category": "argot",
+        "items": [
+            "frasario",
+            "fraseologia",
+            "gergo",
+            "linguaggio"
+        ]
+    },
+    {
+        "category": "chiarificazione",
+        "items": [
+            "chiarimento",
+            "delucidazione",
+            "dilucidazione",
+            "precisazione"
+        ]
+    },
+    {
+        "category": "acconsentimento",
+        "items": [
+            "acquiescenza",
+            "adesione",
+            "arrendevolezza",
+            "assenso"
+        ]
+    },
+    {
+        "category": "accomodamento",
+        "items": [
+            "appianamento",
+            "composizione",
+            "conciliazione",
+            "concordato"
+        ]
+    },
+    {
+        "category": "bega",
+        "items": [
+            "contestazione",
+            "contrasto",
+            "dissidio",
+            "lite"
+        ]
+    },
+    {
+        "category": "contesa",
+        "items": [
+            "controversia",
+            "discussione",
+            "disputa",
+            "litigio"
+        ]
+    },
+    {
+        "category": "abbaruffamento",
+        "items": [
+            "accapigliamento",
+            "altercazione",
+            "alterco",
+            "azzuffamento"
+        ]
+    },
+    {
+        "category": "alterco",
+        "items": [
+            "baruffa",
+            "disputa",
+            "lite",
+            "litigio"
+        ]
+    },
+    {
+        "category": "diniego",
+        "items": [
+            "nego",
+            "niego",
+            "recusa",
+            "ricusa"
+        ]
+    },
+    {
+        "category": "recusa",
+        "items": [
+            "repulsa",
+            "ricusa",
+            "ripulsa",
+            "secco_rifiuto"
+        ]
+    },
+    {
+        "category": "antimilitarismo",
+        "items": [
+            "difficoltà",
+            "obbiezione",
+            "obiezione",
+            "osservazione"
+        ]
+    },
+    {
+        "category": "doglianza",
+        "items": [
+            "doglienza",
+            "lagnanza",
+            "lagno",
+            "lamentela"
+        ]
+    },
+    {
+        "category": "borbottamento",
+        "items": [
+            "borbottio",
+            "brontolamento",
+            "brontolio",
+            "fiotto"
+        ]
+    },
+    {
+        "category": "belato",
+        "items": [
+            "cantilena",
+            "lagna",
+            "piagnucolamento",
+            "piagnucolio"
+        ]
+    },
+    {
+        "category": "compianto",
+        "items": [
+            "corrotto",
+            "lamentanza",
+            "lamentazione",
+            "lamento"
+        ]
+    },
+    {
+        "category": "narrativa",
+        "items": [
+            "narrazione",
+            "novella",
+            "racconto",
+            "storia"
+        ]
+    },
+    {
+        "category": "maldicenza",
+        "items": [
+            "mormorazione",
+            "mormoreggiamento",
+            "scandalo",
+            "sussurrio"
+        ]
+    },
+    {
+        "category": "allarme",
+        "items": [
+            "avvertenza",
+            "avvertimento",
+            "avviso",
+            "preallarme"
+        ]
+    },
+    {
+        "category": "assicurazione",
+        "items": [
+            "caparra",
+            "garantia",
+            "garanzia",
+            "impegno"
+        ]
+    },
+    {
+        "category": "autoincensamento",
+        "items": [
+            "bravata",
+            "millanteria",
+            "vantazione",
+            "vanteria"
+        ]
+    },
+    {
+        "category": "fanfaronata",
+        "items": [
+            "gigionata",
+            "millantamento",
+            "millanteria",
+            "smargiassata"
+        ]
+    },
+    {
+        "category": "bravacciata",
+        "items": [
+            "bravazzata",
+            "gradassata",
+            "guasconata",
+            "pallonata"
+        ]
+    },
+    {
+        "category": "allocuzione",
+        "items": [
+            "arringa",
+            "discorso",
+            "indirizzo",
+            "orazione"
+        ]
+    },
+    {
+        "category": "delirio",
+        "items": [
+            "farneticamento",
+            "farneticazione",
+            "frenesia",
+            "frenetico"
+        ]
+    },
+    {
+        "category": "annuncio",
+        "items": [
+            "annunzio",
+            "inserzione",
+            "pubblicità",
+            "reclame"
+        ]
+    },
+    {
+        "category": "depliant",
+        "items": [
+            "dépliant",
+            "manifestino",
+            "pieghevole",
+            "volantino"
+        ]
+    },
+    {
+        "category": "accadimento",
+        "items": [
+            "accaduto",
+            "avvenimento",
+            "episodio",
+            "fatto"
+        ]
+    },
+    {
+        "category": "annuncio",
+        "items": [
+            "annunzio",
+            "augurio",
+            "auspicio",
+            "presagio"
+        ]
+    },
+    {
+        "category": "albori",
+        "items": [
+            "apertura",
+            "avvio",
+            "inizio",
+            "nascita"
+        ]
+    },
+    {
+        "category": "chiusa",
+        "items": [
+            "conclusione",
+            "declinare",
+            "finale",
+            "fine"
+        ]
+    },
+    {
+        "category": "conclusione",
+        "items": [
+            "conseguenza",
+            "esito",
+            "portato",
+            "resultato"
+        ]
+    },
+    {
+        "category": "alterazione",
+        "items": [
+            "cambiamento",
+            "mutamento",
+            "mutazione",
+            "rivolgimento"
+        ]
+    },
+    {
+        "category": "avversità",
+        "items": [
+            "contrarietà",
+            "disdetta",
+            "fatalità",
+            "guaio"
+        ]
+    },
+    {
+        "category": "accidente",
+        "items": [
+            "disavventura",
+            "disgrazia",
+            "malanno",
+            "peripezia"
+        ]
+    },
+    {
+        "category": "calamità",
+        "items": [
+            "carneficina",
+            "cataclisma",
+            "catastrofe",
+            "disastro"
+        ]
+    },
+    {
+        "category": "cominciare",
+        "items": [
+            "inizio",
+            "nascere",
+            "origine",
+            "principio"
+        ]
+    },
+    {
+        "category": "elevamento",
+        "items": [
+            "elevazione",
+            "innalzamento",
+            "rialzamento",
+            "rialzo"
+        ]
+    },
+    {
+        "category": "briga",
+        "items": [
+            "cancan",
+            "fastidio",
+            "impiccio",
+            "incomodo"
+        ]
+    },
+    {
+        "category": "impasto",
+        "items": [
+            "mescolanza",
+            "miscela",
+            "miscuglio",
+            "misto"
+        ]
+    },
+    {
+        "category": "bang",
+        "items": [
+            "botta",
+            "botto",
+            "bum",
+            "scoppio"
+        ]
+    },
+    {
+        "category": "cancan",
+        "items": [
+            "chiasso",
+            "clangore",
+            "fracasso",
+            "frastuono"
+        ]
+    },
+    {
+        "category": "boato",
+        "items": [
+            "fragore",
+            "muggito",
+            "rimbombo",
+            "rintronamento"
+        ]
+    },
+    {
+        "category": "cigolio",
+        "items": [
+            "cric",
+            "cricchio",
+            "crocchio",
+            "scricchio"
+        ]
+    },
+    {
+        "category": "baccano",
+        "items": [
+            "bailamme",
+            "baraonda",
+            "bolgia",
+            "bordello"
+        ]
+    },
+    {
+        "category": "baccano",
+        "items": [
+            "casino",
+            "chiasso",
+            "confusione",
+            "fracasso"
+        ]
+    },
+    {
+        "category": "boato",
+        "items": [
+            "borbogliamento",
+            "brontolamento",
+            "fragore",
+            "mormorio"
+        ]
+    },
+    {
+        "category": "bisbiglio",
+        "items": [
+            "fremito",
+            "fruscio",
+            "fruscìo",
+            "mormorio"
+        ]
+    },
+    {
+        "category": "dirugginio",
+        "items": [
+            "stridio",
+            "strido",
+            "stridore",
+            "urlo"
+        ]
+    },
+    {
+        "category": "picchiettio",
+        "items": [
+            "tic",
+            "tic_tac",
+            "ticche",
+            "ticchettio"
+        ]
+    },
+    {
+        "category": "battiti_del_cuore",
+        "items": [
+            "battito",
+            "palpito",
+            "polso",
+            "pulsazione"
+        ]
+    },
+    {
+        "category": "frana",
+        "items": [
+            "franamento",
+            "lavina",
+            "smossa",
+            "smotta"
+        ]
+    },
+    {
+        "category": "alluvione",
+        "items": [
+            "inondazione",
+            "spaglio",
+            "straripamento",
+            "tracimazione"
+        ]
+    },
+    {
+        "category": "ceffone",
+        "items": [
+            "labbrata",
+            "manata",
+            "manrovescio",
+            "pacca"
+        ]
+    },
+    {
+        "category": "brillio",
+        "items": [
+            "luccichio",
+            "scintillio",
+            "sfavillio",
+            "sfavillo"
+        ]
+    },
+    {
+        "category": "affievolimento",
+        "items": [
+            "attenuamento",
+            "illanguidimento",
+            "infievolimento",
+            "mitigamento"
+        ]
+    },
+    {
+        "category": "cancan",
+        "items": [
+            "chiasso",
+            "dissonanza",
+            "interferenza",
+            "rumore"
+        ]
+    },
+    {
+        "category": "colamento",
+        "items": [
+            "gocciolamento",
+            "gocciolatura",
+            "gocciolio",
+            "sgocciolamento"
+        ]
+    },
+    {
+        "category": "fiotto",
+        "items": [
+            "getto",
+            "rampollamento",
+            "schizzo",
+            "sgorgo"
+        ]
+    },
+    {
+        "category": "colaggio",
+        "items": [
+            "fuga",
+            "fuoriuscita",
+            "fuoruscita",
+            "perdita"
+        ]
+    },
+    {
+        "category": "inumazione",
+        "items": [
+            "sepoltura",
+            "seppellimento",
+            "sotterramento",
+            "tumulazione"
+        ]
+    },
+    {
+        "category": "basimento",
+        "items": [
+            "deliquio",
+            "sdilinquimento",
+            "sturbo",
+            "svenimento"
+        ]
+    },
+    {
+        "category": "ardore",
+        "items": [
+            "bollore",
+            "calore",
+            "fervore",
+            "fiamma"
+        ]
+    },
+    {
+        "category": "capriccio",
+        "items": [
+            "estro",
+            "fantasia",
+            "ghiribizzo",
+            "grillo"
+        ]
+    },
+    {
+        "category": "afflizione",
+        "items": [
+            "dolore",
+            "male",
+            "patimento",
+            "pena"
+        ]
+    },
+    {
+        "category": "accoramento",
+        "items": [
+            "accorazione",
+            "afflizione",
+            "angustia",
+            "dolore"
+        ]
+    },
+    {
+        "category": "antipatia",
+        "items": [
+            "avversione",
+            "contrarietà",
+            "disgusto",
+            "fobia"
+        ]
+    },
+    {
+        "category": "disgusto",
+        "items": [
+            "nausea",
+            "repugnanza",
+            "ribrezzo",
+            "ripugnanza"
+        ]
+    },
+    {
+        "category": "abbominazione",
+        "items": [
+            "abborrimento",
+            "abominazione",
+            "aborrimento",
+            "odio"
+        ]
+    },
+    {
+        "category": "avversione",
+        "items": [
+            "disgusto",
+            "orrore",
+            "raccapriccio",
+            "repugnanza"
+        ]
+    },
+    {
+        "category": "attonimento",
+        "items": [
+            "meraviglia",
+            "sbalordimento",
+            "sbigottimento",
+            "sconcerto"
+        ]
+    },
+    {
+        "category": "concitamento",
+        "items": [
+            "concitazione",
+            "foga",
+            "infervoramento",
+            "oppure_agitazione"
+        ]
+    },
+    {
+        "category": "flemma",
+        "items": [
+            "freddezza",
+            "impassibilità",
+            "imperturbabilità",
+            "seraficità"
+        ]
+    },
+    {
+        "category": "accanimento",
+        "items": [
+            "bile",
+            "collera",
+            "furia",
+            "furore"
+        ]
+    },
+    {
+        "category": "mal_umore",
+        "items": [
+            "malumore",
+            "nervoso",
+            "paturne",
+            "paturnie"
+        ]
+    },
+    {
+        "category": "fifa",
+        "items": [
+            "paura",
+            "spavento",
+            "terrore",
+            "timore"
+        ]
+    },
+    {
+        "category": "affanno",
+        "items": [
+            "angoscia",
+            "ansia",
+            "ansietà",
+            "apprensione"
+        ]
+    },
+    {
+        "category": "affanno",
+        "items": [
+            "angoscia",
+            "angustia",
+            "cruccio",
+            "patema"
+        ]
+    },
+    {
+        "category": "affidamento",
+        "items": [
+            "buona_fede",
+            "buonafede",
+            "fede",
+            "fiducia"
+        ]
+    },
+    {
+        "category": "contentezza",
+        "items": [
+            "contento",
+            "felicità",
+            "gioiosità",
+            "lietezza"
+        ]
+    },
+    {
+        "category": "esultanza",
+        "items": [
+            "esultazione",
+            "gioia",
+            "giolito",
+            "giubilo"
+        ]
+    },
+    {
+        "category": "allegranza",
+        "items": [
+            "allegrezza",
+            "allegria",
+            "gaiezza",
+            "rallegranza"
+        ]
+    },
+    {
+        "category": "accontentamento",
+        "items": [
+            "appagamento",
+            "contentamento",
+            "contentatura",
+            "godibilità"
+        ]
+    },
+    {
+        "category": "insoddisfazione",
+        "items": [
+            "mal_umore",
+            "malcontento",
+            "malumore",
+            "scontento"
+        ]
+    },
+    {
+        "category": "costernazione",
+        "items": [
+            "disconforto",
+            "disperazione",
+            "sconforto",
+            "sconsolazione"
+        ]
+    },
+    {
+        "category": "affetto",
+        "items": [
+            "affezione",
+            "amore",
+            "attaccamento",
+            "bene"
+        ]
+    },
+    {
+        "category": "acredine",
+        "items": [
+            "agro",
+            "amarezza",
+            "amaro",
+            "astio"
+        ]
+    },
+    {
+        "category": "alterabilità",
+        "items": [
+            "irascibilità",
+            "ombrosità",
+            "permalosità",
+            "suscettibilità"
+        ]
+    },
+    {
+        "category": "bocconcino",
+        "items": [
+            "boccone",
+            "ghiottoneria",
+            "golosità",
+            "leccornia"
+        ]
+    },
+    {
+        "category": "alimentazione",
+        "items": [
+            "cibarie",
+            "dieta",
+            "regime",
+            "regime_alimentare"
+        ]
+    },
+    {
+        "category": "alimentazione",
+        "items": [
+            "alimento",
+            "nutrimento",
+            "nutrizione",
+            "sostentazione"
+        ]
+    },
+    {
+        "category": "cibaria",
+        "items": [
+            "fornitura",
+            "magazzino",
+            "provviste",
+            "rifornimenti"
+        ]
+    },
+    {
+        "category": "abboffata",
+        "items": [
+            "abbuffata",
+            "mangiata",
+            "scorpacciata",
+            "strippata"
+        ]
+    },
+    {
+        "category": "boccone",
+        "items": [
+            "morso",
+            "pezzetto",
+            "tozzo",
+            "zinzino"
+        ]
+    },
+    {
+        "category": "grascia",
+        "items": [
+            "lardo",
+            "strutto",
+            "sugna",
+            "unto"
+        ]
+    },
+    {
+        "category": "armellette",
+        "items": [
+            "armelline",
+            "avena",
+            "avena_grande",
+            "chicchi_di_riso"
+        ]
+    },
+    {
+        "category": "buccia",
+        "items": [
+            "mondatura",
+            "mondiglia",
+            "pelle",
+            "scorza"
+        ]
+    },
+    {
+        "category": "nettarina",
+        "items": [
+            "noce_pesca",
+            "nocepesca",
+            "pesca_noce",
+            "pescanoce"
+        ]
+    },
+    {
+        "category": "bagna",
+        "items": [
+            "condimento",
+            "intingolo",
+            "salsa",
+            "sughetto"
+        ]
+    },
+    {
+        "category": "accumulamento",
+        "items": [
+            "accumulo",
+            "aggregato",
+            "aggregazione",
+            "collezione"
+        ]
+    },
+    {
+        "category": "accatastamento",
+        "items": [
+            "accumulo",
+            "ammassamento",
+            "ammasso",
+            "ammucchiamento"
+        ]
+    },
+    {
+        "category": "ceto",
+        "items": [
+            "classe",
+            "classe_sociale",
+            "stato",
+            "strato"
+        ]
+    },
+    {
+        "category": "accolta",
+        "items": [
+            "addensamento",
+            "aggruppamento",
+            "raccolta",
+            "riunione"
+        ]
+    },
+    {
+        "category": "categoria",
+        "items": [
+            "classe",
+            "famiglia",
+            "genere",
+            "ordine"
+        ]
+    },
+    {
+        "category": "collo",
+        "items": [
+            "involto",
+            "malloppo",
+            "pacchetto",
+            "pacco"
+        ]
+    },
+    {
+        "category": "azienda",
+        "items": [
+            "casa",
+            "compagnia",
+            "ditta",
+            "esercizio"
+        ]
+    },
+    {
+        "category": "assicurazione",
+        "items": [
+            "compagnia_assicuratrice",
+            "compagnia_di_assicurazione",
+            "società_assicuratrice",
+            "società_di_assicurazione"
+        ]
+    },
+    {
+        "category": "ascendenza",
+        "items": [
+            "casato",
+            "ceppo",
+            "discendenza",
+            "famiglia"
+        ]
+    },
+    {
+        "category": "assemblea",
+        "items": [
+            "assise",
+            "consesso",
+            "radunata",
+            "riunione"
+        ]
+    },
+    {
+        "category": "affollamento",
+        "items": [
+            "caterva",
+            "folla",
+            "frotta",
+            "mucchio"
+        ]
+    },
+    {
+        "category": "affluenza",
+        "items": [
+            "affollamento",
+            "agglomeramento",
+            "agglomerazione",
+            "assembramento"
+        ]
+    },
+    {
+        "category": "caterva",
+        "items": [
+            "esercito",
+            "falange",
+            "legione",
+            "orda"
+        ]
+    },
+    {
+        "category": "accozzaglia",
+        "items": [
+            "combutta",
+            "confusione_di_gente",
+            "folla_disordinata",
+            "masnada"
+        ]
+    },
+    {
+        "category": "clan",
+        "items": [
+            "compagine",
+            "equipe",
+            "manipolo",
+            "nucleo"
+        ]
+    },
+    {
+        "category": "ascoltatori",
+        "items": [
+            "platea",
+            "pubblico",
+            "spettatore",
+            "teatro"
+        ]
+    },
+    {
+        "category": "borgata",
+        "items": [
+            "borghetto",
+            "casale",
+            "frazione",
+            "gruppo_di_case"
+        ]
+    },
+    {
+        "category": "cenacolo",
+        "items": [
+            "chiesuola",
+            "combriccola",
+            "consorteria",
+            "conventicola"
+        ]
+    },
+    {
+        "category": "banda",
+        "items": [
+            "clan",
+            "combriccola",
+            "congrega",
+            "cricca"
+        ]
+    },
+    {
+        "category": "banda",
+        "items": [
+            "combriccola",
+            "congrega",
+            "cricca",
+            "gang"
+        ]
+    },
+    {
+        "category": "F.M.I.",
+        "items": [
+            "Fondo_Monetario_Internazionale",
+            "Fondo_monetario_internazionale",
+            "fmi",
+            "fondo_monetario_internazionale"
+        ]
+    },
+    {
+        "category": "adunanza",
+        "items": [
+            "assemblea",
+            "consesso",
+            "consulta",
+            "convegno"
+        ]
+    },
+    {
+        "category": "censura",
+        "items": [
+            "collegio",
+            "comitato",
+            "commissione",
+            "consiglio"
+        ]
+    },
+    {
+        "category": "Bolscevismo",
+        "items": [
+            "bolscevismo",
+            "leninismo",
+            "marxismo",
+            "marxismo-leninismo"
+        ]
+    },
+    {
+        "category": "c.d.a.",
+        "items": [
+            "cda",
+            "consiglio_di_amministrazione",
+            "consiglio_di_direzione",
+            "consiglio_direttivo"
+        ]
+    },
+    {
+        "category": "accozzaglia",
+        "items": [
+            "caldarone",
+            "calderone",
+            "carabattole",
+            "cianfrusaglie"
+        ]
+    },
+    {
+        "category": "canaglia",
+        "items": [
+            "ciurmaglia",
+            "gentaglia",
+            "maramaglia",
+            "marmaglia"
+        ]
+    },
+    {
+        "category": "autoritarismo",
+        "items": [
+            "cesarismo",
+            "despotismo",
+            "dispotismo",
+            "dittatura"
+        ]
+    },
+    {
+        "category": "corpo_legislativo",
+        "items": [
+            "diritto",
+            "giurisprudenza",
+            "legge",
+            "legislazione"
+        ]
+    },
+    {
+        "category": "campo_santo",
+        "items": [
+            "camposanto",
+            "cimitero",
+            "necropoli",
+            "sepolcreto"
+        ]
+    },
+    {
+        "category": "circoscrizione",
+        "items": [
+            "compartimento",
+            "comprensorio",
+            "distretto",
+            "mandamento"
+        ]
+    },
+    {
+        "category": "borgata",
+        "items": [
+            "borgo",
+            "periferia",
+            "sobborgo",
+            "suburbio"
+        ]
+    },
+    {
+        "category": "abitazione",
+        "items": [
+            "dimora",
+            "domicilio",
+            "residenza",
+            "sede"
+        ]
+    },
+    {
+        "category": "autoparcheggio",
+        "items": [
+            "autoparco",
+            "parcheggio",
+            "parco",
+            "posteggio"
+        ]
+    },
+    {
+        "category": "apice",
+        "items": [
+            "cima",
+            "cocuzzolo",
+            "colmo",
+            "cucuzzolo"
+        ]
+    },
+    {
+        "category": "adiacenza",
+        "items": [
+            "adiacenze",
+            "circondario",
+            "dintorni",
+            "nei_pressi_di"
+        ]
+    },
+    {
+        "category": "andamento",
+        "items": [
+            "indirizzo",
+            "orientamento",
+            "tendenza",
+            "trend"
+        ]
+    },
+    {
+        "category": "incentivo",
+        "items": [
+            "incitamento",
+            "sollecitazione",
+            "spinta",
+            "sprone"
+        ]
+    },
+    {
+        "category": "brandello",
+        "items": [
+            "briciola",
+            "frantume",
+            "pezzettino",
+            "scaglia"
+        ]
+    },
+    {
+        "category": "balzo",
+        "items": [
+            "falesa",
+            "falesia",
+            "ripa",
+            "roccia"
+        ]
+    },
+    {
+        "category": "apertura",
+        "items": [
+            "crepa",
+            "crepatura",
+            "fenditura",
+            "fessura"
+        ]
+    },
+    {
+        "category": "calata",
+        "items": [
+            "china",
+            "declivio",
+            "discesa",
+            "pendio"
+        ]
+    },
+    {
+        "category": "Terra",
+        "items": [
+            "globo",
+            "globo_terrestre",
+            "mondo",
+            "terra"
+        ]
+    },
+    {
+        "category": "affluente",
+        "items": [
+            "confluente",
+            "immissario",
+            "influente",
+            "tributario"
+        ]
+    },
+    {
+        "category": "acquitrino",
+        "items": [
+            "maremma",
+            "palude",
+            "pantano",
+            "zona_paludosa"
+        ]
+    },
+    {
+        "category": "braco",
+        "items": [
+            "brago",
+            "melma",
+            "mota",
+            "palta"
+        ]
+    },
+    {
+        "category": "bisognevole",
+        "items": [
+            "esigenza",
+            "fabbisogno",
+            "necessario",
+            "necessità"
+        ]
+    },
+    {
+        "category": "anfratto",
+        "items": [
+            "burrato",
+            "burrone",
+            "dirupamento",
+            "dirupato"
+        ]
+    },
+    {
+        "category": "nocciolo",
+        "items": [
+            "osso",
+            "pietra",
+            "roccia",
+            "sasso"
+        ]
+    },
+    {
+        "category": "china",
+        "items": [
+            "costa",
+            "declivio",
+            "declività",
+            "fianco"
+        ]
+    },
+    {
+        "category": "acrocoro",
+        "items": [
+            "altipiano",
+            "altopiano",
+            "pianoro",
+            "plateau"
+        ]
+    },
+    {
+        "category": "aggrovigliamento",
+        "items": [
+            "avviluppamento",
+            "garbuglio",
+            "groppo",
+            "groviglio"
+        ]
+    },
+    {
+        "category": "cosmo",
+        "items": [
+            "creato",
+            "macrocosmo",
+            "mondo",
+            "natura"
+        ]
+    },
+    {
+        "category": "Dio",
+        "items": [
+            "Iddio",
+            "deità",
+            "dio",
+            "divinità"
+        ]
+    },
+    {
+        "category": "Dio_Padre",
+        "items": [
+            "Padre",
+            "Padre_Eterno",
+            "Padre_eterno",
+            "Padreterno"
+        ]
+    },
+    {
+        "category": "Belzebù",
+        "items": [
+            "Lucifero",
+            "Satana",
+            "berlic",
+            "berlicche"
+        ]
+    },
+    {
+        "category": "aspirante",
+        "items": [
+            "candidato",
+            "instante",
+            "istante",
+            "postulante"
+        ]
+    },
+    {
+        "category": "cacasotto",
+        "items": [
+            "codardo",
+            "fifone",
+            "pauroso",
+            "pavido"
+        ]
+    },
+    {
+        "category": "avvocato",
+        "items": [
+            "custode",
+            "difensore",
+            "guardiano",
+            "protettore"
+        ]
+    },
+    {
+        "category": "competente",
+        "items": [
+            "esperta",
+            "esperto",
+            "maestra",
+            "maestro"
+        ]
+    },
+    {
+        "category": "contravventore",
+        "items": [
+            "malfattore",
+            "offensore",
+            "reo",
+            "rompitore"
+        ]
+    },
+    {
+        "category": "islamita",
+        "items": [
+            "maomettano",
+            "mussulmano",
+            "musulmano",
+            "saraceno"
+        ]
+    },
+    {
+        "category": "accusato",
+        "items": [
+            "convenuto",
+            "giudicabile",
+            "imputato",
+            "incriminato"
+        ]
+    },
+    {
+        "category": "asso",
+        "items": [
+            "cannone",
+            "cima",
+            "demonio",
+            "fenomeno"
+        ]
+    },
+    {
+        "category": "amministratore",
+        "items": [
+            "dispensatore",
+            "elemosiniere",
+            "gestore",
+            "responsabile"
+        ]
+    },
+    {
+        "category": "adolescente",
+        "items": [
+            "giovanetto",
+            "giovinetto",
+            "pubere",
+            "teen_ager"
+        ]
+    },
+    {
+        "category": "antagonista",
+        "items": [
+            "avversario",
+            "avversatore",
+            "contendente",
+            "contraddittore"
+        ]
+    },
+    {
+        "category": "avvocato",
+        "items": [
+            "fautore",
+            "parteggiante",
+            "parteggiatore",
+            "patrocinatore"
+        ]
+    },
+    {
+        "category": "acquisitore",
+        "items": [
+            "agente",
+            "corrispondente",
+            "corrispondente_commerciale",
+            "cozzone"
+        ]
+    },
+    {
+        "category": "agitatore",
+        "items": [
+            "alimentatore",
+            "arruffapopoli",
+            "arruffapopolo",
+            "causatore"
+        ]
+    },
+    {
+        "category": "alcoldipendente",
+        "items": [
+            "alcolista",
+            "alcolizzato",
+            "alcoolista",
+            "alcoolizzato"
+        ]
+    },
+    {
+        "category": "amateur",
+        "items": [
+            "amatore",
+            "appassionato",
+            "cultore",
+            "dilettante"
+        ]
+    },
+    {
+        "category": "antenato",
+        "items": [
+            "ascendente",
+            "avo",
+            "avolo",
+            "bisarcavolo"
+        ]
+    },
+    {
+        "category": "leccaculo",
+        "items": [
+            "leccapiedi",
+            "lecchino",
+            "leccone",
+            "reggicoda"
+        ]
+    },
+    {
+        "category": "allievo",
+        "items": [
+            "apprendista",
+            "bardotto",
+            "novizio",
+            "praticante"
+        ]
+    },
+    {
+        "category": "aggiunto",
+        "items": [
+            "aiutante",
+            "aiuto",
+            "assistente",
+            "ausiliare"
+        ]
+    },
+    {
+        "category": "associato",
+        "items": [
+            "cointeressato",
+            "consociato",
+            "membro_aggregato",
+            "socio"
+        ]
+    },
+    {
+        "category": "aggressore",
+        "items": [
+            "assalitore",
+            "assaltatore",
+            "attaccante",
+            "offensore"
+        ]
+    },
+    {
+        "category": "baby",
+        "items": [
+            "bambino",
+            "bebè",
+            "bebé",
+            "bimbo"
+        ]
+    },
+    {
+        "category": "celibe",
+        "items": [
+            "giovanotto",
+            "scapolo",
+            "zitellone",
+            "zito"
+        ]
+    },
+    {
+        "category": "bailo",
+        "items": [
+            "baiulo",
+            "balio",
+            "balivo",
+            "balì"
+        ]
+    },
+    {
+        "category": "bandito",
+        "items": [
+            "brigante",
+            "ladrone",
+            "malandrino",
+            "masnadiere"
+        ]
+    },
+    {
+        "category": "barbiere",
+        "items": [
+            "barbitonsore",
+            "coiffeur",
+            "figaro",
+            "parrucchiere"
+        ]
+    },
+    {
+        "category": "accattapane",
+        "items": [
+            "accattatozzi",
+            "accattone",
+            "mendicante",
+            "mendico"
+        ]
+    },
+    {
+        "category": "amato",
+        "items": [
+            "amore",
+            "caro",
+            "cocco",
+            "diletto"
+        ]
+    },
+    {
+        "category": "barcaiolo",
+        "items": [
+            "battellante",
+            "battelliere",
+            "navalestro",
+            "navicellaio"
+        ]
+    },
+    {
+        "category": "cataplasma",
+        "items": [
+            "impiastro",
+            "lagna",
+            "mattone",
+            "noia"
+        ]
+    },
+    {
+        "category": "amoroso",
+        "items": [
+            "damo",
+            "fidanzato",
+            "innamorato",
+            "ragazzo"
+        ]
+    },
+    {
+        "category": "ammazzasette",
+        "items": [
+            "arcifanfano",
+            "ballista",
+            "bauscia",
+            "begolardo"
+        ]
+    },
+    {
+        "category": "bravaccio",
+        "items": [
+            "bravazzo",
+            "bullo",
+            "bulo",
+            "teppista"
+        ]
+    },
+    {
+        "category": "ciabattone",
+        "items": [
+            "cialtrone",
+            "disordinato",
+            "guastamestieri",
+            "guazzabuglione"
+        ]
+    },
+    {
+        "category": "curioso",
+        "items": [
+            "ficcanaso",
+            "impiccione",
+            "indiscreto",
+            "invadente"
+        ]
+    },
+    {
+        "category": "barocciaio",
+        "items": [
+            "barrocciaio",
+            "birocciaio",
+            "carrettaio",
+            "carrettiere"
+        ]
+    },
+    {
+        "category": "cartonista",
+        "items": [
+            "cartoonist",
+            "fumettista",
+            "pupazzettista",
+            "vignettista"
+        ]
+    },
+    {
+        "category": "carpentiere",
+        "items": [
+            "carradore",
+            "carraio",
+            "carratore",
+            "carrettaio"
+        ]
+    },
+    {
+        "category": "campione",
+        "items": [
+            "combattente",
+            "lottatore",
+            "paladino",
+            "partigiano"
+        ]
+    },
+    {
+        "category": "eccentrico",
+        "items": [
+            "elemento",
+            "numero",
+            "originale",
+            "personaggio"
+        ]
+    },
+    {
+        "category": "chiacchierino",
+        "items": [
+            "chiacchierone",
+            "ciancione",
+            "cicala",
+            "cicalone"
+        ]
+    },
+    {
+        "category": "bambino",
+        "items": [
+            "bimbo",
+            "fanciullo",
+            "figlio",
+            "giovane"
+        ]
+    },
+    {
+        "category": "allocco",
+        "items": [
+            "babbeo",
+            "balordo",
+            "castrone",
+            "credulone"
+        ]
+    },
+    {
+        "category": "aio",
+        "items": [
+            "insegnante_privato",
+            "istitutore",
+            "pedagogo",
+            "precettore"
+        ]
+    },
+    {
+        "category": "CT",
+        "items": [
+            "Commissario_Tecnico",
+            "allenatore",
+            "coach",
+            "mister"
+        ]
+    },
+    {
+        "category": "colonnista",
+        "items": [
+            "columnist",
+            "cronista",
+            "editorialista",
+            "fondista"
+        ]
+    },
+    {
+        "category": "conciliatore",
+        "items": [
+            "mediatore_di_pace",
+            "pacere",
+            "paciale",
+            "paciaro"
+        ]
+    },
+    {
+        "category": "abbindolatore",
+        "items": [
+            "aggiratore",
+            "arcadore",
+            "arcatore",
+            "baro"
+        ]
+    },
+    {
+        "category": "amatore",
+        "items": [
+            "bongustaio",
+            "buongustaio",
+            "conoscitore",
+            "esperto"
+        ]
+    },
+    {
+        "category": "compaesano",
+        "items": [
+            "compatriota",
+            "compatriotta",
+            "connazionale",
+            "conterraneo"
+        ]
+    },
+    {
+        "category": "boaro",
+        "items": [
+            "bovaro",
+            "cappellone",
+            "vaccaio",
+            "vaccaro"
+        ]
+    },
+    {
+        "category": "bandolero",
+        "items": [
+            "criminale",
+            "delinquente",
+            "fuorilegge",
+            "malvivente"
+        ]
+    },
+    {
+        "category": "attratto",
+        "items": [
+            "sciancato",
+            "storpiato",
+            "storpio",
+            "stortignaccolo"
+        ]
+    },
+    {
+        "category": "acchiappamosche",
+        "items": [
+            "bighellone",
+            "chiappamosche",
+            "dondolone",
+            "fannullone"
+        ]
+    },
+    {
+        "category": "ballerina",
+        "items": [
+            "ballerino",
+            "boy",
+            "danzatore",
+            "danzatrice"
+        ]
+    },
+    {
+        "category": "bellimbusto",
+        "items": [
+            "cacazibetto",
+            "cicisbeo",
+            "damerino",
+            "dandy"
+        ]
+    },
+    {
+        "category": "esagitato",
+        "items": [
+            "rompicollo",
+            "scalmanato",
+            "scavezzacollo",
+            "spericolato"
+        ]
+    },
+    {
+        "category": "amore",
+        "items": [
+            "beniamino",
+            "coccolo",
+            "favorita",
+            "prediletto"
+        ]
+    },
+    {
+        "category": "addetto",
+        "items": [
+            "delegato",
+            "deputato",
+            "incaricato",
+            "inviato"
+        ]
+    },
+    {
+        "category": "agitatore",
+        "items": [
+            "arruffapopoli",
+            "capopopolo",
+            "demagogo",
+            "guidapopolo"
+        ]
+    },
+    {
+        "category": "alimentarista",
+        "items": [
+            "dietista",
+            "dietologo",
+            "nutrizionista",
+            "sitologo"
+        ]
+    },
+    {
+        "category": "cretino",
+        "items": [
+            "fessacchiotto",
+            "mamalucco",
+            "mammalucco",
+            "minchione"
+        ]
+    },
+    {
+        "category": "amministratore",
+        "items": [
+            "amministratore_delegato",
+            "direttore",
+            "gestore",
+            "manager"
+        ]
+    },
+    {
+        "category": "ateo",
+        "items": [
+            "incredulo",
+            "miscredente",
+            "non_credente",
+            "scettico"
+        ]
+    },
+    {
+        "category": "adepto",
+        "items": [
+            "aderente",
+            "affiliato",
+            "discepolo",
+            "scolaro"
+        ]
+    },
+    {
+        "category": "Dott.",
+        "items": [
+            "Dott.ssa",
+            "dott.",
+            "dott.a",
+            "dottore"
+        ]
+    },
+    {
+        "category": "autista",
+        "items": [
+            "conducente",
+            "conduttore",
+            "guida",
+            "guidatore"
+        ]
+    },
+    {
+        "category": "drogato",
+        "items": [
+            "junkie",
+            "junky",
+            "tossico",
+            "tossicodipendente"
+        ]
+    },
+    {
+        "category": "alcolizzato",
+        "items": [
+            "alcoolizzato",
+            "avvinazzato",
+            "beone",
+            "bevone"
+        ]
+    },
+    {
+        "category": "babbeo",
+        "items": [
+            "baccalà",
+            "baccelletto",
+            "baluba",
+            "citrullo"
+        ]
+    },
+    {
+        "category": "allocco",
+        "items": [
+            "asino",
+            "broccolo",
+            "bue",
+            "castrone"
+        ]
+    },
+    {
+        "category": "moscerino",
+        "items": [
+            "moscherino",
+            "nanerottolo",
+            "nano",
+            "omino"
+        ]
+    },
+    {
+        "category": "piovra",
+        "items": [
+            "sfruttatore",
+            "sgozzatore",
+            "succhione",
+            "succiasangue"
+        ]
+    },
+    {
+        "category": "favolista",
+        "items": [
+            "novellante",
+            "novellatore",
+            "novelliere",
+            "novellista"
+        ]
+    },
+    {
+        "category": "aficionado",
+        "items": [
+            "amante",
+            "ammiratore",
+            "fan",
+            "habitué"
+        ]
+    },
+    {
+        "category": "amatore",
+        "items": [
+            "appassionato",
+            "entusiasta",
+            "fanatico",
+            "patito"
+        ]
+    },
+    {
+        "category": "agricoltore",
+        "items": [
+            "coltivatore",
+            "contadino",
+            "fattore",
+            "massaio"
+        ]
+    },
+    {
+        "category": "baciccia",
+        "items": [
+            "bolide",
+            "ciccione",
+            "grassone",
+            "pancione"
+        ]
+    },
+    {
+        "category": "bambina",
+        "items": [
+            "bimba",
+            "femminuccia",
+            "ragazza",
+            "ragazzina"
+        ]
+    },
+    {
+        "category": "adulatore",
+        "items": [
+            "incensatore",
+            "leccatore",
+            "lusingatore",
+            "piaggiatore"
+        ]
+    },
+    {
+        "category": "allocco",
+        "items": [
+            "asino",
+            "babbeo",
+            "babbuino",
+            "balordo"
+        ]
+    },
+    {
+        "category": "leccapiatti",
+        "items": [
+            "parasita",
+            "parassita",
+            "sbafatore",
+            "scroccatore"
+        ]
+    },
+    {
+        "category": "aquila",
+        "items": [
+            "cervello",
+            "cima",
+            "genio",
+            "ingegno"
+        ]
+    },
+    {
+        "category": "arlotto",
+        "items": [
+            "avido",
+            "cupido",
+            "diluviatore",
+            "epulone"
+        ]
+    },
+    {
+        "category": "battifiacca",
+        "items": [
+            "bighellone",
+            "buono_a_nulla",
+            "fannullone",
+            "lavativo"
+        ]
+    },
+    {
+        "category": "abbaiatore",
+        "items": [
+            "chiacchierone",
+            "comare",
+            "gazzetta",
+            "gazzettino"
+        ]
+    },
+    {
+        "category": "erbaiolo",
+        "items": [
+            "erbivendolo",
+            "fruttivendolo",
+            "ortolano",
+            "verduraio"
+        ]
+    },
+    {
+        "category": "avallante",
+        "items": [
+            "fideiussore",
+            "garante",
+            "mallevadore",
+            "mallevatore"
+        ]
+    },
+    {
+        "category": "imbrattacarte",
+        "items": [
+            "imbrattafogli",
+            "pennaiolo",
+            "scombiccheratore",
+            "scribacchino"
+        ]
+    },
+    {
+        "category": "locandiere",
+        "items": [
+            "oste",
+            "ostessa",
+            "ostiere",
+            "ostiero"
+        ]
+    },
+    {
+        "category": "armeggione",
+        "items": [
+            "faccendiere",
+            "intrallazzatore",
+            "intrigante",
+            "maneggione"
+        ]
+    },
+    {
+        "category": "chietino",
+        "items": [
+            "dissimulatore",
+            "fariseo",
+            "finto",
+            "ipocrita"
+        ]
+    },
+    {
+        "category": "babbeo",
+        "items": [
+            "bischero",
+            "citrullo",
+            "cretino",
+            "deficiente"
+        ]
+    },
+    {
+        "category": "acchiappamosche",
+        "items": [
+            "bighellone",
+            "ciondolone",
+            "fannullone",
+            "infingardo"
+        ]
+    },
+    {
+        "category": "birba",
+        "items": [
+            "birbante",
+            "birbone",
+            "biricchino",
+            "birichino"
+        ]
+    },
+    {
+        "category": "confidente",
+        "items": [
+            "delatore",
+            "informatore",
+            "sicofante",
+            "spia"
+        ]
+    },
+    {
+        "category": "ammutinato",
+        "items": [
+            "frondista",
+            "insorto",
+            "ribelle",
+            "rivoltoso"
+        ]
+    },
+    {
+        "category": "giureconsulto",
+        "items": [
+            "giurisperito",
+            "giurisperto",
+            "giurisprudente",
+            "giurista"
+        ]
+    },
+    {
+        "category": "assassinatore",
+        "items": [
+            "assassino",
+            "micidiale",
+            "omicida",
+            "uccisore"
+        ]
+    },
+    {
+        "category": "cacasenno",
+        "items": [
+            "saccente",
+            "sapientone",
+            "saputello",
+            "saputo"
+        ]
+    },
+    {
+        "category": "affittacamere",
+        "items": [
+            "fittacamere",
+            "locatore",
+            "locatrice",
+            "padrona_di_casa"
+        ]
+    },
+    {
+        "category": "apatico",
+        "items": [
+            "brindellone",
+            "indolente",
+            "marmotta",
+            "mollaccione"
+        ]
+    },
+    {
+        "category": "dizionarista",
+        "items": [
+            "lessicografo",
+            "vocabolarista",
+            "vocabolista",
+            "vocabulista"
+        ]
+    },
+    {
+        "category": "debosciato",
+        "items": [
+            "dissoluto",
+            "libertino",
+            "scapestrato",
+            "scostumato"
+        ]
+    },
+    {
+        "category": "autorità",
+        "items": [
+            "luminare",
+            "notabile",
+            "notabilità",
+            "personaggio_di_primo_piano"
+        ]
+    },
+    {
+        "category": "alienato",
+        "items": [
+            "anormale",
+            "demente",
+            "folle",
+            "forsennato"
+        ]
+    },
+    {
+        "category": "donzella",
+        "items": [
+            "fanciulla",
+            "pulcella",
+            "pulzella",
+            "signorina"
+        ]
+    },
+    {
+        "category": "cameriera",
+        "items": [
+            "domestica",
+            "donna",
+            "donna_di_servizio",
+            "fantesca"
+        ]
+    },
+    {
+        "category": "bambino",
+        "items": [
+            "bimbo",
+            "fanciullo",
+            "figliolo",
+            "figliuolo"
+        ]
+    },
+    {
+        "category": "indossatore",
+        "items": [
+            "indossatrice",
+            "mannequin",
+            "modella",
+            "top_model"
+        ]
+    },
+    {
+        "category": "depredatore",
+        "items": [
+            "devastatore",
+            "predatore",
+            "predone",
+            "razziatore"
+        ]
+    },
+    {
+        "category": "mezzale",
+        "items": [
+            "paraninfo",
+            "pronubo",
+            "sensale",
+            "sensale_di_matrimoni"
+        ]
+    },
+    {
+        "category": "corriere",
+        "items": [
+            "messaggero",
+            "messaggiero",
+            "messo",
+            "procaccia"
+        ]
+    },
+    {
+        "category": "arpagone",
+        "items": [
+            "avaro",
+            "petecchia",
+            "pezzente",
+            "spilorcio"
+        ]
+    },
+    {
+        "category": "mangiapane",
+        "items": [
+            "mangiaufo",
+            "parasita",
+            "parassita",
+            "sbafatore"
+        ]
+    },
+    {
+        "category": "cantambanco",
+        "items": [
+            "cantimbanco",
+            "ciarlatano",
+            "saltambanco",
+            "saltimbanco"
+        ]
+    },
+    {
+        "category": "musicista",
+        "items": [
+            "orchestrale",
+            "sonatore",
+            "strumentalista",
+            "strumentista"
+        ]
+    },
+    {
+        "category": "baby_sitter",
+        "items": [
+            "babysitter",
+            "bambinaia",
+            "governante",
+            "nurse"
+        ]
+    },
+    {
+        "category": "apprendista",
+        "items": [
+            "debuttante",
+            "esordiente",
+            "neofita",
+            "novellino"
+        ]
+    },
+    {
+        "category": "oppressore",
+        "items": [
+            "soperchiatore",
+            "sopraffattore",
+            "soverchiatore",
+            "vessatore"
+        ]
+    },
+    {
+        "category": "dannato",
+        "items": [
+            "emarginato",
+            "escluso",
+            "malvagio",
+            "paria"
+        ]
+    },
+    {
+        "category": "padrona",
+        "items": [
+            "padrone",
+            "posseditore",
+            "possessore",
+            "proprietario"
+        ]
+    },
+    {
+        "category": "attaccabottoni",
+        "items": [
+            "empiastro",
+            "gonfiatore",
+            "impiastro",
+            "importuno"
+        ]
+    },
+    {
+        "category": "collaboratore",
+        "items": [
+            "collaboratrice",
+            "compagno",
+            "cooperatore",
+            "partner"
+        ]
+    },
+    {
+        "category": "ammalato",
+        "items": [
+            "assistito",
+            "cliente",
+            "degente",
+            "malato"
+        ]
+    },
+    {
+        "category": "affermatore",
+        "items": [
+            "assertore",
+            "fautore",
+            "paladino",
+            "protettore"
+        ]
+    },
+    {
+        "category": "becero",
+        "items": [
+            "bifolco",
+            "burino",
+            "buzzurro",
+            "cafone"
+        ]
+    },
+    {
+        "category": "bacchettone",
+        "items": [
+            "baciapile",
+            "battipetto",
+            "beghino",
+            "bigotto"
+        ]
+    },
+    {
+        "category": "innovatore",
+        "items": [
+            "novatore",
+            "pioniere",
+            "rinnovatore",
+            "rinnovellatore"
+        ]
+    },
+    {
+        "category": "lumaca",
+        "items": [
+            "lumacone",
+            "marmotta",
+            "polenta",
+            "posapiano"
+        ]
+    },
+    {
+        "category": "cantore",
+        "items": [
+            "musa",
+            "poeta",
+            "rimatore",
+            "verseggiatore"
+        ]
+    },
+    {
+        "category": "agente",
+        "items": [
+            "agente_di_polizia",
+            "funzionario",
+            "guardia",
+            "poliziotto"
+        ]
+    },
+    {
+        "category": "cencioso",
+        "items": [
+            "disgraziato",
+            "meschino",
+            "miserabile",
+            "poveraccio"
+        ]
+    },
+    {
+        "category": "ceramista",
+        "items": [
+            "figulinaio",
+            "figulo",
+            "vasaio",
+            "vasellaio"
+        ]
+    },
+    {
+        "category": "carcerato",
+        "items": [
+            "coatto",
+            "detenuto",
+            "forzato",
+            "prigioniero"
+        ]
+    },
+    {
+        "category": "dilapidatore",
+        "items": [
+            "dissipatore",
+            "scialacquatore",
+            "scialacquone",
+            "scialatore"
+        ]
+    },
+    {
+        "category": "affarista",
+        "items": [
+            "pesce_cane",
+            "pescecane",
+            "profittatore",
+            "speculatore"
+        ]
+    },
+    {
+        "category": "correttore",
+        "items": [
+            "correttore_di_bozze",
+            "emendatore",
+            "revisore",
+            "riveditore"
+        ]
+    },
+    {
+        "category": "indovino",
+        "items": [
+            "necromante",
+            "negromante",
+            "profeta",
+            "sortilego"
+        ]
+    },
+    {
+        "category": "bagascia",
+        "items": [
+            "baldracca",
+            "battona",
+            "meretrice",
+            "mignotta"
+        ]
+    },
+    {
+        "category": "codino",
+        "items": [
+            "forcaiolo",
+            "legittimista",
+            "oscurantista",
+            "parruccone"
+        ]
+    },
+    {
+        "category": "Cristo",
+        "items": [
+            "Gesù",
+            "Gesù_Cristo",
+            "Gesù_di_Nazareth",
+            "il_Buon_Pastore"
+        ]
+    },
+    {
+        "category": "comunardo",
+        "items": [
+            "eversore",
+            "rivoluzionario",
+            "sovversivo",
+            "sovvertitore"
+        ]
+    },
+    {
+        "category": "creso",
+        "items": [
+            "milionario",
+            "milord",
+            "nababbo",
+            "riccone"
+        ]
+    },
+    {
+        "category": "agonista",
+        "items": [
+            "antagonista",
+            "competitore",
+            "emulo",
+            "rivale"
+        ]
+    },
+    {
+        "category": "brigante",
+        "items": [
+            "grassatore",
+            "malandrino",
+            "rapinatore",
+            "svaligiatore"
+        ]
+    },
+    {
+        "category": "bandito",
+        "items": [
+            "birba",
+            "birbante",
+            "birbantello",
+            "birbone"
+        ]
+    },
+    {
+        "category": "dimenticone",
+        "items": [
+            "distratto",
+            "sbadato",
+            "smemorato",
+            "stordito"
+        ]
+    },
+    {
+        "category": "dotto",
+        "items": [
+            "erudito",
+            "letterato",
+            "studente",
+            "studioso"
+        ]
+    },
+    {
+        "category": "canzonatore",
+        "items": [
+            "chi_prende_in_giro",
+            "corbellatore",
+            "derisore",
+            "dileggiatore"
+        ]
+    },
+    {
+        "category": "barbogio",
+        "items": [
+            "borbottone",
+            "brontolone",
+            "criticone",
+            "rintronato"
+        ]
+    },
+    {
+        "category": "cameriere",
+        "items": [
+            "famiglio",
+            "inserviente",
+            "persona_di_servizio",
+            "servitore"
+        ]
+    },
+    {
+        "category": "sacrestano",
+        "items": [
+            "sacrista",
+            "sagrestano",
+            "sagrista",
+            "scaccino"
+        ]
+    },
+    {
+        "category": "bottegaio",
+        "items": [
+            "bottegante",
+            "commerciante",
+            "esercente",
+            "mercante"
+        ]
+    },
+    {
+        "category": "baccellone",
+        "items": [
+            "baggiano",
+            "balordo",
+            "bambinone",
+            "bamboccio"
+        ]
+    },
+    {
+        "category": "imboscato",
+        "items": [
+            "lavativo",
+            "lazzarone",
+            "lazzerone",
+            "pelandrone"
+        ]
+    },
+    {
+        "category": "figlio",
+        "items": [
+            "figlio_maschio",
+            "figliolo",
+            "figliuolo",
+            "maschio"
+        ]
+    },
+    {
+        "category": "categoria",
+        "items": [
+            "razza",
+            "specie",
+            "stampo",
+            "tipo"
+        ]
+    },
+    {
+        "category": "cavalletta",
+        "items": [
+            "dissipatore",
+            "scialone",
+            "sciupone",
+            "spendaccione"
+        ]
+    },
+    {
+        "category": "celebrità",
+        "items": [
+            "divo",
+            "star",
+            "stella",
+            "vedette"
+        ]
+    },
+    {
+        "category": "caricatore",
+        "items": [
+            "portuale",
+            "scaricatore",
+            "scaricatore_di_porto",
+            "stivatore"
+        ]
+    },
+    {
+        "category": "estraneo",
+        "items": [
+            "forestiero",
+            "imparziale",
+            "sconosciuto",
+            "strano"
+        ]
+    },
+    {
+        "category": "allocco",
+        "items": [
+            "arteriosclerotico",
+            "babbeo",
+            "babbuino",
+            "balordo"
+        ]
+    },
+    {
+        "category": "dipendente",
+        "items": [
+            "inferiore",
+            "sottoposto",
+            "sottostante",
+            "subordinato"
+        ]
+    },
+    {
+        "category": "ammiratore",
+        "items": [
+            "beccamorti",
+            "beccamorto",
+            "cascamorto",
+            "corteggiatore"
+        ]
+    },
+    {
+        "category": "amichetto",
+        "items": [
+            "amore",
+            "fiamma",
+            "innamorato",
+            "moroso"
+        ]
+    },
+    {
+        "category": "conciaio",
+        "items": [
+            "conciaiolo",
+            "conciapelli",
+            "conciario",
+            "conciatore"
+        ]
+    },
+    {
+        "category": "docente",
+        "items": [
+            "insegnante",
+            "istruttore",
+            "maestra",
+            "maestro"
+        ]
+    },
+    {
+        "category": "affittuario",
+        "items": [
+            "fittabile",
+            "fittaiolo",
+            "fittavolo",
+            "inquilino"
+        ]
+    },
+    {
+        "category": "addestratore",
+        "items": [
+            "addomesticatore",
+            "allenatore",
+            "ammaestratore",
+            "coach"
+        ]
+    },
+    {
+        "category": "accattabrighe",
+        "items": [
+            "arruffamatasse",
+            "arruffone",
+            "attaccabrighe",
+            "chi_semina_discordia"
+        ]
+    },
+    {
+        "category": "autocrate",
+        "items": [
+            "despota",
+            "dittatore",
+            "ras",
+            "tiranno"
+        ]
+    },
+    {
+        "category": "barbone",
+        "items": [
+            "errabondo",
+            "girovago",
+            "randagio",
+            "vagabondo"
+        ]
+    },
+    {
+        "category": "danneggiato",
+        "items": [
+            "disastrato",
+            "mal_capitato",
+            "malcapitato",
+            "vittima"
+        ]
+    },
+    {
+        "category": "barabba",
+        "items": [
+            "boia",
+            "brigante",
+            "canaglia",
+            "delinquente"
+        ]
+    },
+    {
+        "category": "borbottone",
+        "items": [
+            "brontolone",
+            "frignone",
+            "gnaulone",
+            "mormoratore"
+        ]
+    },
+    {
+        "category": "casanova",
+        "items": [
+            "dongiovanni",
+            "donnaiolo",
+            "farfallone",
+            "sciupafemmine"
+        ]
+    },
+    {
+        "category": "boscaiolo",
+        "items": [
+            "legnaiolo",
+            "spaccalegna",
+            "tagliaboschi",
+            "taglialegna"
+        ]
+    },
+    {
+        "category": "bifolco",
+        "items": [
+            "mal_educato",
+            "maleducato",
+            "tanghero",
+            "villano"
+        ]
+    },
+    {
+        "category": "conclusione",
+        "items": [
+            "conseguenza",
+            "effetto",
+            "portato",
+            "resultato"
+        ]
+    },
+    {
+        "category": "fascio",
+        "items": [
+            "fascio_di_luce",
+            "fascio_luminoso",
+            "raggio",
+            "raggio_di_luce"
+        ]
+    },
+    {
+        "category": "arietta",
+        "items": [
+            "aura",
+            "brezza",
+            "zeffiro",
+            "zefiro"
+        ]
+    },
+    {
+        "category": "decomponimento",
+        "items": [
+            "decomposizione",
+            "disfacimento",
+            "dissolvimento",
+            "marcimento"
+        ]
+    },
+    {
+        "category": "bufera",
+        "items": [
+            "burrasca",
+            "fortunale",
+            "tempesta",
+            "temporale"
+        ]
+    },
+    {
+        "category": "bruma",
+        "items": [
+            "caligine",
+            "foschia",
+            "nebbia",
+            "nebbiolina"
+        ]
+    },
+    {
+        "category": "acquerella",
+        "items": [
+            "acquerugiola",
+            "annacquata",
+            "pioggerella",
+            "pioggerellina"
+        ]
+    },
+    {
+        "category": "espero",
+        "items": [
+            "favonio",
+            "ponente",
+            "zeffiro",
+            "zefiro"
+        ]
+    },
+    {
+        "category": "ciclone",
+        "items": [
+            "molinello",
+            "mulinello",
+            "turbine",
+            "vortice"
+        ]
+    },
+    {
+        "category": "Armoracia_rusticana",
+        "items": [
+            "armoraccio",
+            "barbaforte",
+            "cren",
+            "crenno"
+        ]
+    },
+    {
+        "category": "Lunaria_annua",
+        "items": [
+            "lunaria",
+            "lunaria_meridionale",
+            "medaglie_del_Papa",
+            "monete_del_Papa"
+        ]
+    },
+    {
+        "category": "Achillea_millefolium",
+        "items": [
+            "achillea",
+            "millefoglie",
+            "millefoglio",
+            "millefoglio_montano"
+        ]
+    },
+    {
+        "category": "Arctium_lappa",
+        "items": [
+            "bardana",
+            "bardana_maggiore",
+            "lappa",
+            "lappa_bardana"
+        ]
+    },
+    {
+        "category": "Cichorium_endivia",
+        "items": [
+            "endivia",
+            "indivia",
+            "scariola",
+            "scarola"
+        ]
+    },
+    {
+        "category": "Lactuca_serriola",
+        "items": [
+            "erba_bussola",
+            "lattuga_selvatica",
+            "scariola",
+            "scarola"
+        ]
+    },
+    {
+        "category": "Senecio_jacobaea",
+        "items": [
+            "erba_di_San_Giacomo",
+            "senecio",
+            "senecione",
+            "senecione_di_San_Giacomo"
+        ]
+    },
+    {
+        "category": "Anagallis_arvensis",
+        "items": [
+            "anagallide",
+            "centonchio_dei_campi",
+            "mordigallina",
+            "terzanella"
+        ]
+    },
+    {
+        "category": "Zea_mays",
+        "items": [
+            "formentone",
+            "granoturco",
+            "granturco",
+            "mais"
+        ]
+    },
+    {
+        "category": "Cucurbita_pepo",
+        "items": [
+            "cocuzza",
+            "cucurbita",
+            "cucuzza",
+            "zucca"
+        ]
+    },
+    {
+        "category": "Calluna_vulgaris",
+        "items": [
+            "brentolo",
+            "brugo",
+            "crecchia",
+            "erica"
+        ]
+    },
+    {
+        "category": "Quercus_ilex",
+        "items": [
+            "elce",
+            "elice",
+            "ilice",
+            "leccio"
+        ]
+    },
+    {
+        "category": "Syringa_vulgaris",
+        "items": [
+            "fior_di_maggio",
+            "lilla",
+            "lillà",
+            "serenella"
+        ]
+    },
+    {
+        "category": "Punica_granatum",
+        "items": [
+            "melogranato",
+            "melograno",
+            "pomo_granato",
+            "pomogranato"
+        ]
+    },
+    {
+        "category": "Daphne_laureola",
+        "items": [
+            "dafne_laurella",
+            "erba_laureola",
+            "laureola",
+            "olivella"
+        ]
+    },
+    {
+        "category": "mirica",
+        "items": [
+            "mirice",
+            "tamarice",
+            "tamarisco",
+            "tamerice"
+        ]
+    },
+    {
+        "category": "Medicago_sativa",
+        "items": [
+            "erba_medica",
+            "erba_spagna",
+            "erba-medica",
+            "medica"
+        ]
+    },
+    {
+        "category": "Onobrychis_viciifolia",
+        "items": [
+            "crocetta",
+            "fieno_santo",
+            "lupinella",
+            "lupinella_comune"
+        ]
+    },
+    {
+        "category": "albaspina",
+        "items": [
+            "biancospino",
+            "ossiacanta",
+            "ossicante",
+            "prunalbo"
+        ]
+    },
+    {
+        "category": "Prunus_cerasifera",
+        "items": [
+            "ciliegio-susino",
+            "mirabolano",
+            "mirobolano",
+            "susino_asiatico"
+        ]
+    },
+    {
+        "category": "Prunus_cerasus",
+        "items": [
+            "amarasca",
+            "amareno",
+            "marasca",
+            "marena"
+        ]
+    },
+    {
+        "category": "amarasca",
+        "items": [
+            "amarasco",
+            "ciliegiolo",
+            "marasca",
+            "marasco"
+        ]
+    },
+    {
+        "category": "prunaio",
+        "items": [
+            "roveto",
+            "rovo",
+            "spinaio",
+            "spineto"
+        ]
+    },
+    {
+        "category": "Galium_aparine",
+        "items": [
+            "asperella",
+            "asprella",
+            "attaccamani",
+            "attaccaveste"
+        ]
+    },
+    {
+        "category": "Populus_alba",
+        "items": [
+            "albero",
+            "albogatto",
+            "gattice",
+            "pioppo_bianco"
+        ]
+    },
+    {
+        "category": "Borago_officinalis",
+        "items": [
+            "borraggine",
+            "borragine",
+            "borragine_comune",
+            "borrana"
+        ]
+    },
+    {
+        "category": "Melissa_officinalis",
+        "items": [
+            "cedronella",
+            "citronella",
+            "erba_limona",
+            "melissa"
+        ]
+    },
+    {
+        "category": "Physalis_alkekengi",
+        "items": [
+            "alcachengi",
+            "alchechengi",
+            "alchechengi_comune",
+            "palloncini"
+        ]
+    },
+    {
+        "category": "bene",
+        "items": [
+            "cosa",
+            "patrimonio",
+            "possedimento",
+            "proprietà"
+        ]
+    },
+    {
+        "category": "cespite",
+        "items": [
+            "entrata",
+            "introito",
+            "reddito",
+            "utile"
+        ]
+    },
+    {
+        "category": "guadagno",
+        "items": [
+            "lucro",
+            "netto",
+            "profitto",
+            "reddito_netto"
+        ]
+    },
+    {
+        "category": "proventi",
+        "items": [
+            "provento",
+            "rendita",
+            "ricavato",
+            "ricavo"
+        ]
+    },
+    {
+        "category": "bottino",
+        "items": [
+            "grisbi",
+            "malloppo",
+            "maltolto",
+            "preda"
+        ]
+    },
+    {
+        "category": "bonus",
+        "items": [
+            "extra",
+            "gratifica",
+            "gratificazione",
+            "incentivazione"
+        ]
+    },
+    {
+        "category": "compenso",
+        "items": [
+            "corresponsione",
+            "pagamento",
+            "retribuzione",
+            "versamento"
+        ]
+    },
+    {
+        "category": "compenso",
+        "items": [
+            "mercede",
+            "paga",
+            "remunerazione",
+            "retribuzione"
+        ]
+    },
+    {
+        "category": "compensazione",
+        "items": [
+            "indennità",
+            "indennizzo",
+            "rifusione",
+            "risarcimento"
+        ]
+    },
+    {
+        "category": "imposizione",
+        "items": [
+            "imposta",
+            "tassa",
+            "tassazione",
+            "tributo"
+        ]
+    },
+    {
+        "category": "addizionale",
+        "items": [
+            "imposta_addizionale",
+            "sopratassa",
+            "soprattassa",
+            "sovraimposta"
+        ]
+    },
+    {
+        "category": "I.V.A.",
+        "items": [
+            "Imposta_sul_Valore_Aggiunto",
+            "i.v.a.",
+            "imposta_ad_valorem",
+            "imposta_sul_valore_aggiunto"
+        ]
+    },
+    {
+        "category": "cachet",
+        "items": [
+            "compenso",
+            "notula",
+            "onorario",
+            "parcella"
+        ]
+    },
+    {
+        "category": "ammontare",
+        "items": [
+            "cifra",
+            "importo",
+            "somma",
+            "somma_di_denaro"
+        ]
+    },
+    {
+        "category": "giocata",
+        "items": [
+            "gioco",
+            "posta",
+            "posta_in_gioco",
+            "puntata"
+        ]
+    },
+    {
+        "category": "avallo",
+        "items": [
+            "fideiussione",
+            "garantia",
+            "garanzia",
+            "malleveria"
+        ]
+    },
+    {
+        "category": "c_/_c",
+        "items": [
+            "conto_bancario",
+            "conto_corrente",
+            "conto_corrente_bancario",
+            "conto_in_banca"
+        ]
+    },
+    {
+        "category": "cambiale",
+        "items": [
+            "effetto",
+            "effetto_cambiario",
+            "pagherò",
+            "tratta"
+        ]
+    },
+    {
+        "category": "circolante",
+        "items": [
+            "moneta",
+            "moneta_circolante",
+            "val.",
+            "valuta"
+        ]
+    },
+    {
+        "category": "bancomat",
+        "items": [
+            "cash",
+            "contante",
+            "denaro_in_contante",
+            "denaro_liquido"
+        ]
+    },
+    {
+        "category": "cambiale_diretta",
+        "items": [
+            "cambiale_propria",
+            "pagherò",
+            "pagherò_cambiario",
+            "vaglia_cambiario"
+        ]
+    },
+    {
+        "category": "bond",
+        "items": [
+            "buono",
+            "certificato_obbligazionario",
+            "obbligazione",
+            "polizzino"
+        ]
+    },
+    {
+        "category": "acclimamento",
+        "items": [
+            "acclimatamento",
+            "acclimatazione",
+            "acclimazione",
+            "ambientamento"
+        ]
+    },
+    {
+        "category": "convalescenza",
+        "items": [
+            "guarigione",
+            "guarimento",
+            "ricupero",
+            "ristabilimento"
+        ]
+    },
+    {
+        "category": "carie",
+        "items": [
+            "decomposizione",
+            "disfacimento",
+            "imputridimento",
+            "marcitura"
+        ]
+    },
+    {
+        "category": "aggravamento",
+        "items": [
+            "decadenza",
+            "decadimento",
+            "declino",
+            "degrado"
+        ]
+    },
+    {
+        "category": "E.E.D.",
+        "items": [
+            "EDP",
+            "Elaborazione_Elettronica_dei_Dati",
+            "elaborazione_elettronica_di_dati",
+            "electronic_data_processing"
+        ]
+    },
+    {
+        "category": "crescita",
+        "items": [
+            "embriogenesi",
+            "evoluzione",
+            "ontogenesi",
+            "sviluppo"
+        ]
+    },
+    {
+        "category": "minzione",
+        "items": [
+            "orinata",
+            "orinazione",
+            "urinata",
+            "urinazione"
+        ]
+    },
+    {
+        "category": "affinaggio",
+        "items": [
+            "affinazione",
+            "depurazione",
+            "raffinamento",
+            "raffinatura"
+        ]
+    },
+    {
+        "category": "allargamento",
+        "items": [
+            "allargatura",
+            "ampliamento",
+            "espansione",
+            "slargamento"
+        ]
+    },
+    {
+        "category": "cc",
+        "items": [
+            "centimetro_cubo",
+            "mL",
+            "millilitro",
+            "ml"
+        ]
+    },
+    {
+        "category": "copeck",
+        "items": [
+            "copeco",
+            "copeco_russo",
+            "kopeck",
+            "kopek"
+        ]
+    },
+    {
+        "category": "canestro",
+        "items": [
+            "cesta",
+            "cesto",
+            "panierata",
+            "zana"
+        ]
+    },
+    {
+        "category": "barocciata",
+        "items": [
+            "baroccio",
+            "barrocciata",
+            "barroccio",
+            "carrata"
+        ]
+    },
+    {
+        "category": "goccia",
+        "items": [
+            "goccio",
+            "gocciola",
+            "gocciolo",
+            "lacrima"
+        ]
+    },
+    {
+        "category": "barca",
+        "items": [
+            "gran_numero",
+            "immensità",
+            "larghezza",
+            "massa"
+        ]
+    },
+    {
+        "category": "alluvione",
+        "items": [
+            "diluvio",
+            "profluvio",
+            "scarica",
+            "subisso"
+        ]
+    },
+    {
+        "category": "approvvigionamento",
+        "items": [
+            "fornitura",
+            "provvista",
+            "rifornimento",
+            "riserva"
+        ]
+    },
+    {
+        "category": "casino",
+        "items": [
+            "caterva",
+            "fottio",
+            "fracco",
+            "marea"
+        ]
+    },
+    {
+        "category": "attinenza",
+        "items": [
+            "collegamento",
+            "connessione",
+            "corrispondenza",
+            "nesso"
+        ]
+    },
+    {
+        "category": "avanzo",
+        "items": [
+            "residuato",
+            "residuo",
+            "resto",
+            "rimanente"
+        ]
+    },
+    {
+        "category": "casata",
+        "items": [
+            "ceppo",
+            "discendenza",
+            "figliazione",
+            "filiazione"
+        ]
+    },
+    {
+        "category": "O.",
+        "items": [
+            "espero",
+            "occaso",
+            "occidente",
+            "ovest"
+        ]
+    },
+    {
+        "category": "apice",
+        "items": [
+            "cocuzzolo",
+            "cucuzzolo",
+            "culmine",
+            "sommità"
+        ]
+    },
+    {
+        "category": "graffiatura",
+        "items": [
+            "graffio",
+            "intaccatura",
+            "intaglio",
+            "sgraffiatura"
+        ]
+    },
+    {
+        "category": "apertura",
+        "items": [
+            "crepa",
+            "crepaccio",
+            "fenditura",
+            "scissura"
+        ]
+    },
+    {
+        "category": "buca",
+        "items": [
+            "buco",
+            "cavernosità",
+            "cavo",
+            "incavatura"
+        ]
+    },
+    {
+        "category": "fase",
+        "items": [
+            "grado",
+            "livello",
+            "passaggio",
+            "punto"
+        ]
+    },
+    {
+        "category": "acme",
+        "items": [
+            "apice",
+            "apogeo",
+            "auge",
+            "cima"
+        ]
+    },
+    {
+        "category": "affollamento",
+        "items": [
+            "congestionamento",
+            "congestione",
+            "sopraffollamento",
+            "sovraffollamento"
+        ]
+    },
+    {
+        "category": "confusione",
+        "items": [
+            "rimescolio",
+            "scompiglio",
+            "sconquasso",
+            "subbuglio"
+        ]
+    },
+    {
+        "category": "Babele",
+        "items": [
+            "babele",
+            "babilonia",
+            "baraonda",
+            "caos"
+        ]
+    },
+    {
+        "category": "agitazione",
+        "items": [
+            "fermento",
+            "sommovimento",
+            "tumulto",
+            "turbamento"
+        ]
+    },
+    {
+        "category": "bailamme",
+        "items": [
+            "buriana",
+            "cagnara",
+            "clamore",
+            "diavolio"
+        ]
+    },
+    {
+        "category": "buio",
+        "items": [
+            "cupezza",
+            "oscurità",
+            "oscuro",
+            "turbo"
+        ]
+    },
+    {
+        "category": "esaltazione",
+        "items": [
+            "estasi",
+            "impeto",
+            "rapimento",
+            "sollucchero"
+        ]
+    },
+    {
+        "category": "appagamento",
+        "items": [
+            "compiacimento",
+            "gratificazione",
+            "soddisfacimento",
+            "soddisfazione"
+        ]
+    },
+    {
+        "category": "candore",
+        "items": [
+            "illibatezza",
+            "innocenza",
+            "purezza",
+            "purità"
+        ]
+    },
+    {
+        "category": "carcerazione",
+        "items": [
+            "carcere",
+            "cattività",
+            "detenzione",
+            "incarcerazione"
+        ]
+    },
+    {
+        "category": "inattività",
+        "items": [
+            "inazione",
+            "inerzia",
+            "inoperosità",
+            "ozio"
+        ]
+    },
+    {
+        "category": "affaticamento",
+        "items": [
+            "estenuazione",
+            "fatica",
+            "fiacca",
+            "fiacchezza"
+        ]
+    },
+    {
+        "category": "abbattimento",
+        "items": [
+            "fiaccatura",
+            "infiacchimento",
+            "rifinitezza",
+            "sfinimento"
+        ]
+    },
+    {
+        "category": "ciucca",
+        "items": [
+            "ebbrezza",
+            "ebrezza",
+            "inebriamento",
+            "sbornia"
+        ]
+    },
+    {
+        "category": "addormentamento",
+        "items": [
+            "assopimento",
+            "sonno",
+            "sonnolenza",
+            "sopore"
+        ]
+    },
+    {
+        "category": "bile",
+        "items": [
+            "collera",
+            "furia",
+            "ira",
+            "rabbia"
+        ]
+    },
+    {
+        "category": "bile",
+        "items": [
+            "collera",
+            "furia",
+            "furore",
+            "incavolatura"
+        ]
+    },
+    {
+        "category": "acciacco",
+        "items": [
+            "affezione",
+            "disturbo",
+            "magagna",
+            "malanno"
+        ]
+    },
+    {
+        "category": "accesso",
+        "items": [
+            "convulsione",
+            "crisi",
+            "parocismo",
+            "parossismo"
+        ]
+    },
+    {
+        "category": "consunzione",
+        "items": [
+            "etisia",
+            "tisi",
+            "tisichezza",
+            "tubercolosi"
+        ]
+    },
+    {
+        "category": "giradito",
+        "items": [
+            "panareccio",
+            "panereccio",
+            "paronichia",
+            "patereccio"
+        ]
+    },
+    {
+        "category": "cancro",
+        "items": [
+            "carcinoma",
+            "neoformazione",
+            "neoplasia",
+            "neoplasma"
+        ]
+    },
+    {
+        "category": "danno",
+        "items": [
+            "ferita",
+            "lesione",
+            "male",
+            "trauma"
+        ]
+    },
+    {
+        "category": "abrasione",
+        "items": [
+            "escoriazione",
+            "sbucciamento",
+            "scorticatura",
+            "spellamento"
+        ]
+    },
+    {
+        "category": "abrasione",
+        "items": [
+            "escoriazione",
+            "graffio",
+            "incisura",
+            "sbucciatura"
+        ]
+    },
+    {
+        "category": "acciaccata",
+        "items": [
+            "ammaccamento",
+            "ammaccatura",
+            "battuta",
+            "botta"
+        ]
+    },
+    {
+        "category": "bernoccolo",
+        "items": [
+            "bitorzo",
+            "bitorzolo",
+            "botta",
+            "bozza"
+        ]
+    },
+    {
+        "category": "bruciatura",
+        "items": [
+            "scottamento",
+            "scottatura",
+            "strinatura",
+            "ustione"
+        ]
+    },
+    {
+        "category": "beccata",
+        "items": [
+            "beccatura",
+            "morsicatura_di_insetto",
+            "morso",
+            "puntura_di_insetto"
+        ]
+    },
+    {
+        "category": "distorsione",
+        "items": [
+            "slogatura",
+            "stiramento",
+            "stiratura",
+            "storta"
+        ]
+    },
+    {
+        "category": "bitorzo",
+        "items": [
+            "bitorzolo",
+            "bozza",
+            "bozzo",
+            "enfiagione"
+        ]
+    },
+    {
+        "category": "cefalalgia",
+        "items": [
+            "cefalea",
+            "cefalgia",
+            "emicrania",
+            "mal_di_testa"
+        ]
+    },
+    {
+        "category": "costipamento",
+        "items": [
+            "costipazione",
+            "fecaloma",
+            "stipsi",
+            "stitichezza"
+        ]
+    },
+    {
+        "category": "cacaiola",
+        "items": [
+            "cacarella",
+            "cacherella",
+            "diarrea",
+            "sciolta"
+        ]
+    },
+    {
+        "category": "capogiro",
+        "items": [
+            "giracapo",
+            "giramento",
+            "giramento_di_testa",
+            "vertigine"
+        ]
+    },
+    {
+        "category": "balbettamento",
+        "items": [
+            "balbuzie",
+            "barbugliamento",
+            "psellismo",
+            "tartagliamento"
+        ]
+    },
+    {
+        "category": "dispetto",
+        "items": [
+            "esasperazione",
+            "fastidio",
+            "irritazione",
+            "molestia"
+        ]
+    },
+    {
+        "category": "guaio",
+        "items": [
+            "imbroglio",
+            "impiccio",
+            "pasticcio",
+            "scombussolamento"
+        ]
+    },
+    {
+        "category": "accoglienza",
+        "items": [
+            "ben_arrivato",
+            "ben_venuto",
+            "benarrivato",
+            "benvenuto"
+        ]
+    },
+    {
+        "category": "clandestinità",
+        "items": [
+            "irreperibilità",
+            "latitanza",
+            "privacy",
+            "segretezza"
+        ]
+    },
+    {
+        "category": "eminenza",
+        "items": [
+            "predominanza",
+            "preminenza",
+            "spiccamento",
+            "spicco"
+        ]
+    },
+    {
+        "category": "autorevolezza",
+        "items": [
+            "credito",
+            "gloria",
+            "lustro",
+            "prestigio"
+        ]
+    },
+    {
+        "category": "celebrità",
+        "items": [
+            "fama",
+            "gloria",
+            "notorietà",
+            "preclarità"
+        ]
+    },
+    {
+        "category": "autorità",
+        "items": [
+            "credito",
+            "onorabilità",
+            "reputazione",
+            "riputazione"
+        ]
+    },
+    {
+        "category": "celebrità",
+        "items": [
+            "nomea",
+            "nominanza",
+            "notorietà",
+            "taccia"
+        ]
+    },
+    {
+        "category": "disdoro",
+        "items": [
+            "disonore",
+            "ignominia",
+            "infamia",
+            "obbrobrio"
+        ]
+    },
+    {
+        "category": "abbominio",
+        "items": [
+            "abominio",
+            "ignominia",
+            "infamia",
+            "obbrobrio"
+        ]
+    },
+    {
+        "category": "dominazione",
+        "items": [
+            "dominio",
+            "egemonia",
+            "leadership",
+            "predominio"
+        ]
+    },
+    {
+        "category": "despotismo",
+        "items": [
+            "dispotismo",
+            "dittatura",
+            "tirannia",
+            "tirannide"
+        ]
+    },
+    {
+        "category": "assenza",
+        "items": [
+            "carenza",
+            "carestia",
+            "mancanza",
+            "penuria"
+        ]
+    },
+    {
+        "category": "compiutezza",
+        "items": [
+            "completezza",
+            "finitezza",
+            "integrità",
+            "interezza"
+        ]
+    },
+    {
+        "category": "difetto",
+        "items": [
+            "imperfezione",
+            "magagna",
+            "taccola",
+            "vizio"
+        ]
+    },
+    {
+        "category": "disdetta",
+        "items": [
+            "disgrazia",
+            "guigne",
+            "iattura",
+            "iella"
+        ]
+    },
+    {
+        "category": "calamità",
+        "items": [
+            "cataclisma",
+            "catastrofe",
+            "disastro",
+            "macello"
+        ]
+    },
+    {
+        "category": "chance",
+        "items": [
+            "destro",
+            "modo",
+            "momento",
+            "occasione"
+        ]
+    },
+    {
+        "category": "abbattimento",
+        "items": [
+            "accasciamento",
+            "demoralizzazione",
+            "depressione",
+            "sconforto"
+        ]
+    },
+    {
+        "category": "agiatezza",
+        "items": [
+            "floridezza",
+            "opulenza",
+            "prosperità",
+            "ricchezza"
+        ]
+    },
+    {
+        "category": "magnificenza",
+        "items": [
+            "opulenza",
+            "sfarzosità",
+            "sontuosità",
+            "splendidezza"
+        ]
+    },
+    {
+        "category": "angustia",
+        "items": [
+            "bisogno",
+            "miseria",
+            "necessità",
+            "povertà"
+        ]
+    },
+    {
+        "category": "bruttura",
+        "items": [
+            "immondezza",
+            "laidezza",
+            "laidume",
+            "lerciume"
+        ]
+    },
+    {
+        "category": "lerciume",
+        "items": [
+            "luridezza",
+            "sozzume",
+            "sozzura",
+            "sporchizia"
+        ]
+    },
+    {
+        "category": "sciattaggine",
+        "items": [
+            "sciatteria",
+            "sciattezza",
+            "scompostezza",
+            "trasandatezza"
+        ]
+    },
+    {
+        "category": "accozzaglia",
+        "items": [
+            "affastellamento",
+            "coacervo",
+            "congerie",
+            "emporio"
+        ]
+    },
+    {
+        "category": "ambiente",
+        "items": [
+            "ambito",
+            "area",
+            "campo",
+            "settore"
+        ]
+    },
+    {
+        "category": "brutto",
+        "items": [
+            "intemperie",
+            "mal_tempo",
+            "maltempo",
+            "perturbazione"
+        ]
+    },
+    {
+        "category": "debilitazione",
+        "items": [
+            "fragilità",
+            "gracilità",
+            "infermità",
+            "mollezza"
+        ]
+    },
+    {
+        "category": "atomo",
+        "items": [
+            "briciolo",
+            "bruscolo",
+            "grano",
+            "molecola"
+        ]
+    },
+    {
+        "category": "mescolanza",
+        "items": [
+            "miscela",
+            "misto",
+            "mistura",
+            "pastrocchio"
+        ]
+    },
+    {
+        "category": "bianchetto",
+        "items": [
+            "candeggiante",
+            "candeggina",
+            "decolorante",
+            "varecchina"
+        ]
+    },
+    {
+        "category": "mondiglia",
+        "items": [
+            "pattume",
+            "rifiuto",
+            "scopatura",
+            "spazzatura"
+        ]
+    },
+    {
+        "category": "ciarpame",
+        "items": [
+            "immondezza",
+            "immondizia",
+            "mondezza",
+            "monnezza"
+        ]
+    },
+    {
+        "category": "brina",
+        "items": [
+            "brinata",
+            "galaverna",
+            "gelo",
+            "ghiaccio"
+        ]
+    },
+    {
+        "category": "gagate",
+        "items": [
+            "gaietto",
+            "giaietto",
+            "giavazzo",
+            "jais"
+        ]
+    },
+    {
+        "category": "belletta",
+        "items": [
+            "fanghiglia",
+            "limo",
+            "melma",
+            "mota"
+        ]
+    },
+    {
+        "category": "cera_da_scarpe",
+        "items": [
+            "cera_per_scarpe",
+            "crema_da_scarpe",
+            "lucido_da_scarpe",
+            "lucido_per_scarpe"
+        ]
+    },
+    {
+        "category": "alba",
+        "items": [
+            "albeggiamento",
+            "albeggiare",
+            "albore",
+            "albori"
+        ]
+    },
+    {
+        "category": "Pasqua_delle_rose",
+        "items": [
+            "Pasqua_rosata",
+            "Pasquarosa",
+            "Pentecoste",
+            "pasqua_rosa"
+        ]
+    },
+    {
+        "category": "attimo",
+        "items": [
+            "istante",
+            "minuto",
+            "momento",
+            "secondo"
+        ]
+    },
+    {
+        "category": "baleno",
+        "items": [
+            "battibaleno",
+            "frazione_di_secondo",
+            "istante",
+            "lampo"
+        ]
+    },
+    {
+        "category": "anno",
+        "items": [
+            "epoca",
+            "era",
+            "età",
+            "giorno"
+        ]
+    },
+    {
+        "category": "break",
+        "items": [
+            "interruzione",
+            "intervallo",
+            "pausa",
+            "sosta"
+        ]
+    },
+    {
+        "category": "bonaccia",
+        "items": [
+            "momento_di_calma",
+            "pausa",
+            "sosta",
+            "tregua"
+        ]
+    }
+]

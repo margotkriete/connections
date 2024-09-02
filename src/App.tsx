@@ -1,17 +1,22 @@
 import React from "react";
+import { useEffect, useState } from "react";
 import Board from "./Board";
 
 const App = () => {
-  const solution = new Map();
-  solution.set("category1", ["tile1", "tile5", "tile9", "tile8"]);
-  solution.set("category2", ["tile2", "tile7", "tile6", "tile16"]);
-  solution.set("category3", ["tile3", "tile10", "tile11", "tile12"]);
-  solution.set("category4", ["tile4", "tile13", "tile14", "tile15"]);
+  const [tiles, setTiles] = useState([]);
+
+  useEffect(() => {
+    // TODO: save this in local storage so it persists across page loads
+    // TODO: move this to api.tsx
+    fetch("http://127.0.0.1:5000/groups")
+      .then((response) => response.json())
+      .then((data) => setTiles(data));
+  }, []);
 
   return (
     <>
-      <h1>andiamo!</h1>
-      <Board solution={solution} />
+      <h1>"connections"</h1>
+      <Board tiles={tiles} />
     </>
   );
 };
