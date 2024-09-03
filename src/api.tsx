@@ -16,3 +16,13 @@ export async function checkGuess(params) {
   }
 }
 
+export async function getGroups() {
+  try {
+    const res = await client.get("/groups");
+    return {
+      data: res.data,
+    };
+  } catch (err) {
+    console.log(err);
+  }
+}

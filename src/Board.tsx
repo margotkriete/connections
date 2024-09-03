@@ -4,7 +4,6 @@ import { useState } from "react";
 import _ from "lodash";
 import { checkGuess } from "./api";
 
-
 const Board = ({ tiles }) => {
   const [currentGuess, setCurrentGuess] = useState<string[]>([]);
   const [mistakes, setMistakes] = useState(0);
@@ -27,43 +26,48 @@ const Board = ({ tiles }) => {
       setCurrentGuess([]);
       return;
     }
+    setCurrentGuess([]);
     if (solvedCategories.length == 4) {
-      setCurrentGuess([]);
       return;
     }
-    setCurrentGuess([]);
     setMistakes(mistakes + 1);
   };
 
   return (
     <>
-      <div className="grid-container">
-        <div className="board">
-          {tiles.map((tile: string, i: number) => (
-            <Tile
-              selected={currentGuess.includes(tile)}
-              phrase={tile}
-              onTileSelection={onTileSelection}
-              key={i}
-              disabled={disabledTiles.includes(tile)}
-            />
-          ))}
-          <button
-            className="submit-button"
-            disabled={currentGuess.length < 4}
-            onClick={submitGuess}
-          >
-            Submit
-          </button>
-        </div>
-        <p>
-          Solved categories: <br />
-          {solvedCategories.join(" ")}
-          <br />
-          <br />
-          Mistakes: {mistakes}
-        </p>
-      </div>
+      {solvedCategories.length === 4 ? (
+        <p>you win!</p>
+      ) : (
+        <>
+          <div className="grid-container">
+            <div className="board">
+              {tiles.map((tile: string, i: number) => (
+                <Tile
+                  selected={currentGuess.includes(tile)}
+                  phrase={tile}
+                  onTileSelection={onTileSelection}
+                  key={i}
+                  disabled={disabledTiles.includes(tile)}
+                />
+              ))}
+              <button
+                className="button--submit"
+                disabled={currentGuess.length < 4}
+                onClick={submitGuess}
+              >
+                Submit
+              </button>
+            </div>
+            <p>
+              Solved categories: <br />
+              {solvedCategories.join(" ")}
+              <br />
+              <br />
+              Mistakes: {mistakes}
+            </p>
+          </div>
+        </>
+      )}
     </>
   );
 };

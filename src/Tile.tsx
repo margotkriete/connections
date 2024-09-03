@@ -10,7 +10,7 @@ interface TileProps {
 const Tile = ({ phrase, onTileSelection, selected, disabled }: TileProps) => {
   return (
     <button
-      className={selected ? "selected-tile" : "tile"}
+      className={selected ? "tile--selected" : "tile"}
       disabled={disabled}
       onClick={() => onTileSelection(phrase)}
     >

@@ -14,11 +14,11 @@ h1, button, div {
     grid-gap: 70px;
 }
 
-.submit-button {
+.button--submit {
     background-color: yellow;
 }
 
-.selected-tile {
+.tile--selected {
     background-color: aqua;
 }
 
