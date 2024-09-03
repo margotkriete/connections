@@ -1,3 +1,27 @@
 h1, button, div {
     font-family: 'courier new';
 }
+
+.board {
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    grid-gap: 5px;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-gap: 70px;
+}
+
+.submit-button {
+    background-color: yellow;
+}
+
+.selected-tile {
+    background-color: aqua;
+}
+
+.tile {
+    background-color: white;
+}

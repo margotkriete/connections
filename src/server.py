@@ -13,15 +13,15 @@ GROUP_LENGTH = 4
 with open("groups.json") as f:
     groups = json.load(f)
 SEED = random.randrange(0, len(groups) - GROUP_LENGTH)
+items = [
+    i.replace("_", " ")
+    for group in groups[SEED : SEED + GROUP_LENGTH]
+    for i in group["items"]
+]
 
 
 @app.route("/groups")
 def retrieve_groups():
-    items = [
-        i.replace("_", " ")
-        for group in groups[SEED : SEED + GROUP_LENGTH]
-        for i in group["items"]
-    ]
     random.shuffle(items)
     return items
 
@@ -31,9 +31,9 @@ def submit_guess():
     guesses = request.args.getlist("guess[]")
     if len(guesses) != GUESS_LENGTH:
         return {"error": True}
-    for category in groups[SEED : SEED + GROUP_LENGTH]:
-        if set(guesses) == set(category["items"]):
-            return {"correct": True, "category": category}
+    for group in groups[SEED : SEED + GROUP_LENGTH]:
+        if set(guesses) == set(group["items"]):
+            return {"correct": True, "category": group["category"]}
     return {"correct": False}
 
 

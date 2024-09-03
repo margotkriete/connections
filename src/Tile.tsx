@@ -1,5 +1,4 @@
 import React from "react";
-import styled from "styled-components";
 
 interface TileProps {
   phrase: string;
@@ -8,19 +7,15 @@ interface TileProps {
   disabled: boolean;
 }
 
-const TileButton = styled.button<{ $selected: boolean }>`
-  background-color: ${(props) => (props.$selected ? "aqua" : "white")};
-`;
-
 const Tile = ({ phrase, onTileSelection, selected, disabled }: TileProps) => {
   return (
-    <TileButton
-      $selected={selected}
+    <button
+      className={selected ? "selected-tile" : "tile"}
       disabled={disabled}
       onClick={() => onTileSelection(phrase)}
     >
       {phrase}
-    </TileButton>
+    </button>
   );
 };
 

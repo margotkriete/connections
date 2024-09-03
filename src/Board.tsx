@@ -1,27 +1,9 @@
 import React from "react";
-import styled from "styled-components";
 import Tile from "./Tile";
 import { useState } from "react";
 import _ from "lodash";
 import { checkGuess } from "./api";
 
-const Container = styled.div`
-  display: grid;
-  grid-template-columns: 50% 50%;
-  grid-gap: 70px;
-`;
-
-const Grid = styled.div`
-  display: grid;
-  grid-template-columns: 25% 25% 25% 25%;
-  grid-gap: 5px;
-`;
-
-const SubmitButton = styled.button`
-  background-color: yellow;
-`;
-
-const GUESS_LENGTH = 4;
 
 const Board = ({ tiles }) => {
   const [currentGuess, setCurrentGuess] = useState<string[]>([]);
@@ -30,7 +12,7 @@ const Board = ({ tiles }) => {
   const [disabledTiles, setDisabledTiles] = useState<string[]>([]);
 
   const onTileSelection = (tile: string) => {
-    if (!currentGuess.includes(tile) && currentGuess.length < GUESS_LENGTH) {
+    if (!currentGuess.includes(tile) && currentGuess.length < 4) {
       setCurrentGuess([...currentGuess, tile]);
     } else {
       setCurrentGuess(currentGuess.filter((t) => t != tile));
@@ -49,13 +31,14 @@ const Board = ({ tiles }) => {
       setCurrentGuess([]);
       return;
     }
+    setCurrentGuess([]);
     setMistakes(mistakes + 1);
   };
 
   return (
     <>
-      <Container>
-        <Grid>
+      <div className="grid-container">
+        <div className="board">
           {tiles.map((tile: string, i: number) => (
             <Tile
               selected={currentGuess.includes(tile)}
@@ -65,19 +48,22 @@ const Board = ({ tiles }) => {
               disabled={disabledTiles.includes(tile)}
             />
           ))}
-          <SubmitButton
+          <button
+            className="submit-button"
             disabled={currentGuess.length < 4}
             onClick={submitGuess}
           >
             Submit
-          </SubmitButton>
-        </Grid>
+          </button>
+        </div>
         <p>
-          Solved categories: {solvedCategories.join(" ")}
+          Solved categories: <br />
+          {solvedCategories.join(" ")}
+          <br />
           <br />
           Mistakes: {mistakes}
         </p>
-      </Container>
+      </div>
     </>
   );
 };
