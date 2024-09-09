@@ -1,10 +1,11 @@
 import React from "react";
 import { useEffect, useState } from "react";
 import Board from "./Board";
-import { getGroups } from './api';
+import { getGroups } from "./api";
+import { TileDisplay } from "./types";
 
 const App = () => {
-  const [tiles, setTiles] = useState([]);
+  const [tiles, setTiles] = useState(Array<TileDisplay>);
 
   useEffect(() => {
     // TODO: save this in local storage so it persists across page loads
@@ -12,7 +13,8 @@ const App = () => {
       const resp = await getGroups();
       if (resp?.data) {
         setTiles(resp.data);
-      }}
+      }
+    };
 
     fetchData();
   }, []);

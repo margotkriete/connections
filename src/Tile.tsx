@@ -1,18 +1,12 @@
 import React from "react";
+import { TileProps } from "./types";
 
-interface TileProps {
-  phrase: string;
-  onTileSelection: (phrase: string) => void;
-  selected: boolean;
-  disabled: boolean;
-}
-
-const Tile = ({ phrase, onTileSelection, selected, disabled }: TileProps) => {
+const Tile = ({ phrase, onClick, selected, disabled }: TileProps) => {
   return (
     <button
       className={selected ? "tile--selected" : "tile"}
       disabled={disabled}
-      onClick={() => onTileSelection(phrase)}
+      onClick={(e) => onClick(e, phrase)}
     >
       {phrase}
     </button>

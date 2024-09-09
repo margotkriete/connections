@@ -3,18 +3,28 @@ import Tile from "./Tile";
 import { useState } from "react";
 import _ from "lodash";
 import { checkGuess } from "./api";
+import { BoardProps, TileDisplay } from "./types";
 
-const Board = ({ tiles }) => {
-  const [currentGuess, setCurrentGuess] = useState<string[]>([]);
+const Board = ({ tiles }: BoardProps) => {
+  const [currentGuess, setCurrentGuess] = useState<Array<string>>([]);
   const [mistakes, setMistakes] = useState(0);
-  const [solvedCategories, setSolvedCategories] = useState<string[]>([]);
-  const [disabledTiles, setDisabledTiles] = useState<string[]>([]);
+  const [solvedCategories, setSolvedCategories] = useState<Array<string>>([]);
+  const [disabledTiles, setDisabledTiles] = useState<Array<string>>([]);
+  const [toggledTiles, setToggledTiles] = useState<Array<string>>([]);
 
-  const onTileSelection = (tile: string) => {
-    if (!currentGuess.includes(tile) && currentGuess.length < 4) {
-      setCurrentGuess([...currentGuess, tile]);
+  const handleTileSelect = (e: any, tile: string) => {
+    if (e.metaKey) {
+      if (toggledTiles.includes(tile)) {
+        setToggledTiles(toggledTiles.filter((t) => t != tile));
+      } else {
+        setToggledTiles([...toggledTiles, tile]);
+      }
     } else {
-      setCurrentGuess(currentGuess.filter((t) => t != tile));
+      if (!currentGuess.includes(tile) && currentGuess.length < 4) {
+        setCurrentGuess([...currentGuess, tile]);
+      } else {
+        setCurrentGuess(currentGuess.filter((t) => t != tile));
+      }
     }
   };
 
@@ -41,13 +51,13 @@ const Board = ({ tiles }) => {
         <>
           <div className="grid-container">
             <div className="board">
-              {tiles.map((tile: string, i: number) => (
+              {tiles.map((t: TileDisplay, i: number) => (
                 <Tile
-                  selected={currentGuess.includes(tile)}
-                  phrase={tile}
-                  onTileSelection={onTileSelection}
+                  selected={currentGuess.includes(t.tile)}
+                  phrase={toggledTiles.includes(t.tile) ? t.engTile : t.tile}
+                  onClick={(e) => handleTileSelect(e, t.tile)}
                   key={i}
-                  disabled={disabledTiles.includes(tile)}
+                  disabled={disabledTiles.includes(t.tile)}
                 />
               ))}
               <button

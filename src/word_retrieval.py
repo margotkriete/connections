@@ -1,9 +1,3 @@
-# 1. Generate list of 1000? common nouns/adjectives?
-# 2. For each adjective, retrieve synonyms from wordnet; store these in a DB
-# 3. Group words by synonym (category)
-# 4. Write API to retrieve groups of 4 words per category
-
-# GET /grouping - return {[category_name: 'name', items: ['item1','item2'...x4]]x4}
 import nltk
 
 nltk.download("wordnet")
@@ -19,6 +13,7 @@ groups = []
 for synset in list(wn.all_synsets("n")):
     # "synsets" are language-specific but lemmas cross languages
     lemmas = synset.lemma_names("ita")
+    print("synset", synset)
     if len(lemmas) > 4:
         category = lemmas[0]
         items = lemmas[1:5]
