@@ -4,7 +4,11 @@ export const client = axios.create({
   baseURL: "http://127.0.0.1:5000",
 });
 
-export async function checkGuess(params) {
+interface GuessParams {
+  guess: Array<string>;
+}
+
+export async function checkGuess(params: GuessParams) {
   try {
     const res = await client.get("/guess", { params: params });
     const result = {
