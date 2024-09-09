@@ -13,10 +13,14 @@ groups = []
 for synset in list(wn.all_synsets("n")):
     # "synsets" are language-specific but lemmas cross languages
     lemmas = synset.lemma_names("ita")
-    print("synset", synset)
     if len(lemmas) > 4:
         category = lemmas[0]
         items = lemmas[1:5]
-        groups.append({"category": category, "items": items})
+        groups.append(
+            {
+                "category": category,
+                "items": [[item, synset.name()[:-5]] for item in items],
+            }
+        )
 
 print(groups)
