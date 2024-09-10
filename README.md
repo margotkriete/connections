@@ -1,17 +1,7 @@
-tasks:
+### Connessioni
 
-- [x] add tile to `currentGuess` when user selects an individual tile
-- [x] check if `currentGuess` is in solution when user clicks on the 4th tile
-- [x] if `currentGuess` is in solution, show category and disable its tiles
-- [x] implement winning criteria/state (all tiles disabled, but something smarter than that)
-- [x] add flashcard toggle mode - right-click flips to English word
-- [x] determine data set: groupings of synonyms, etc.
-- [x] add API to retrieve data set
-- [ ] add tests
-- [ ] style
-- [ ] [maybe, or just call it "practice mode" indefinitely?] track number of mistakes in board
+This is a very basic spin-off of the NYT Connections game. The objective is to group the tiles into four groups of four, each group tied by a common category. This version is in Italian and, to simplify the game for learning purposes, each group is an Italian synonym generated using NLTK's wordnet package.
 
-connection spinoffs to try:
+### Installation
 
-- [ ] seinfeld episodes, thematically
-- [ ] impressionist paintings
+TODO: fill this out
