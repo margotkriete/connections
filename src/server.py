@@ -32,7 +32,8 @@ def submit_guess():
     if len(guesses) != GUESS_LENGTH:
         return {"error": True}
     for group in groups[SEED : SEED + GROUP_LENGTH]:
-        if set(guesses) == set(group["items"]):
+        ita_items = [items[0] for items in group["items"]]
+        if set(guesses) == set(ita_items):
             return {"correct": True, "category": group["category"]}
     return {"correct": False}
 

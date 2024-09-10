@@ -15,7 +15,6 @@ const App = () => {
         setTiles(resp.data);
       }
     };
-
     fetchData();
   }, []);
 

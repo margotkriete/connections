@@ -504,27 +504,6 @@
         ]
     },
     {
-        "category": "allontanamento",
-        "items": [
-            [
-                "defenestrazione",
-                "removal"
-            ],
-            [
-                "deposizione",
-                "removal"
-            ],
-            [
-                "destituzione",
-                "removal"
-            ],
-            [
-                "remozione",
-                "removal"
-            ]
-        ]
-    },
-    {
         "category": "annientamento",
         "items": [
             [
@@ -1155,27 +1134,6 @@
         ]
     },
     {
-        "category": "alterazione",
-        "items": [
-            [
-                "cambiamento",
-                "revision"
-            ],
-            [
-                "conversione",
-                "revision"
-            ],
-            [
-                "divenire",
-                "revision"
-            ],
-            [
-                "mutamento",
-                "revision"
-            ]
-        ]
-    },
-    {
         "category": "riforestazione",
         "items": [
             [
@@ -1298,27 +1256,6 @@
             [
                 "sollazzamento",
                 "entertainment"
-            ]
-        ]
-    },
-    {
-        "category": "baia",
-        "items": [
-            [
-                "beffa",
-                "jest"
-            ],
-            [
-                "burla",
-                "jest"
-            ],
-            [
-                "burletta",
-                "jest"
-            ],
-            [
-                "canzonatura",
-                "jest"
             ]
         ]
     },
@@ -1487,27 +1424,6 @@
             [
                 "operatività",
                 "operation"
-            ]
-        ]
-    },
-    {
-        "category": "attività",
-        "items": [
-            [
-                "impiego",
-                "occupation"
-            ],
-            [
-                "lavoro",
-                "occupation"
-            ],
-            [
-                "mestiere",
-                "occupation"
-            ],
-            [
-                "occupazione",
-                "occupation"
             ]
         ]
     },
@@ -1806,27 +1722,6 @@
         ]
     },
     {
-        "category": "colpa",
-        "items": [
-            [
-                "errore",
-                "sin"
-            ],
-            [
-                "male",
-                "sin"
-            ],
-            [
-                "peccato",
-                "sin"
-            ],
-            [
-                "vizio",
-                "sin"
-            ]
-        ]
-    },
-    {
         "category": "boria",
         "items": [
             [
@@ -2121,6 +2016,27 @@
         ]
     },
     {
+        "category": "Ogino-Knauss",
+        "items": [
+            [
+                "metodo_Ogino_Knauss",
+                "rhythm_method_of_birth_control"
+            ],
+            [
+                "metodo_Ogino-Knauss",
+                "rhythm_method_of_birth_control"
+            ],
+            [
+                "metodo_del_calendario",
+                "rhythm_method_of_birth_control"
+            ],
+            [
+                "metodo_dell'astinenza_periodica",
+                "rhythm_method_of_birth_control"
+            ]
+        ]
+    },
+    {
         "category": "dormitina",
         "items": [
             [
@@ -2222,27 +2138,6 @@
             [
                 "istruzione",
                 "training"
-            ]
-        ]
-    },
-    {
-        "category": "addestramento",
-        "items": [
-            [
-                "allenamento",
-                "exercise"
-            ],
-            [
-                "esercitazione",
-                "exercise"
-            ],
-            [
-                "esercizio",
-                "exercise"
-            ],
-            [
-                "pratica",
-                "exercise"
             ]
         ]
     },
@@ -2646,27 +2541,6 @@
         ]
     },
     {
-        "category": "controllo",
-        "items": [
-            [
-                "soprintendenza",
-                "supervision"
-            ],
-            [
-                "sorveglianza",
-                "supervision"
-            ],
-            [
-                "sovrintendenza",
-                "supervision"
-            ],
-            [
-                "supervisione",
-                "supervision"
-            ]
-        ]
-    },
-    {
         "category": "riassetto",
         "items": [
             [
@@ -2856,27 +2730,6 @@
         ]
     },
     {
-        "category": "battaglia",
-        "items": [
-            [
-                "certame",
-                "fight"
-            ],
-            [
-                "combattimento",
-                "fight"
-            ],
-            [
-                "lotta",
-                "fight"
-            ],
-            [
-                "rissa",
-                "fight"
-            ]
-        ]
-    },
-    {
         "category": "colluttazione",
         "items": [
             [
@@ -2978,27 +2831,6 @@
             [
                 "riavvicinamento",
                 "reconciliation"
-            ]
-        ]
-    },
-    {
-        "category": "aiuto",
-        "items": [
-            [
-                "assistenza",
-                "aid"
-            ],
-            [
-                "ausilio",
-                "aid"
-            ],
-            [
-                "man_forte",
-                "aid"
-            ],
-            [
-                "manforte",
-                "aid"
             ]
         ]
     },
@@ -3671,27 +3503,6 @@
             [
                 "palametto",
                 "skipjack"
-            ]
-        ]
-    },
-    {
-        "category": "Katsuwonus_pelamis",
-        "items": [
-            [
-                "impiriali",
-                "bonito"
-            ],
-            [
-                "nzirru",
-                "bonito"
-            ],
-            [
-                "paamia",
-                "bonito"
-            ],
-            [
-                "paamitun",
-                "bonito"
             ]
         ]
     },
@@ -4553,27 +4364,6 @@
             [
                 "battocchio",
                 "clapper"
-            ]
-        ]
-    },
-    {
-        "category": "cappa",
-        "items": [
-            [
-                "kappa",
-                "cloak"
-            ],
-            [
-                "mantella",
-                "cloak"
-            ],
-            [
-                "mantello",
-                "cloak"
-            ],
-            [
-                "manto",
-                "cloak"
             ]
         ]
     },
@@ -5523,27 +5313,6 @@
         ]
     },
     {
-        "category": "batacchio",
-        "items": [
-            [
-                "battacchio",
-                "knocker"
-            ],
-            [
-                "battaglio",
-                "knocker"
-            ],
-            [
-                "battente",
-                "knocker"
-            ],
-            [
-                "bussatoio",
-                "knocker"
-            ]
-        ]
-    },
-    {
         "category": "L.P.",
         "items": [
             [
@@ -5624,27 +5393,6 @@
             [
                 "motoscooter",
                 "motor_scooter"
-            ]
-        ]
-    },
-    {
-        "category": "impaccio",
-        "items": [
-            [
-                "impedimento",
-                "obstacle"
-            ],
-            [
-                "inciampo",
-                "obstacle"
-            ],
-            [
-                "ingombro",
-                "obstacle"
-            ],
-            [
-                "intoppo",
-                "obstacle"
             ]
         ]
     },
@@ -5855,27 +5603,6 @@
             [
                 "terrazziere",
                 "power_shovel"
-            ]
-        ]
-    },
-    {
-        "category": "carcere",
-        "items": [
-            [
-                "ergastolo",
-                "prison"
-            ],
-            [
-                "galera",
-                "prison"
-            ],
-            [
-                "penitenziario",
-                "prison"
-            ],
-            [
-                "prigione",
-                "prison"
             ]
         ]
     },
@@ -6111,27 +5838,6 @@
         ]
     },
     {
-        "category": "apertura",
-        "items": [
-            [
-                "fendimento",
-                "slit"
-            ],
-            [
-                "fenditura",
-                "slit"
-            ],
-            [
-                "fessura",
-                "slit"
-            ],
-            [
-                "spacco",
-                "slit"
-            ]
-        ]
-    },
-    {
         "category": "cataratta",
         "items": [
             [
@@ -6296,27 +6002,6 @@
             [
                 "spada",
                 "sword"
-            ]
-        ]
-    },
-    {
-        "category": "cappa",
-        "items": [
-            [
-                "copertone",
-                "tarpaulin"
-            ],
-            [
-                "incerata",
-                "tarpaulin"
-            ],
-            [
-                "kappa",
-                "tarpaulin"
-            ],
-            [
-                "telone",
-                "tarpaulin"
             ]
         ]
     },
@@ -6510,27 +6195,6 @@
         ]
     },
     {
-        "category": "animazione",
-        "items": [
-            [
-                "brio",
-                "vivacity"
-            ],
-            [
-                "briosità",
-                "vivacity"
-            ],
-            [
-                "festevolezza",
-                "vivacity"
-            ],
-            [
-                "festosità",
-                "vivacity"
-            ]
-        ]
-    },
-    {
         "category": "abulia",
         "items": [
             [
@@ -6548,69 +6212,6 @@
             [
                 "pigrezza",
                 "languor"
-            ]
-        ]
-    },
-    {
-        "category": "abulia",
-        "items": [
-            [
-                "apatia",
-                "apathy"
-            ],
-            [
-                "disamore",
-                "apathy"
-            ],
-            [
-                "indifferenza",
-                "apathy"
-            ],
-            [
-                "letargo",
-                "apathy"
-            ]
-        ]
-    },
-    {
-        "category": "accidia",
-        "items": [
-            [
-                "pigrizia",
-                "indolence"
-            ],
-            [
-                "poltronaggine",
-                "indolence"
-            ],
-            [
-                "poltroneria",
-                "indolence"
-            ],
-            [
-                "scioperataggine",
-                "indolence"
-            ]
-        ]
-    },
-    {
-        "category": "accidia",
-        "items": [
-            [
-                "infingardaggine",
-                "sloth"
-            ],
-            [
-                "neghittosità",
-                "sloth"
-            ],
-            [
-                "pigrizia",
-                "sloth"
-            ],
-            [
-                "poltronaggine",
-                "sloth"
             ]
         ]
     },
@@ -7308,27 +6909,6 @@
         ]
     },
     {
-        "category": "accuratezza",
-        "items": [
-            [
-                "determinatezza",
-                "exactness"
-            ],
-            [
-                "esattezza",
-                "exactness"
-            ],
-            [
-                "precisione",
-                "exactness"
-            ],
-            [
-                "rigore",
-                "exactness"
-            ]
-        ]
-    },
-    {
         "category": "aristocrazia",
         "items": [
             [
@@ -7430,27 +7010,6 @@
             [
                 "sgarbo",
                 "boorishness"
-            ]
-        ]
-    },
-    {
-        "category": "boria",
-        "items": [
-            [
-                "iattanza",
-                "ostentation"
-            ],
-            [
-                "iattazione",
-                "ostentation"
-            ],
-            [
-                "pomposità",
-                "ostentation"
-            ],
-            [
-                "presuntuosità",
-                "ostentation"
             ]
         ]
     },
@@ -7581,27 +7140,6 @@
         ]
     },
     {
-        "category": "avarizia",
-        "items": [
-            [
-                "grettezza",
-                "stinginess"
-            ],
-            [
-                "lesina",
-                "stinginess"
-            ],
-            [
-                "pitoccheria",
-                "stinginess"
-            ],
-            [
-                "spilorceria",
-                "stinginess"
-            ]
-        ]
-    },
-    {
         "category": "arditezza",
         "items": [
             [
@@ -7619,27 +7157,6 @@
             [
                 "temerarietà",
                 "boldness"
-            ]
-        ]
-    },
-    {
-        "category": "affabilità",
-        "items": [
-            [
-                "amabilità",
-                "kindness"
-            ],
-            [
-                "benignità",
-                "kindness"
-            ],
-            [
-                "bontà",
-                "kindness"
-            ],
-            [
-                "cordialità",
-                "kindness"
             ]
         ]
     },
@@ -7770,48 +7287,6 @@
         ]
     },
     {
-        "category": "decisione",
-        "items": [
-            [
-                "determinazione",
-                "determination"
-            ],
-            [
-                "finalità",
-                "determination"
-            ],
-            [
-                "fine",
-                "determination"
-            ],
-            [
-                "grinta",
-                "determination"
-            ]
-        ]
-    },
-    {
-        "category": "costanza",
-        "items": [
-            [
-                "fermezza",
-                "doggedness"
-            ],
-            [
-                "pertinacia",
-                "doggedness"
-            ],
-            [
-                "risolutezza",
-                "doggedness"
-            ],
-            [
-                "tenacia",
-                "doggedness"
-            ]
-        ]
-    },
-    {
         "category": "fare",
         "items": [
             [
@@ -7917,27 +7392,6 @@
         ]
     },
     {
-        "category": "boria",
-        "items": [
-            [
-                "millanteria",
-                "boastfulness"
-            ],
-            [
-                "spacconaggine",
-                "boastfulness"
-            ],
-            [
-                "superbia",
-                "boastfulness"
-            ],
-            [
-                "vanagloria",
-                "boastfulness"
-            ]
-        ]
-    },
-    {
         "category": "albagia",
         "items": [
             [
@@ -7976,27 +7430,6 @@
             [
                 "scernimento",
                 "discretion"
-            ]
-        ]
-    },
-    {
-        "category": "balordaggine",
-        "items": [
-            [
-                "demenza",
-                "folly"
-            ],
-            [
-                "fatuità",
-                "folly"
-            ],
-            [
-                "follia",
-                "folly"
-            ],
-            [
-                "gaglioffaggine",
-                "folly"
             ]
         ]
     },
@@ -8207,27 +7640,6 @@
             [
                 "modo",
                 "manner"
-            ]
-        ]
-    },
-    {
-        "category": "armatura",
-        "items": [
-            [
-                "carcassa",
-                "framework"
-            ],
-            [
-                "impalcatura",
-                "framework"
-            ],
-            [
-                "intelaiatura",
-                "framework"
-            ],
-            [
-                "struttura",
-                "framework"
             ]
         ]
     },
@@ -8568,48 +7980,6 @@
         ]
     },
     {
-        "category": "aumento",
-        "items": [
-            [
-                "maggiorazione",
-                "rise"
-            ],
-            [
-                "soprapprezzo",
-                "rise"
-            ],
-            [
-                "sovrapprezzo",
-                "rise"
-            ],
-            [
-                "surcharge",
-                "rise"
-            ]
-        ]
-    },
-    {
-        "category": "abbassamento",
-        "items": [
-            [
-                "calo",
-                "drop"
-            ],
-            [
-                "discesa",
-                "drop"
-            ],
-            [
-                "flessione",
-                "drop"
-            ],
-            [
-                "ribassamento",
-                "drop"
-            ]
-        ]
-    },
-    {
         "category": "esiguità",
         "items": [
             [
@@ -8669,48 +8039,6 @@
             [
                 "ricchezza",
                 "profusion"
-            ]
-        ]
-    },
-    {
-        "category": "carenza",
-        "items": [
-            [
-                "carestia",
-                "scarcity"
-            ],
-            [
-                "difalta",
-                "scarcity"
-            ],
-            [
-                "diffalta",
-                "scarcity"
-            ],
-            [
-                "esiguità",
-                "scarcity"
-            ]
-        ]
-    },
-    {
-        "category": "discrezione",
-        "items": [
-            [
-                "equilibrio",
-                "moderation"
-            ],
-            [
-                "misura",
-                "moderation"
-            ],
-            [
-                "misuratezza",
-                "moderation"
-            ],
-            [
-                "moderatezza",
-                "moderation"
             ]
         ]
     },
@@ -9156,27 +8484,6 @@
         ]
     },
     {
-        "category": "busto",
-        "items": [
-            [
-                "fusto",
-                "torso"
-            ],
-            [
-                "torace",
-                "torso"
-            ],
-            [
-                "torso",
-                "torso"
-            ],
-            [
-                "tronco",
-                "torso"
-            ]
-        ]
-    },
-    {
         "category": "cintola",
         "items": [
             [
@@ -9345,27 +8652,6 @@
         ]
     },
     {
-        "category": "abilità",
-        "items": [
-            [
-                "accortezza",
-                "brightness"
-            ],
-            [
-                "capacità",
-                "brightness"
-            ],
-            [
-                "intelligenza",
-                "brightness"
-            ],
-            [
-                "valentia",
-                "brightness"
-            ]
-        ]
-    },
-    {
         "category": "arte",
         "items": [
             [
@@ -9382,69 +8668,6 @@
             ],
             [
                 "svegliatezza",
-                "craft"
-            ]
-        ]
-    },
-    {
-        "category": "abilità",
-        "items": [
-            [
-                "accorgimento",
-                "shrewdness"
-            ],
-            [
-                "accortezza",
-                "shrewdness"
-            ],
-            [
-                "acume",
-                "shrewdness"
-            ],
-            [
-                "acutezza",
-                "shrewdness"
-            ]
-        ]
-    },
-    {
-        "category": "abilità",
-        "items": [
-            [
-                "arte",
-                "skill"
-            ],
-            [
-                "bravura",
-                "skill"
-            ],
-            [
-                "capacità",
-                "skill"
-            ],
-            [
-                "mestiere",
-                "skill"
-            ]
-        ]
-    },
-    {
-        "category": "abilità",
-        "items": [
-            [
-                "abilità_professionale",
-                "craft"
-            ],
-            [
-                "arte",
-                "craft"
-            ],
-            [
-                "bravura",
-                "craft"
-            ],
-            [
-                "maestria",
                 "craft"
             ]
         ]
@@ -9467,48 +8690,6 @@
             [
                 "cretineria",
                 "stupidity"
-            ]
-        ]
-    },
-    {
-        "category": "balordaggine",
-        "items": [
-            [
-                "ebetaggine",
-                "dullness"
-            ],
-            [
-                "melensaggine",
-                "dullness"
-            ],
-            [
-                "ottusità",
-                "dullness"
-            ],
-            [
-                "scipitaggine",
-                "dullness"
-            ]
-        ]
-    },
-    {
-        "category": "balordaggine",
-        "items": [
-            [
-                "demenza",
-                "folly"
-            ],
-            [
-                "dissennatezza",
-                "folly"
-            ],
-            [
-                "insensatezza",
-                "folly"
-            ],
-            [
-                "scempiaggine",
-                "folly"
             ]
         ]
     },
@@ -9891,27 +9072,6 @@
         ]
     },
     {
-        "category": "briga",
-        "items": [
-            [
-                "disturbo",
-                "annoyance"
-            ],
-            [
-                "fastidio",
-                "annoyance"
-            ],
-            [
-                "noia",
-                "annoyance"
-            ],
-            [
-                "noiosità",
-                "annoyance"
-            ]
-        ]
-    },
-    {
         "category": "affanno",
         "items": [
             [
@@ -10248,27 +9408,6 @@
         ]
     },
     {
-        "category": "fine",
-        "items": [
-            [
-                "meta",
-                "goal"
-            ],
-            [
-                "obbiettivo",
-                "goal"
-            ],
-            [
-                "obiettivo",
-                "goal"
-            ],
-            [
-                "scopo",
-                "goal"
-            ]
-        ]
-    },
-    {
         "category": "finalità",
         "items": [
             [
@@ -10290,27 +9429,6 @@
         ]
     },
     {
-        "category": "animo",
-        "items": [
-            [
-                "disegno",
-                "purpose"
-            ],
-            [
-                "finalità",
-                "purpose"
-            ],
-            [
-                "fine",
-                "purpose"
-            ],
-            [
-                "intendimento",
-                "purpose"
-            ]
-        ]
-    },
-    {
         "category": "malthusanismo",
         "items": [
             [
@@ -10328,27 +9446,6 @@
             [
                 "maltusianismo",
                 "malthusianism"
-            ]
-        ]
-    },
-    {
-        "category": "ambito",
-        "items": [
-            [
-                "campo",
-                "discipline"
-            ],
-            [
-                "disciplina",
-                "discipline"
-            ],
-            [
-                "materia",
-                "discipline"
-            ],
-            [
-                "ramo",
-                "discipline"
             ]
         ]
     },
@@ -10773,27 +9870,6 @@
         ]
     },
     {
-        "category": "complotto",
-        "items": [
-            [
-                "congiura",
-                "conspiracy"
-            ],
-            [
-                "cospirazione",
-                "conspiracy"
-            ],
-            [
-                "inganno",
-                "conspiracy"
-            ],
-            [
-                "intrigo",
-                "conspiracy"
-            ]
-        ]
-    },
-    {
         "category": "commissione",
         "items": [
             [
@@ -10920,27 +9996,6 @@
         ]
     },
     {
-        "category": "assurdità",
-        "items": [
-            [
-                "incongruenza",
-                "absurdity"
-            ],
-            [
-                "insensatezza",
-                "absurdity"
-            ],
-            [
-                "non_senso",
-                "absurdity"
-            ],
-            [
-                "nonsenso",
-                "absurdity"
-            ]
-        ]
-    },
-    {
         "category": "baggianata",
         "items": [
             [
@@ -11021,27 +10076,6 @@
             [
                 "rituale",
                 "etiquette"
-            ]
-        ]
-    },
-    {
-        "category": "avviso",
-        "items": [
-            [
-                "consiglio",
-                "advice"
-            ],
-            [
-                "consulenza",
-                "advice"
-            ],
-            [
-                "parere",
-                "advice"
-            ],
-            [
-                "raccomandazione",
-                "advice"
             ]
         ]
     },
@@ -11193,27 +10227,6 @@
         ]
     },
     {
-        "category": "ammonimento",
-        "items": [
-            [
-                "ammonizione",
-                "rebuke"
-            ],
-            [
-                "animadversione",
-                "rebuke"
-            ],
-            [
-                "animavversione",
-                "rebuke"
-            ],
-            [
-                "bacchettata",
-                "rebuke"
-            ]
-        ]
-    },
-    {
         "category": "partaccia",
         "items": [
             [
@@ -11252,27 +10265,6 @@
             [
                 "sermone",
                 "lecture"
-            ]
-        ]
-    },
-    {
-        "category": "affronto",
-        "items": [
-            [
-                "epiteto",
-                "abuse"
-            ],
-            [
-                "improperio",
-                "abuse"
-            ],
-            [
-                "ingiuria",
-                "abuse"
-            ],
-            [
-                "insulto",
-                "abuse"
             ]
         ]
     },
@@ -11420,27 +10412,6 @@
             [
                 "storia",
                 "pretext"
-            ]
-        ]
-    },
-    {
-        "category": "accenno",
-        "items": [
-            [
-                "allusione",
-                "mention"
-            ],
-            [
-                "cenno",
-                "mention"
-            ],
-            [
-                "menzione",
-                "mention"
-            ],
-            [
-                "riferimento",
-                "mention"
             ]
         ]
     },
@@ -11823,27 +10794,6 @@
         ]
     },
     {
-        "category": "chiacchiera",
-        "items": [
-            [
-                "chicacchiera",
-                "prate"
-            ],
-            [
-                "ciancia",
-                "prate"
-            ],
-            [
-                "cicalata",
-                "prate"
-            ],
-            [
-                "fanfaluca",
-                "prate"
-            ]
-        ]
-    },
-    {
         "category": "contraddittorio",
         "items": [
             [
@@ -11949,27 +10899,6 @@
         ]
     },
     {
-        "category": "chiarificazione",
-        "items": [
-            [
-                "chiarimento",
-                "clarification"
-            ],
-            [
-                "delucidazione",
-                "clarification"
-            ],
-            [
-                "dilucidazione",
-                "clarification"
-            ],
-            [
-                "precisazione",
-                "clarification"
-            ]
-        ]
-    },
-    {
         "category": "acconsentimento",
         "items": [
             [
@@ -11987,27 +10916,6 @@
             [
                 "assenso",
                 "assent"
-            ]
-        ]
-    },
-    {
-        "category": "accomodamento",
-        "items": [
-            [
-                "appianamento",
-                "settlement"
-            ],
-            [
-                "composizione",
-                "settlement"
-            ],
-            [
-                "conciliazione",
-                "settlement"
-            ],
-            [
-                "concordato",
-                "settlement"
             ]
         ]
     },
@@ -12218,27 +11126,6 @@
             [
                 "piagnucolio",
                 "whimper"
-            ]
-        ]
-    },
-    {
-        "category": "compianto",
-        "items": [
-            [
-                "corrotto",
-                "lament"
-            ],
-            [
-                "lamentanza",
-                "lament"
-            ],
-            [
-                "lamentazione",
-                "lament"
-            ],
-            [
-                "lamento",
-                "lament"
             ]
         ]
     },
@@ -12495,27 +11382,6 @@
         ]
     },
     {
-        "category": "annuncio",
-        "items": [
-            [
-                "annunzio",
-                "omen"
-            ],
-            [
-                "augurio",
-                "omen"
-            ],
-            [
-                "auspicio",
-                "omen"
-            ],
-            [
-                "presagio",
-                "omen"
-            ]
-        ]
-    },
-    {
         "category": "albori",
         "items": [
             [
@@ -12554,48 +11420,6 @@
             [
                 "fine",
                 "end"
-            ]
-        ]
-    },
-    {
-        "category": "conclusione",
-        "items": [
-            [
-                "conseguenza",
-                "result"
-            ],
-            [
-                "esito",
-                "result"
-            ],
-            [
-                "portato",
-                "result"
-            ],
-            [
-                "resultato",
-                "result"
-            ]
-        ]
-    },
-    {
-        "category": "alterazione",
-        "items": [
-            [
-                "cambiamento",
-                "change"
-            ],
-            [
-                "mutamento",
-                "change"
-            ],
-            [
-                "mutazione",
-                "change"
-            ],
-            [
-                "rivolgimento",
-                "change"
             ]
         ]
     },
@@ -12642,27 +11466,6 @@
         ]
     },
     {
-        "category": "calamità",
-        "items": [
-            [
-                "carneficina",
-                "calamity"
-            ],
-            [
-                "cataclisma",
-                "calamity"
-            ],
-            [
-                "catastrofe",
-                "calamity"
-            ],
-            [
-                "disastro",
-                "calamity"
-            ]
-        ]
-    },
-    {
         "category": "cominciare",
         "items": [
             [
@@ -12705,48 +11508,6 @@
         ]
     },
     {
-        "category": "briga",
-        "items": [
-            [
-                "cancan",
-                "fuss"
-            ],
-            [
-                "fastidio",
-                "fuss"
-            ],
-            [
-                "impiccio",
-                "fuss"
-            ],
-            [
-                "incomodo",
-                "fuss"
-            ]
-        ]
-    },
-    {
-        "category": "impasto",
-        "items": [
-            [
-                "mescolanza",
-                "mix"
-            ],
-            [
-                "miscela",
-                "mix"
-            ],
-            [
-                "miscuglio",
-                "mix"
-            ],
-            [
-                "misto",
-                "mix"
-            ]
-        ]
-    },
-    {
         "category": "bang",
         "items": [
             [
@@ -12764,27 +11525,6 @@
             [
                 "scoppio",
                 "bang"
-            ]
-        ]
-    },
-    {
-        "category": "cancan",
-        "items": [
-            [
-                "chiasso",
-                "blare"
-            ],
-            [
-                "clangore",
-                "blare"
-            ],
-            [
-                "fracasso",
-                "blare"
-            ],
-            [
-                "frastuono",
-                "blare"
             ]
         ]
     },
@@ -12827,69 +11567,6 @@
             [
                 "scricchio",
                 "creak"
-            ]
-        ]
-    },
-    {
-        "category": "baccano",
-        "items": [
-            [
-                "bailamme",
-                "hubbub"
-            ],
-            [
-                "baraonda",
-                "hubbub"
-            ],
-            [
-                "bolgia",
-                "hubbub"
-            ],
-            [
-                "bordello",
-                "hubbub"
-            ]
-        ]
-    },
-    {
-        "category": "baccano",
-        "items": [
-            [
-                "casino",
-                "racket"
-            ],
-            [
-                "chiasso",
-                "racket"
-            ],
-            [
-                "confusione",
-                "racket"
-            ],
-            [
-                "fracasso",
-                "racket"
-            ]
-        ]
-    },
-    {
-        "category": "boato",
-        "items": [
-            [
-                "borbogliamento",
-                "rumble"
-            ],
-            [
-                "brontolamento",
-                "rumble"
-            ],
-            [
-                "fragore",
-                "rumble"
-            ],
-            [
-                "mormorio",
-                "rumble"
             ]
         ]
     },
@@ -13079,27 +11756,6 @@
             [
                 "mitigamento",
                 "weakening"
-            ]
-        ]
-    },
-    {
-        "category": "cancan",
-        "items": [
-            [
-                "chiasso",
-                "noise"
-            ],
-            [
-                "dissonanza",
-                "noise"
-            ],
-            [
-                "interferenza",
-                "noise"
-            ],
-            [
-                "rumore",
-                "noise"
             ]
         ]
     },
@@ -13503,48 +12159,6 @@
         ]
     },
     {
-        "category": "affanno",
-        "items": [
-            [
-                "angoscia",
-                "anxiety"
-            ],
-            [
-                "ansia",
-                "anxiety"
-            ],
-            [
-                "ansietà",
-                "anxiety"
-            ],
-            [
-                "apprensione",
-                "anxiety"
-            ]
-        ]
-    },
-    {
-        "category": "affanno",
-        "items": [
-            [
-                "angoscia",
-                "worry"
-            ],
-            [
-                "angustia",
-                "worry"
-            ],
-            [
-                "cruccio",
-                "worry"
-            ],
-            [
-                "patema",
-                "worry"
-            ]
-        ]
-    },
-    {
         "category": "affidamento",
         "items": [
             [
@@ -13797,27 +12411,6 @@
         ]
     },
     {
-        "category": "alimentazione",
-        "items": [
-            [
-                "alimento",
-                "nutriment"
-            ],
-            [
-                "nutrimento",
-                "nutriment"
-            ],
-            [
-                "nutrizione",
-                "nutriment"
-            ],
-            [
-                "sostentazione",
-                "nutriment"
-            ]
-        ]
-    },
-    {
         "category": "cibaria",
         "items": [
             [
@@ -13919,6 +12512,27 @@
             [
                 "chicchi_di_riso",
                 "orzo"
+            ]
+        ]
+    },
+    {
+        "category": "barbine_a_nido",
+        "items": [
+            [
+                "bassetti",
+                "fedelline"
+            ],
+            [
+                "capelli_d'angelo",
+                "fedelline"
+            ],
+            [
+                "capellini_d'angelo",
+                "fedelline"
+            ],
+            [
+                "capellini_fini",
+                "fedelline"
             ]
         ]
     },
@@ -14154,23 +12768,23 @@
         ]
     },
     {
-        "category": "assicurazione",
+        "category": "finanziaria",
         "items": [
             [
-                "compagnia_assicuratrice",
-                "insurance_company"
+                "fondo_chiuso",
+                "investment_company"
             ],
             [
-                "compagnia_di_assicurazione",
-                "insurance_company"
+                "fondo_comune_d'investimento_chiuso",
+                "investment_company"
             ],
             [
-                "società_assicuratrice",
-                "insurance_company"
+                "fondo_comune_di_investimento",
+                "investment_company"
             ],
             [
-                "società_di_assicurazione",
-                "insurance_company"
+                "società_di_investimento",
+                "investment_company"
             ]
         ]
     },
@@ -14322,6 +12936,27 @@
         ]
     },
     {
+        "category": "forza_lavoro",
+        "items": [
+            [
+                "forza-lavoro",
+                "work_force"
+            ],
+            [
+                "maestranza",
+                "work_force"
+            ],
+            [
+                "maestranze",
+                "work_force"
+            ],
+            [
+                "mano_d'opera",
+                "work_force"
+            ]
+        ]
+    },
+    {
         "category": "ascoltatori",
         "items": [
             [
@@ -14406,27 +13041,6 @@
         ]
     },
     {
-        "category": "banda",
-        "items": [
-            [
-                "combriccola",
-                "crowd"
-            ],
-            [
-                "congrega",
-                "crowd"
-            ],
-            [
-                "cricca",
-                "crowd"
-            ],
-            [
-                "gang",
-                "crowd"
-            ]
-        ]
-    },
-    {
         "category": "F.M.I.",
         "items": [
             [
@@ -14444,27 +13058,6 @@
             [
                 "fondo_monetario_internazionale",
                 "international_monetary_fund"
-            ]
-        ]
-    },
-    {
-        "category": "adunanza",
-        "items": [
-            [
-                "assemblea",
-                "meeting"
-            ],
-            [
-                "consesso",
-                "meeting"
-            ],
-            [
-                "consulta",
-                "meeting"
-            ],
-            [
-                "convegno",
-                "meeting"
             ]
         ]
     },
@@ -14528,27 +13121,6 @@
             [
                 "consiglio_direttivo",
                 "directorate"
-            ]
-        ]
-    },
-    {
-        "category": "accozzaglia",
-        "items": [
-            [
-                "caldarone",
-                "odds_and_ends"
-            ],
-            [
-                "calderone",
-                "odds_and_ends"
-            ],
-            [
-                "carabattole",
-                "odds_and_ends"
-            ],
-            [
-                "cianfrusaglie",
-                "odds_and_ends"
             ]
         ]
     },
@@ -14654,27 +13226,6 @@
             [
                 "mandamento",
                 "district"
-            ]
-        ]
-    },
-    {
-        "category": "borgata",
-        "items": [
-            [
-                "borgo",
-                "suburb"
-            ],
-            [
-                "periferia",
-                "suburb"
-            ],
-            [
-                "sobborgo",
-                "suburb"
-            ],
-            [
-                "suburbio",
-                "suburb"
             ]
         ]
     },
@@ -14805,27 +13356,6 @@
         ]
     },
     {
-        "category": "brandello",
-        "items": [
-            [
-                "briciola",
-                "bit"
-            ],
-            [
-                "frantume",
-                "bit"
-            ],
-            [
-                "pezzettino",
-                "bit"
-            ],
-            [
-                "scaglia",
-                "bit"
-            ]
-        ]
-    },
-    {
         "category": "balzo",
         "items": [
             [
@@ -14843,27 +13373,6 @@
             [
                 "roccia",
                 "cliff"
-            ]
-        ]
-    },
-    {
-        "category": "apertura",
-        "items": [
-            [
-                "crepa",
-                "crack"
-            ],
-            [
-                "crepatura",
-                "crack"
-            ],
-            [
-                "fenditura",
-                "crack"
-            ],
-            [
-                "fessura",
-                "crack"
             ]
         ]
     },
@@ -15288,6 +13797,27 @@
         ]
     },
     {
+        "category": "islamita",
+        "items": [
+            [
+                "maomettano",
+                "muslim"
+            ],
+            [
+                "mussulmano",
+                "muslim"
+            ],
+            [
+                "musulmano",
+                "muslim"
+            ],
+            [
+                "saraceno",
+                "muslim"
+            ]
+        ]
+    },
+    {
         "category": "accusato",
         "items": [
             [
@@ -15389,27 +13919,6 @@
             [
                 "contraddittore",
                 "adversary"
-            ]
-        ]
-    },
-    {
-        "category": "avvocato",
-        "items": [
-            [
-                "fautore",
-                "advocate"
-            ],
-            [
-                "parteggiante",
-                "advocate"
-            ],
-            [
-                "parteggiatore",
-                "advocate"
-            ],
-            [
-                "patrocinatore",
-                "advocate"
             ]
         ]
     },
@@ -15788,27 +14297,6 @@
             [
                 "navicellaio",
                 "boatman"
-            ]
-        ]
-    },
-    {
-        "category": "cataplasma",
-        "items": [
-            [
-                "impiastro",
-                "bore"
-            ],
-            [
-                "lagna",
-                "bore"
-            ],
-            [
-                "mattone",
-                "bore"
-            ],
-            [
-                "noia",
-                "bore"
             ]
         ]
     },
@@ -16338,27 +14826,6 @@
         ]
     },
     {
-        "category": "ballerina",
-        "items": [
-            [
-                "ballerino",
-                "dancer"
-            ],
-            [
-                "boy",
-                "dancer"
-            ],
-            [
-                "danzatore",
-                "dancer"
-            ],
-            [
-                "danzatrice",
-                "dancer"
-            ]
-        ]
-    },
-    {
         "category": "bellimbusto",
         "items": [
             [
@@ -16443,27 +14910,6 @@
         ]
     },
     {
-        "category": "agitatore",
-        "items": [
-            [
-                "arruffapopoli",
-                "demagogue"
-            ],
-            [
-                "capopopolo",
-                "demagogue"
-            ],
-            [
-                "demagogo",
-                "demagogue"
-            ],
-            [
-                "guidapopolo",
-                "demagogue"
-            ]
-        ]
-    },
-    {
         "category": "alimentarista",
         "items": [
             [
@@ -16502,27 +14948,6 @@
             [
                 "minchione",
                 "dimwit"
-            ]
-        ]
-    },
-    {
-        "category": "amministratore",
-        "items": [
-            [
-                "amministratore_delegato",
-                "director"
-            ],
-            [
-                "direttore",
-                "director"
-            ],
-            [
-                "gestore",
-                "director"
-            ],
-            [
-                "manager",
-                "director"
             ]
         ]
     },
@@ -16674,27 +15099,6 @@
         ]
     },
     {
-        "category": "allocco",
-        "items": [
-            [
-                "asino",
-                "dunce"
-            ],
-            [
-                "broccolo",
-                "dunce"
-            ],
-            [
-                "bue",
-                "dunce"
-            ],
-            [
-                "castrone",
-                "dunce"
-            ]
-        ]
-    },
-    {
         "category": "moscerino",
         "items": [
             [
@@ -16779,27 +15183,6 @@
         ]
     },
     {
-        "category": "amatore",
-        "items": [
-            [
-                "appassionato",
-                "fancier"
-            ],
-            [
-                "entusiasta",
-                "fancier"
-            ],
-            [
-                "fanatico",
-                "fancier"
-            ],
-            [
-                "patito",
-                "fancier"
-            ]
-        ]
-    },
-    {
         "category": "agricoltore",
         "items": [
             [
@@ -16880,27 +15263,6 @@
             [
                 "piaggiatore",
                 "flatterer"
-            ]
-        ]
-    },
-    {
-        "category": "allocco",
-        "items": [
-            [
-                "asino",
-                "fool"
-            ],
-            [
-                "babbeo",
-                "fool"
-            ],
-            [
-                "babbuino",
-                "fool"
-            ],
-            [
-                "balordo",
-                "fool"
             ]
         ]
     },
@@ -17132,48 +15494,6 @@
             [
                 "ipocrita",
                 "hypocrite"
-            ]
-        ]
-    },
-    {
-        "category": "babbeo",
-        "items": [
-            [
-                "bischero",
-                "idiot"
-            ],
-            [
-                "citrullo",
-                "idiot"
-            ],
-            [
-                "cretino",
-                "idiot"
-            ],
-            [
-                "deficiente",
-                "idiot"
-            ]
-        ]
-    },
-    {
-        "category": "acchiappamosche",
-        "items": [
-            [
-                "bighellone",
-                "idler"
-            ],
-            [
-                "ciondolone",
-                "idler"
-            ],
-            [
-                "fannullone",
-                "idler"
-            ],
-            [
-                "infingardo",
-                "idler"
             ]
         ]
     },
@@ -17489,27 +15809,6 @@
             [
                 "fantesca",
                 "maid"
-            ]
-        ]
-    },
-    {
-        "category": "bambino",
-        "items": [
-            [
-                "bimbo",
-                "male_child"
-            ],
-            [
-                "fanciullo",
-                "male_child"
-            ],
-            [
-                "figliolo",
-                "male_child"
-            ],
-            [
-                "figliuolo",
-                "male_child"
             ]
         ]
     },
@@ -18291,27 +16590,6 @@
         ]
     },
     {
-        "category": "bandito",
-        "items": [
-            [
-                "birba",
-                "rogue"
-            ],
-            [
-                "birbante",
-                "rogue"
-            ],
-            [
-                "birbantello",
-                "rogue"
-            ],
-            [
-                "birbone",
-                "rogue"
-            ]
-        ]
-    },
-    {
         "category": "dimenticone",
         "items": [
             [
@@ -18522,27 +16800,6 @@
         ]
     },
     {
-        "category": "categoria",
-        "items": [
-            [
-                "razza",
-                "sort"
-            ],
-            [
-                "specie",
-                "sort"
-            ],
-            [
-                "stampo",
-                "sort"
-            ],
-            [
-                "tipo",
-                "sort"
-            ]
-        ]
-    },
-    {
         "category": "cavalletta",
         "items": [
             [
@@ -18623,27 +16880,6 @@
             [
                 "strano",
                 "stranger"
-            ]
-        ]
-    },
-    {
-        "category": "allocco",
-        "items": [
-            [
-                "arteriosclerotico",
-                "stupid"
-            ],
-            [
-                "babbeo",
-                "stupid"
-            ],
-            [
-                "babbuino",
-                "stupid"
-            ],
-            [
-                "balordo",
-                "stupid"
             ]
         ]
     },
@@ -18980,27 +17216,6 @@
             [
                 "villano",
                 "yokel"
-            ]
-        ]
-    },
-    {
-        "category": "conclusione",
-        "items": [
-            [
-                "conseguenza",
-                "consequence"
-            ],
-            [
-                "effetto",
-                "consequence"
-            ],
-            [
-                "portato",
-                "consequence"
-            ],
-            [
-                "resultato",
-                "consequence"
             ]
         ]
     },
@@ -19761,27 +17976,6 @@
         ]
     },
     {
-        "category": "bene",
-        "items": [
-            [
-                "cosa",
-                "property"
-            ],
-            [
-                "patrimonio",
-                "property"
-            ],
-            [
-                "possedimento",
-                "property"
-            ],
-            [
-                "proprietà",
-                "property"
-            ]
-        ]
-    },
-    {
         "category": "cespite",
         "items": [
             [
@@ -19908,48 +18102,6 @@
         ]
     },
     {
-        "category": "compenso",
-        "items": [
-            [
-                "mercede",
-                "wage"
-            ],
-            [
-                "paga",
-                "wage"
-            ],
-            [
-                "remunerazione",
-                "wage"
-            ],
-            [
-                "retribuzione",
-                "wage"
-            ]
-        ]
-    },
-    {
-        "category": "compensazione",
-        "items": [
-            [
-                "indennità",
-                "damages"
-            ],
-            [
-                "indennizzo",
-                "damages"
-            ],
-            [
-                "rifusione",
-                "damages"
-            ],
-            [
-                "risarcimento",
-                "damages"
-            ]
-        ]
-    },
-    {
         "category": "imposizione",
         "items": [
             [
@@ -20009,27 +18161,6 @@
             [
                 "imposta_sul_valore_aggiunto",
                 "vat"
-            ]
-        ]
-    },
-    {
-        "category": "cachet",
-        "items": [
-            [
-                "compenso",
-                "fee"
-            ],
-            [
-                "notula",
-                "fee"
-            ],
-            [
-                "onorario",
-                "fee"
-            ],
-            [
-                "parcella",
-                "fee"
             ]
         ]
     },
@@ -20391,27 +18522,6 @@
         ]
     },
     {
-        "category": "allargamento",
-        "items": [
-            [
-                "allargatura",
-                "widening"
-            ],
-            [
-                "ampliamento",
-                "widening"
-            ],
-            [
-                "espansione",
-                "widening"
-            ],
-            [
-                "slargamento",
-                "widening"
-            ]
-        ]
-    },
-    {
         "category": "cc",
         "items": [
             [
@@ -20450,27 +18560,6 @@
             [
                 "kopek",
                 "kopek"
-            ]
-        ]
-    },
-    {
-        "category": "canestro",
-        "items": [
-            [
-                "cesta",
-                "basket"
-            ],
-            [
-                "cesto",
-                "basket"
-            ],
-            [
-                "panierata",
-                "basket"
-            ],
-            [
-                "zana",
-                "basket"
             ]
         ]
     },
@@ -20538,27 +18627,6 @@
         ]
     },
     {
-        "category": "alluvione",
-        "items": [
-            [
-                "diluvio",
-                "flood"
-            ],
-            [
-                "profluvio",
-                "flood"
-            ],
-            [
-                "scarica",
-                "flood"
-            ],
-            [
-                "subisso",
-                "flood"
-            ]
-        ]
-    },
-    {
         "category": "approvvigionamento",
         "items": [
             [
@@ -20622,27 +18690,6 @@
         ]
     },
     {
-        "category": "avanzo",
-        "items": [
-            [
-                "residuato",
-                "remainder"
-            ],
-            [
-                "residuo",
-                "remainder"
-            ],
-            [
-                "resto",
-                "remainder"
-            ],
-            [
-                "rimanente",
-                "remainder"
-            ]
-        ]
-    },
-    {
         "category": "casata",
         "items": [
             [
@@ -20685,27 +18732,6 @@
         ]
     },
     {
-        "category": "apice",
-        "items": [
-            [
-                "cocuzzolo",
-                "point"
-            ],
-            [
-                "cucuzzolo",
-                "point"
-            ],
-            [
-                "culmine",
-                "point"
-            ],
-            [
-                "sommità",
-                "point"
-            ]
-        ]
-    },
-    {
         "category": "graffiatura",
         "items": [
             [
@@ -20723,27 +18749,6 @@
             [
                 "sgraffiatura",
                 "incision"
-            ]
-        ]
-    },
-    {
-        "category": "apertura",
-        "items": [
-            [
-                "crepa",
-                "crevice"
-            ],
-            [
-                "crepaccio",
-                "crevice"
-            ],
-            [
-                "fenditura",
-                "crevice"
-            ],
-            [
-                "scissura",
-                "crevice"
             ]
         ]
     },
@@ -20807,27 +18812,6 @@
             [
                 "cima",
                 "acme"
-            ]
-        ]
-    },
-    {
-        "category": "affollamento",
-        "items": [
-            [
-                "congestionamento",
-                "congestion"
-            ],
-            [
-                "congestione",
-                "congestion"
-            ],
-            [
-                "sopraffollamento",
-                "congestion"
-            ],
-            [
-                "sovraffollamento",
-                "congestion"
             ]
         ]
     },
@@ -21063,27 +19047,6 @@
         ]
     },
     {
-        "category": "abbattimento",
-        "items": [
-            [
-                "fiaccatura",
-                "exhaustion"
-            ],
-            [
-                "infiacchimento",
-                "exhaustion"
-            ],
-            [
-                "rifinitezza",
-                "exhaustion"
-            ],
-            [
-                "sfinimento",
-                "exhaustion"
-            ]
-        ]
-    },
-    {
         "category": "ciucca",
         "items": [
             [
@@ -21147,27 +19110,6 @@
         ]
     },
     {
-        "category": "bile",
-        "items": [
-            [
-                "collera",
-                "rage"
-            ],
-            [
-                "furia",
-                "rage"
-            ],
-            [
-                "furore",
-                "rage"
-            ],
-            [
-                "incavolatura",
-                "rage"
-            ]
-        ]
-    },
-    {
         "category": "acciacco",
         "items": [
             [
@@ -21206,27 +19148,6 @@
             [
                 "parossismo",
                 "paroxysm"
-            ]
-        ]
-    },
-    {
-        "category": "consunzione",
-        "items": [
-            [
-                "etisia",
-                "pulmonary_tuberculosis"
-            ],
-            [
-                "tisi",
-                "pulmonary_tuberculosis"
-            ],
-            [
-                "tisichezza",
-                "pulmonary_tuberculosis"
-            ],
-            [
-                "tubercolosi",
-                "pulmonary_tuberculosis"
             ]
         ]
     },
@@ -21315,27 +19236,6 @@
         ]
     },
     {
-        "category": "abrasione",
-        "items": [
-            [
-                "escoriazione",
-                "graze"
-            ],
-            [
-                "graffio",
-                "graze"
-            ],
-            [
-                "incisura",
-                "graze"
-            ],
-            [
-                "sbucciatura",
-                "graze"
-            ]
-        ]
-    },
-    {
         "category": "acciaccata",
         "items": [
             [
@@ -21395,27 +19295,6 @@
             [
                 "ustione",
                 "burn"
-            ]
-        ]
-    },
-    {
-        "category": "beccata",
-        "items": [
-            [
-                "beccatura",
-                "sting"
-            ],
-            [
-                "morsicatura_di_insetto",
-                "sting"
-            ],
-            [
-                "morso",
-                "sting"
-            ],
-            [
-                "puntura_di_insetto",
-                "sting"
             ]
         ]
     },
@@ -21672,90 +19551,6 @@
         ]
     },
     {
-        "category": "autorevolezza",
-        "items": [
-            [
-                "credito",
-                "prestige"
-            ],
-            [
-                "gloria",
-                "prestige"
-            ],
-            [
-                "lustro",
-                "prestige"
-            ],
-            [
-                "prestigio",
-                "prestige"
-            ]
-        ]
-    },
-    {
-        "category": "celebrità",
-        "items": [
-            [
-                "fama",
-                "fame"
-            ],
-            [
-                "gloria",
-                "fame"
-            ],
-            [
-                "notorietà",
-                "fame"
-            ],
-            [
-                "preclarità",
-                "fame"
-            ]
-        ]
-    },
-    {
-        "category": "autorità",
-        "items": [
-            [
-                "credito",
-                "repute"
-            ],
-            [
-                "onorabilità",
-                "repute"
-            ],
-            [
-                "reputazione",
-                "repute"
-            ],
-            [
-                "riputazione",
-                "repute"
-            ]
-        ]
-    },
-    {
-        "category": "celebrità",
-        "items": [
-            [
-                "nomea",
-                "notoriety"
-            ],
-            [
-                "nominanza",
-                "notoriety"
-            ],
-            [
-                "notorietà",
-                "notoriety"
-            ],
-            [
-                "taccia",
-                "notoriety"
-            ]
-        ]
-    },
-    {
         "category": "disdoro",
         "items": [
             [
@@ -21882,27 +19677,6 @@
         ]
     },
     {
-        "category": "difetto",
-        "items": [
-            [
-                "imperfezione",
-                "defect"
-            ],
-            [
-                "magagna",
-                "defect"
-            ],
-            [
-                "taccola",
-                "defect"
-            ],
-            [
-                "vizio",
-                "defect"
-            ]
-        ]
-    },
-    {
         "category": "disdetta",
         "items": [
             [
@@ -21924,27 +19698,6 @@
         ]
     },
     {
-        "category": "calamità",
-        "items": [
-            [
-                "cataclisma",
-                "catastrophe"
-            ],
-            [
-                "catastrofe",
-                "catastrophe"
-            ],
-            [
-                "disastro",
-                "catastrophe"
-            ],
-            [
-                "macello",
-                "catastrophe"
-            ]
-        ]
-    },
-    {
         "category": "chance",
         "items": [
             [
@@ -21962,27 +19715,6 @@
             [
                 "occasione",
                 "opportunity"
-            ]
-        ]
-    },
-    {
-        "category": "abbattimento",
-        "items": [
-            [
-                "accasciamento",
-                "dejection"
-            ],
-            [
-                "demoralizzazione",
-                "dejection"
-            ],
-            [
-                "depressione",
-                "dejection"
-            ],
-            [
-                "sconforto",
-                "dejection"
             ]
         ]
     },
@@ -22109,48 +19841,6 @@
             [
                 "trasandatezza",
                 "sloppiness"
-            ]
-        ]
-    },
-    {
-        "category": "accozzaglia",
-        "items": [
-            [
-                "affastellamento",
-                "clutter"
-            ],
-            [
-                "coacervo",
-                "clutter"
-            ],
-            [
-                "congerie",
-                "clutter"
-            ],
-            [
-                "emporio",
-                "clutter"
-            ]
-        ]
-    },
-    {
-        "category": "ambiente",
-        "items": [
-            [
-                "ambito",
-                "sphere"
-            ],
-            [
-                "area",
-                "sphere"
-            ],
-            [
-                "campo",
-                "sphere"
-            ],
-            [
-                "settore",
-                "sphere"
             ]
         ]
     },
@@ -22424,6 +20114,27 @@
             [
                 "albori",
                 "dawn"
+            ]
+        ]
+    },
+    {
+        "category": "Pasqua_delle_rose",
+        "items": [
+            [
+                "Pasqua_rosata",
+                "pentecost"
+            ],
+            [
+                "Pasquarosa",
+                "pentecost"
+            ],
+            [
+                "Pentecoste",
+                "pentecost"
+            ],
+            [
+                "pasqua_rosa",
+                "pentecost"
             ]
         ]
     },
