@@ -1,5 +1,5 @@
 import React from "react";
-import { TileProps } from "./types";
+import { TileProps } from "../types";
 
 const Tile = ({ phrase, onClick, selected, disabled }: TileProps) => {
   return (

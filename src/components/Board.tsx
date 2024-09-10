@@ -1,9 +1,8 @@
-import React from "react";
+import React, { useState } from "react";
 import Tile from "./Tile";
-import { useState } from "react";
 import _ from "lodash";
-import { checkGuess } from "./api";
-import { BoardProps, TileDisplay } from "./types";
+import { checkGuess } from "../api";
+import { BoardProps, TileDisplay } from "../types";
 
 const Board = ({ tiles }: BoardProps) => {
   const [currentGuess, setCurrentGuess] = useState<Array<string>>([]);

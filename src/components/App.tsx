@@ -1,8 +1,7 @@
-import React from "react";
-import { useEffect, useState } from "react";
+import React, { useEffect, useState } from "react";
 import Board from "./Board";
-import { getGroups } from "./api";
-import { TileDisplay } from "./types";
+import { getGroups } from "../api";
+import { TileDisplay } from "../types";
 
 const App = () => {
   const [tiles, setTiles] = useState(Array<TileDisplay>);
