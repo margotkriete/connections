@@ -52,11 +52,13 @@ const Board = ({ tiles }: BoardProps) => {
             <div className="board">
               {tiles.map((t: TileDisplay, i: number) => (
                 <Tile
-                  selected={currentGuess.includes(t.tile)}
-                  phrase={toggledTiles.includes(t.tile) ? t.engTile : t.tile}
-                  onClick={(e) => handleTileSelect(e, t.tile)}
-                  key={i}
-                  disabled={disabledTiles.includes(t.tile)}
+                  selected={currentGuess.includes(t.phrase)}
+                  phrase={
+                    toggledTiles.includes(t.phrase) ? t.englishPhrase : t.phrase
+                  }
+                  onClick={(e) => handleTileSelect(e, t.phrase)}
+                  key={t.phrase}
+                  disabled={disabledTiles.includes(t.phrase)}
                 />
               ))}
               <button
@@ -64,7 +66,7 @@ const Board = ({ tiles }: BoardProps) => {
                 disabled={currentGuess.length < 4}
                 onClick={submitGuess}
               >
-                Submit
+                submit
               </button>
             </div>
             <p>
