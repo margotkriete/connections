@@ -2,7 +2,11 @@
     "rewrites": [
         {
             "source": "/guess",
-            "destination": "src/server"
+            "destination": "/src/server.py"
+        },
+        {
+            "source": "/groups",
+            "destination": "/src/server.py"
         }
     ]
 }
