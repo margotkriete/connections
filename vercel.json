@@ -1,8 +1,8 @@
 {
-    "builds": [
+    "rewrites": [
         {
-            "src": "src/server.py",
-            "use": "@vercel/python"
+            "source": "/guess",
+            "destination": "src/server"
         }
     ]
 }
