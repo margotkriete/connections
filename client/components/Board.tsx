@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import Tile from "./Tile";
-import _ from "lodash";
 import { checkGuess } from "../api";
 import { BoardProps, TileDisplay } from "../types";
 
