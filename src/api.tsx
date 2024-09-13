@@ -1,8 +1,7 @@
 import axios from "axios";
 
 export const client = axios.create({
-  // TODO: update this with configurable URL
-  baseURL: "https://connections-iota.vercel.app/",
+  baseURL: "http://127.0.0.1:5000",
 });
 
 interface GuessParams {

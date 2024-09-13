@@ -1,6 +1,6 @@
 export interface TileDisplay {
-  phrase: string;
-  englishPhrase: string;
+  tile: string;
+  engTile: string;
 }
 
 export interface BoardProps {

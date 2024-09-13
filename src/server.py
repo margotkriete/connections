@@ -14,7 +14,7 @@ with open("groups.json") as f:
     groups = json.load(f)
 SEED = random.randrange(0, len(groups) - GROUP_LENGTH)
 items = [
-    {"phrase": i.replace("_", " "), "englishTile": engTile}
+    {"tile": i.replace("_", " "), "engTile": engTile}
     for group in groups[SEED : SEED + GROUP_LENGTH]
     for i, engTile in group["items"]
 ]
