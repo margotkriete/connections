@@ -1,14 +1,14 @@
 import json
 import random
 
-from flask import Flask, request
+from flask import Flask, request, render_template
 from flask_cors import CORS
 
 app = Flask(
     __name__,
-    static_url_path="",
-    static_folder="../client/build",
-    template_folder="../client/build",
+    static_url_path="/",
+    static_folder="../client/dist",
+    template_folder="../client/dist",
 )
 CORS(app)
 
@@ -43,5 +43,10 @@ def submit_guess():
     return {"correct": False}
 
 
+@app.route("/")
+def index():
+    return render_template("index.html")
+
+
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run()
