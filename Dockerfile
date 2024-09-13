@@ -14,5 +14,4 @@ COPY . .
 EXPOSE 5000
 
 # Start the Flask app
-CMD ["ls"]
 CMD ["python", "api.py"]
