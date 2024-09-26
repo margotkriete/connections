@@ -19,7 +19,7 @@ const App = () => {
 
   return (
     <>
-      <h1>"connections"</h1>
+      <h1>connessioni</h1>
       <Board tiles={tiles} />
     </>
   );
