@@ -1,17 +1,15 @@
-import axios from "axios";
-import { GuessResponse } from "./types";
+import axios, { AxiosResponse } from "axios";
+import { GuessResponse, GuessParams, GroupsResponse } from "./types";
 
 export const client = axios.create({
   baseURL: "https://connections-xih1.onrender.com",
 });
 
-interface GuessParams {
-  guess: Array<string>;
-}
-
 export async function checkGuess(params: GuessParams) {
   try {
-    const res = await client.get("/guess", { params: params });
+    const res: AxiosResponse<GuessResponse> = await client.get("/guess", {
+      params: params,
+    });
     const result = {
       data: res.data,
     };
@@ -23,7 +21,7 @@ export async function checkGuess(params: GuessParams) {
 
 export async function getGroups() {
   try {
-    const { data } = await client.get("/groups");
+    const { data }: AxiosResponse<GroupsResponse> = await client.get("/groups");
     return { data: data };
   } catch (err) {
     console.log(err);

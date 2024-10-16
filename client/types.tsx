@@ -17,4 +17,13 @@ export interface TileProps {
 export interface GuessResponse {
   correct: boolean;
   category?: string;
+  error?: boolean;
+}
+
+export interface GuessParams {
+  guess: Array<string>;
+}
+
+export interface GroupsResponse {
+  groups: Array<TileDisplay>;
 }
