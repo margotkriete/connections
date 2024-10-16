@@ -15,8 +15,10 @@ CORS(app)
 GUESS_LENGTH = 4
 GROUP_LENGTH = 4
 
+
 with open("groups.json") as f:
     groups = json.load(f)
+
 SEED = random.randrange(0, len(groups) - GROUP_LENGTH)
 items = [
     {"tile": i.replace("_", " "), "engTile": engTile}

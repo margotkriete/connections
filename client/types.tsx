@@ -13,3 +13,8 @@ export interface TileProps {
   selected: boolean;
   disabled: boolean;
 }
+
+export interface GuessResponse {
+  correct: boolean;
+  category?: string;
+}

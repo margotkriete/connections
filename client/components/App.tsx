@@ -20,6 +20,10 @@ const App = () => {
   return (
     <>
       <h1>connessioni</h1>
+      <p>
+        guess the four groups of four Italian categories (synonyms). select
+        command + click to flip to the English word.
+      </p>
       <Board tiles={tiles} />
     </>
   );

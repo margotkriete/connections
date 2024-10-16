@@ -1,4 +1,6 @@
 import axios from "axios";
+import { GuessResponse } from "./types";
+
 export const client = axios.create({
   baseURL: "https://connections-xih1.onrender.com",
 });
@@ -21,10 +23,8 @@ export async function checkGuess(params: GuessParams) {
 
 export async function getGroups() {
   try {
-    const res = await client.get("/groups");
-    return {
-      data: res.data,
-    };
+    const { data } = await client.get("/groups");
+    return { data: data };
   } catch (err) {
     console.log(err);
   }
