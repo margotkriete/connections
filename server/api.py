@@ -37,12 +37,12 @@ def retrieve_groups():
 def submit_guess():
     guesses = request.args.getlist("guess[]")
     if len(guesses) != GUESS_LENGTH:
-        return {"error": True}
+        return {"correct": False, "error": True, "category": None}
     for group in groups[SEED : SEED + GROUP_LENGTH]:
         ita_items = [items[0] for items in group["items"]]
         if set(guesses) == set(ita_items):
             return {"correct": True, "category": group["category"]}
-    return {"correct": False}
+    return {"correct": False, "category": None}
 
 
 @app.route("/")
